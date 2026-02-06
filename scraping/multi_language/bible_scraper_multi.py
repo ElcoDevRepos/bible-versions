@@ -118,10 +118,16 @@ USER_AGENT = "Mozilla/5.0 (compatible; BibleScraperBot/2.0; Educational purposes
 class BibleScraper:
     """Main scraper class for downloading Bible verses from BibleHub."""
     
-    def __init__(self, output_file: str = "bible_data.json", progress_file: str = "scraper_progress.json"):
-        self.output_file = output_file
-        self.progress_file = progress_file
-        self.data: Dict = {}
+    def __init__(self, lang: str = "es", output_dir: str = "../../versions", progress_file: str = None):
+        # Ensure output directory exists (resolve relative to script location)
+        script_dir = Path(__file__).parent
+        output_path = (script_dir / output_dir / lang).resolve()
+        output_path.mkdir(parents=True, exist_ok=True)
+        
+        self.lang = lang
+        self.output_dir = str(output_path)
+        self.progress_file = progress_file or f"scraper_progress_{lang}.json"
+        self.data: Dict = {}  # translation_name -> book -> chapter -> verse
         self.progress: Dict = {}
         self.session = requests.Session()
         self.session.headers.update({"User-Agent": USER_AGENT})
@@ -137,15 +143,19 @@ class BibleScraper:
                 logger.warning(f"Could not load progress file: {e}")
                 self.progress = {}
         
-        # Load existing data if available
-        if Path(self.output_file).exists():
-            try:
-                with open(self.output_file, 'r', encoding='utf-8') as f:
-                    self.data = json.load(f)
-                logger.info(f"Loaded existing data from {self.output_file}")
-            except Exception as e:
-                logger.warning(f"Could not load output file: {e}")
-                self.data = {}
+        # Load existing data from individual translation files if available
+        output_path = Path(self.output_dir)
+        if output_path.exists():
+            for json_file in output_path.glob("*.json"):
+                try:
+                    with open(json_file, 'r', encoding='utf-8') as f:
+                        translation_data = json.load(f)
+                        # Extract translation name from filename (remove .json extension)
+                        translation_name = json_file.stem
+                        self.data[translation_name] = translation_data
+                    logger.info(f"Loaded existing data from {json_file.name}")
+                except Exception as e:
+                    logger.warning(f"Could not load {json_file}: {e}")
     
     def save_progress(self) -> None:
         """Save current progress to file."""
@@ -156,13 +166,18 @@ class BibleScraper:
             logger.error(f"Could not save progress: {e}")
     
     def save_data(self) -> None:
-        """Save scraped data to JSON file."""
-        try:
-            with open(self.output_file, 'w', encoding='utf-8') as f:
-                json.dump(self.data, f, indent=2, ensure_ascii=False)
-            logger.info(f"Saved data to {self.output_file}")
-        except Exception as e:
-            logger.error(f"Could not save data: {e}")
+        """Save each translation to its own JSON file."""
+        output_path = Path(self.output_dir)
+        for translation_name, translation_data in self.data.items():
+            # Create filename from translation name (e.g., "REINA-VALERA 1960.json")
+            filename = f"{translation_name}.json"
+            file_path = output_path / filename
+            try:
+                with open(file_path, 'w', encoding='utf-8') as f:
+                    json.dump(translation_data, f, indent=2, ensure_ascii=False)
+                logger.debug(f"Saved {translation_name} to {filename}")
+            except Exception as e:
+                logger.error(f"Could not save {filename}: {e}")
     
     def is_verse_completed(self, book: str, chapter: int, verse: int) -> bool:
         """Check if a verse has already been scraped."""
@@ -338,19 +353,18 @@ class BibleScraper:
         
         # Store in data structure organized by translation -> book -> chapter -> verse
         for translation_name, verse_text in translations.items():
-            # Normalize translation name to uppercase code
-            trans_upper = translation_name.upper()
+            # Use translation name as-is (will be used as filename)
             # Remove underscores for saving book title
             book_save = book.replace('_', ' ')
             # Initialize structure
-            if trans_upper not in self.data:
-                self.data[trans_upper] = {}
-            if book_save not in self.data[trans_upper]:
-                self.data[trans_upper][book_save] = {}
-            if str(chapter) not in self.data[trans_upper][book_save]:
-                self.data[trans_upper][book_save][str(chapter)] = {}
+            if translation_name not in self.data:
+                self.data[translation_name] = {}
+            if book_save not in self.data[translation_name]:
+                self.data[translation_name][book_save] = {}
+            if str(chapter) not in self.data[translation_name][book_save]:
+                self.data[translation_name][book_save][str(chapter)] = {}
             # Store verse
-            self.data[trans_upper][book_save][str(chapter)][str(verse)] = verse_text
+            self.data[translation_name][book_save][str(chapter)][str(verse)] = verse_text
         
         # Mark as completed
         self.mark_verse_completed(book, chapter, verse)
@@ -409,12 +423,18 @@ class BibleScraper:
 def main():
     """Main entry point."""
     parser = argparse.ArgumentParser(
-        description='Scrape Bible verses from BibleHub for all translations'
+        description='Scrape Bible verses from BibleHub for multiple language translations'
     )
     parser.add_argument(
-        '--output', '-o',
-        default='bible_data.json',
-        help='Output JSON file (default: bible_data.json)'
+        '--lang', '-l',
+        default='es',
+        choices=['es', 'fr', 'de', 'pt', 'it', 'nl', 'ru', 'zh', 'ja', 'ko', 'ar', 'hi', 'pl', 'tr'],
+        help='Language code (default: es)'
+    )
+    parser.add_argument(
+        '--output-dir', '-o',
+        default='../../versions',
+        help='Output directory for translation JSON files (default: ../../versions, relative to script location)'
     )
     parser.add_argument(
         '--resume', '-r',
@@ -425,7 +445,7 @@ def main():
     args = parser.parse_args()
     
     # Create scraper
-    scraper = BibleScraper(output_file=args.output)
+    scraper = BibleScraper(lang=args.lang, output_dir=args.output_dir)
     
     # Load progress if resuming
     if args.resume:
@@ -434,8 +454,9 @@ def main():
     
     # Start scraping
     try:
+        logger.info(f"Scraping Bible translations for language: {args.lang}")
         scraper.scrape_all()
-        logger.info(f"All data saved to {args.output}")
+        logger.info(f"All data saved to {scraper.output_dir}")
         
     except KeyboardInterrupt:
         logger.info("\nScraping interrupted by user")
