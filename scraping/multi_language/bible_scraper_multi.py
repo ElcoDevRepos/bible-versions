@@ -114,6 +114,53 @@ RETRY_DELAY = 5  # Seconds
 # User agent to identify ourselves
 USER_AGENT = "Mozilla/5.0 (compatible; BibleScraperBot/2.0; Educational purposes)"
 
+# Language code to language name mapping for filtering translations
+# Also includes common translation names that don't explicitly mention the language
+LANGUAGE_NAMES = {
+    'es': ['Spanish', 'Español', 'España', 'Española', 'Reina-Valera', 'Reina Valera', 'NVI', 'Nueva Versión', 'Biblia', 'Versión'],
+    'fr': ['French', 'Français', 'France', 'Darby', 'Segond', 'Bible', 'Version'],
+    'de': ['German', 'Deutsch', 'Germany', 'Luther', 'Elberfelder', 'Schlachter', 'Einheitsübersetzung'],
+    'pt': ['Portuguese', 'Português', 'Portugal', 'Brasil', 'Brazil', 'Almeida', 'NVI', 'Nova Versão'],
+    'it': ['Italian', 'Italiano', 'Italia', 'Diodati', 'CEI', 'Nuova'],
+    'nl': ['Dutch', 'Nederlands', 'Netherlands', 'Statenvertaling', 'NBV', 'Nieuwe'],
+    'ru': ['Russian', 'Русский', 'Russia', 'Синодальный', 'Синодальный перевод'],
+    'zh': ['Chinese', '中文', 'China', '和合本', '新译本'],
+    'ja': ['Japanese', '日本語', 'Japan', '新共同訳', '口語訳'],
+    'ko': ['Korean', '한국어', 'Korea', '개역', '공동번역'],
+    'ar': ['Arabic', 'العربية', 'Arab', 'الكتاب المقدس'],
+    'hi': ['Hindi', 'हिन्दी', 'India', 'बाइबिल'],
+    'pl': ['Polish', 'Polski', 'Poland', 'Biblia', 'Wydanie'],
+    'tr': ['Turkish', 'Türkçe', 'Turkey', 'Kitabı', 'Çevirisi'],
+}
+
+
+def normalize_translation_name(name: str) -> str:
+    """
+    Normalize translation name to match English file naming format.
+    Converts to title case, handling special cases.
+    """
+    if not name:
+        return name
+    
+    # Convert to title case
+    # Handle common abbreviations and special words
+    name = name.title()
+    
+    # Fix common abbreviations that should stay uppercase
+    abbreviations = ['NIV', 'NASB', 'ESV', 'NLT', 'NRSV', 'NET', 'JPS', 'ASV', 'RSV', 'WEB', 'KJV', 'NKJV', 'HCSB', 'CSB', 'LSB', 'MSB']
+    words = name.split()
+    normalized_words = []
+    for word in words:
+        # Remove punctuation for comparison
+        word_clean = word.rstrip('.,;:!?')
+        if word_clean.upper() in abbreviations:
+            # Keep abbreviation uppercase, preserve punctuation
+            normalized_words.append(word_clean.upper() + word[len(word_clean):])
+        else:
+            normalized_words.append(word)
+    
+    return ' '.join(normalized_words)
+
 
 class BibleScraper:
     """Main scraper class for downloading Bible verses from BibleHub."""
@@ -169,7 +216,7 @@ class BibleScraper:
         """Save each translation to its own JSON file."""
         output_path = Path(self.output_dir)
         for translation_name, translation_data in self.data.items():
-            # Create filename from translation name (e.g., "REINA-VALERA 1960.json")
+            # Create filename from translation name (already normalized, e.g., "Reina-Valera 1960.json")
             filename = f"{translation_name}.json"
             file_path = output_path / filename
             try:
@@ -261,11 +308,97 @@ class BibleScraper:
         text = text.strip()
         return text
     
+    def extract_translation_name(self, raw_name: str) -> str:
+        """
+        Extract the translation name from a raw link text that may include
+        book/chapter/verse references and language prefixes.
+        
+        Examples:
+        - "Génesis 9:11 Spanish: Reina Valera 1909" -> "Reina Valera 1909"
+        - "Genesis 9:10 Tagalog: Ang Dating Biblia (1905)" -> "Ang Dating Biblia (1905)"
+        - "Reina Valera 1909" -> "Reina Valera 1909"
+        """
+        import re
+        # Pattern to match book name followed by chapter:verse (e.g., "Génesis 9:11", "Genesis 9:10")
+        # This handles both English and other language book names
+        verse_pattern = r'^[^:]+?\s+\d+:\d+\s*'
+        
+        # Remove book/chapter:verse prefix if present
+        name = re.sub(verse_pattern, '', raw_name)
+        
+        # Remove language prefix if present (e.g., "Spanish:", "Tagalog:", "French:")
+        # Pattern: language name followed by colon and optional space
+        language_prefix_pattern = r'^(?:Spanish|Español|French|Français|German|Deutsch|Portuguese|Português|Italian|Italiano|Dutch|Nederlands|Russian|Русский|Chinese|中文|Japanese|日本語|Korean|한국어|Arabic|العربية|Hindi|हिन्दी|Polish|Polski|Turkish|Türkçe|Tagalog|Finnish|Danish|Swedish|Norwegian|Afrikaans|Albanian|Basque|Bavarian|Armenian|Latvian|Lithuanian|Hungarian|Romanian|Croatian|Czech|Bulgarian|Maori|Swahili|Esperanto|Indonesian|Vietnamese|Thai)\s*:\s*'
+        name = re.sub(language_prefix_pattern, '', name, flags=re.IGNORECASE)
+        
+        return name.strip()
+    
+    def is_translation_for_language(self, translation_name: str) -> bool:
+        """Check if a translation name matches the target language."""
+        if self.lang not in LANGUAGE_NAMES:
+            return True  # If language not in mapping, accept all (fallback)
+        
+        translation_lower = translation_name.lower()
+        language_keywords = [name.lower() for name in LANGUAGE_NAMES[self.lang]]
+        
+        # Explicit language names to exclude (when they appear in other languages)
+        exclude_keywords = {
+            'es': ['french', 'français', 'finnish', 'danish', 'swedish', 'german', 'deutsch', 
+                   'portuguese', 'português', 'italian', 'italiano', 'dutch', 'nederlands',
+                   'russian', 'русский', 'chinese', '中文', 'japanese', '日本語', 
+                   'korean', '한국어', 'arabic', 'العربية', 'hindi', 'हिन्दी',
+                   'polish', 'polski', 'turkish', 'türkçe'],
+            'fr': ['spanish', 'español', 'finnish', 'danish', 'swedish', 'german', 'deutsch',
+                   'portuguese', 'português', 'italian', 'italiano', 'dutch', 'nederlands'],
+            'de': ['spanish', 'español', 'french', 'français', 'finnish', 'danish', 'swedish',
+                   'portuguese', 'português', 'italian', 'italiano', 'dutch', 'nederlands'],
+            'pt': ['spanish', 'español', 'french', 'français', 'finnish', 'danish', 'swedish',
+                   'german', 'deutsch', 'italian', 'italiano', 'dutch', 'nederlands'],
+            'it': ['spanish', 'español', 'french', 'français', 'finnish', 'danish', 'swedish',
+                   'german', 'deutsch', 'portuguese', 'português', 'dutch', 'nederlands'],
+            'nl': ['spanish', 'español', 'french', 'français', 'finnish', 'danish', 'swedish',
+                   'german', 'deutsch', 'portuguese', 'português', 'italian', 'italiano'],
+            'ru': ['spanish', 'español', 'french', 'français', 'finnish', 'danish', 'swedish',
+                   'german', 'deutsch', 'portuguese', 'português', 'italian', 'italiano'],
+            'zh': ['spanish', 'español', 'french', 'français', 'finnish', 'danish', 'swedish',
+                   'german', 'deutsch', 'portuguese', 'português', 'italian', 'italiano'],
+            'ja': ['spanish', 'español', 'french', 'français', 'finnish', 'danish', 'swedish',
+                   'german', 'deutsch', 'portuguese', 'português', 'italian', 'italiano'],
+            'ko': ['spanish', 'español', 'french', 'français', 'finnish', 'danish', 'swedish',
+                   'german', 'deutsch', 'portuguese', 'português', 'italian', 'italiano'],
+            'ar': ['spanish', 'español', 'french', 'français', 'finnish', 'danish', 'swedish',
+                   'german', 'deutsch', 'portuguese', 'português', 'italian', 'italiano'],
+            'hi': ['spanish', 'español', 'french', 'français', 'finnish', 'danish', 'swedish',
+                   'german', 'deutsch', 'portuguese', 'português', 'italian', 'italiano'],
+            'pl': ['spanish', 'español', 'french', 'français', 'finnish', 'danish', 'swedish',
+                   'german', 'deutsch', 'portuguese', 'português', 'italian', 'italiano'],
+            'tr': ['spanish', 'español', 'french', 'français', 'finnish', 'danish', 'swedish',
+                   'german', 'deutsch', 'portuguese', 'português', 'italian', 'italiano'],
+        }
+        
+        # First, check if it explicitly mentions another language (exclude those)
+        import re
+        if self.lang in exclude_keywords:
+            for exclude_keyword in exclude_keywords[self.lang]:
+                # Check for patterns like "French:", "Finnish:", "Danish", etc.
+                pattern = r'\b' + re.escape(exclude_keyword) + r'[\s:]*'
+                if re.search(pattern, translation_lower):
+                    return False
+        
+        # Check if any language keyword appears in the translation name
+        for keyword in language_keywords:
+            if keyword in translation_lower:
+                return True
+        
+        # If no explicit language markers found and no target language keywords,
+        # exclude it to be safe (we only want explicit matches)
+        return False
+    
     def parse_verse_page(self, html_content: str) -> Dict[str, str]:
         """
-        Parse HTML and extract all translation verses from a verse page.
+        Parse HTML and extract translation verses from a verse page for the target language.
         Returns a dictionary mapping translation names to verse text.
-        Systematically extract every translation (including NIV) from <span class='versiontext'> blocks,
+        Systematically extract every translation matching the target language from <span class='versiontext'> blocks,
         collecting all text and inline tags until the next <span class='versiontext'> or a block-level tag.
         """
         # Use the more fault-tolerant html5lib parser so that malformed quote
@@ -279,8 +412,19 @@ class BibleScraper:
             link = version_span.find('a')
             if not link:
                 continue
-            translation_name = link.get_text(strip=True)
+            raw_translation_name = link.get_text(strip=True)
+            if not raw_translation_name:
+                continue
+            
+            # Extract just the translation name, removing book/chapter/verse references
+            # Format can be: "Génesis 9:11 Spanish: Reina Valera 1909" or "Genesis 9:10 Tagalog: Ang Dating Biblia (1905)"
+            # We want to extract just "Reina Valera 1909" or "Ang Dating Biblia (1905)"
+            translation_name = self.extract_translation_name(raw_translation_name)
             if not translation_name:
+                continue
+            
+            # Filter by language - only include translations matching the target language
+            if not self.is_translation_for_language(translation_name):
                 continue
 
             # Collect all text between this <span class='versiontext'> and the next <span class='versiontext'> or block-level tag
@@ -353,18 +497,19 @@ class BibleScraper:
         
         # Store in data structure organized by translation -> book -> chapter -> verse
         for translation_name, verse_text in translations.items():
-            # Use translation name as-is (will be used as filename)
+            # Normalize translation name to match English file naming format
+            normalized_name = normalize_translation_name(translation_name)
             # Remove underscores for saving book title
             book_save = book.replace('_', ' ')
             # Initialize structure
-            if translation_name not in self.data:
-                self.data[translation_name] = {}
-            if book_save not in self.data[translation_name]:
-                self.data[translation_name][book_save] = {}
-            if str(chapter) not in self.data[translation_name][book_save]:
-                self.data[translation_name][book_save][str(chapter)] = {}
+            if normalized_name not in self.data:
+                self.data[normalized_name] = {}
+            if book_save not in self.data[normalized_name]:
+                self.data[normalized_name][book_save] = {}
+            if str(chapter) not in self.data[normalized_name][book_save]:
+                self.data[normalized_name][book_save][str(chapter)] = {}
             # Store verse
-            self.data[translation_name][book_save][str(chapter)][str(verse)] = verse_text
+            self.data[normalized_name][book_save][str(chapter)][str(verse)] = verse_text
         
         # Mark as completed
         self.mark_verse_completed(book, chapter, verse)
