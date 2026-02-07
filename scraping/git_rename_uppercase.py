@@ -48,7 +48,7 @@ def main():
             skipped_count += 1
             continue
         
-        # If already uppercase, skip git mv (no change needed)
+        # If already uppercase, skip (no change needed)
         if filename == new_name:
             print(f"OK: {filename} (already uppercase)")
             renamed_count += 1
@@ -57,20 +57,41 @@ def main():
         # Get relative paths from git root
         rel_old = file_path.relative_to(project_root)
         rel_new = new_path.relative_to(project_root)
+        temp_name = f"temp_{file_path.stem}_{id(file_path)}.json"
+        rel_temp = versions_en_dir.relative_to(project_root) / temp_name
         
         try:
-            # Execute git mv
-            result = subprocess.run(
-                ['git', 'mv', str(rel_old), str(rel_new)],
+            # Two-step rename for case-insensitive filesystems
+            # Step 1: Rename to temporary file
+            result1 = subprocess.run(
+                ['git', 'mv', str(rel_old), str(rel_temp)],
                 cwd=str(project_root),
                 capture_output=True,
                 text=True,
                 check=True
             )
+            
+            # Step 2: Rename from temp to uppercase
+            result2 = subprocess.run(
+                ['git', 'mv', str(rel_temp), str(rel_new)],
+                cwd=str(project_root),
+                capture_output=True,
+                text=True,
+                check=True
+            )
+            
             print(f"RENAMED: {filename} -> {new_name}")
             renamed_count += 1
         except subprocess.CalledProcessError as e:
             print(f"ERROR: Failed to rename {filename}: {e.stderr.strip()}")
+            # Try to clean up temp file if it exists
+            temp_path = project_root / rel_temp
+            if temp_path.exists():
+                try:
+                    subprocess.run(['git', 'mv', str(rel_temp), str(rel_old)], 
+                                 cwd=str(project_root), capture_output=True)
+                except:
+                    pass
             skipped_count += 1
         except Exception as e:
             print(f"ERROR: Exception renaming {filename}: {e}")
