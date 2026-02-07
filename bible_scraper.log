@@ -24422,3 +24422,2248 @@
 2026-02-07 16:56:37,729 - INFO - Saved HTML to cache: html_cache/1_Samuel/31-10.htm
 2026-02-07 16:56:38,197 - INFO - Successfully scraped 34 translations for 1_Samuel 31:10
 2026-02-07 16:56:38,197 - INFO - Scraping: 1_Samuel 31:11
+2026-02-07 16:56:38,262 - INFO - Saved HTML to cache: html_cache/1_Samuel/31-11.htm
+2026-02-07 16:56:38,287 - INFO - Successfully scraped 35 translations for 1_Samuel 31:11
+2026-02-07 16:56:38,287 - INFO - Scraping: 1_Samuel 31:12
+2026-02-07 16:56:38,324 - INFO - Saved HTML to cache: html_cache/1_Samuel/31-12.htm
+2026-02-07 16:56:38,356 - INFO - Successfully scraped 35 translations for 1_Samuel 31:12
+2026-02-07 16:56:38,356 - INFO - Scraping: 1_Samuel 31:13
+2026-02-07 16:56:38,389 - INFO - Saved HTML to cache: html_cache/1_Samuel/31-13.htm
+2026-02-07 16:56:38,412 - INFO - Successfully scraped 35 translations for 1_Samuel 31:13
+2026-02-07 16:56:38,412 - INFO - === Starting book: 2_Samuel (24 chapters) ===
+2026-02-07 16:56:38,412 - INFO -   -> Chapter 1 (27 verses)
+2026-02-07 16:56:38,412 - INFO - Scraping: 2_Samuel 1:1
+2026-02-07 16:56:38,613 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-1.htm
+2026-02-07 16:56:38,641 - INFO - Successfully scraped 35 translations for 2_Samuel 1:1
+2026-02-07 16:56:38,641 - INFO - Scraping: 2_Samuel 1:2
+2026-02-07 16:56:38,679 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-2.htm
+2026-02-07 16:56:38,718 - INFO - Successfully scraped 35 translations for 2_Samuel 1:2
+2026-02-07 16:56:38,718 - INFO - Scraping: 2_Samuel 1:3
+2026-02-07 16:56:38,755 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-3.htm
+2026-02-07 16:56:38,784 - INFO - Successfully scraped 35 translations for 2_Samuel 1:3
+2026-02-07 16:56:38,784 - INFO - Scraping: 2_Samuel 1:4
+2026-02-07 16:56:38,823 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-4.htm
+2026-02-07 16:56:38,855 - INFO - Successfully scraped 35 translations for 2_Samuel 1:4
+2026-02-07 16:56:38,855 - INFO - Scraping: 2_Samuel 1:5
+2026-02-07 16:56:38,891 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-5.htm
+2026-02-07 16:56:38,914 - INFO - Successfully scraped 35 translations for 2_Samuel 1:5
+2026-02-07 16:56:38,914 - INFO - Scraping: 2_Samuel 1:6
+2026-02-07 16:56:38,984 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-6.htm
+2026-02-07 16:56:39,012 - INFO - Successfully scraped 35 translations for 2_Samuel 1:6
+2026-02-07 16:56:39,012 - INFO - Scraping: 2_Samuel 1:7
+2026-02-07 16:56:39,165 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-7.htm
+2026-02-07 16:56:39,679 - INFO - Successfully scraped 35 translations for 2_Samuel 1:7
+2026-02-07 16:56:39,679 - INFO - Scraping: 2_Samuel 1:8
+2026-02-07 16:56:39,713 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-8.htm
+2026-02-07 16:56:39,737 - INFO - Successfully scraped 35 translations for 2_Samuel 1:8
+2026-02-07 16:56:39,737 - INFO - Scraping: 2_Samuel 1:9
+2026-02-07 16:56:39,777 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-9.htm
+2026-02-07 16:56:39,801 - INFO - Successfully scraped 35 translations for 2_Samuel 1:9
+2026-02-07 16:56:39,801 - INFO - Scraping: 2_Samuel 1:10
+2026-02-07 16:56:39,839 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-10.htm
+2026-02-07 16:56:39,876 - INFO - Successfully scraped 35 translations for 2_Samuel 1:10
+2026-02-07 16:56:39,876 - INFO - Scraping: 2_Samuel 1:11
+2026-02-07 16:56:39,913 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-11.htm
+2026-02-07 16:56:39,939 - INFO - Successfully scraped 35 translations for 2_Samuel 1:11
+2026-02-07 16:56:39,939 - INFO - Scraping: 2_Samuel 1:12
+2026-02-07 16:56:39,978 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-12.htm
+2026-02-07 16:56:40,004 - INFO - Successfully scraped 35 translations for 2_Samuel 1:12
+2026-02-07 16:56:40,006 - INFO - Scraping: 2_Samuel 1:13
+2026-02-07 16:56:40,186 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-13.htm
+2026-02-07 16:56:40,216 - INFO - Successfully scraped 35 translations for 2_Samuel 1:13
+2026-02-07 16:56:40,216 - INFO - Scraping: 2_Samuel 1:14
+2026-02-07 16:56:40,253 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-14.htm
+2026-02-07 16:56:40,305 - INFO - Successfully scraped 34 translations for 2_Samuel 1:14
+2026-02-07 16:56:40,305 - INFO - Scraping: 2_Samuel 1:15
+2026-02-07 16:56:40,346 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-15.htm
+2026-02-07 16:56:40,379 - INFO - Successfully scraped 34 translations for 2_Samuel 1:15
+2026-02-07 16:56:40,379 - INFO - Scraping: 2_Samuel 1:16
+2026-02-07 16:56:40,417 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-16.htm
+2026-02-07 16:56:40,449 - INFO - Successfully scraped 34 translations for 2_Samuel 1:16
+2026-02-07 16:56:40,450 - INFO - Scraping: 2_Samuel 1:17
+2026-02-07 16:56:40,487 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-17.htm
+2026-02-07 16:56:40,936 - INFO - Successfully scraped 35 translations for 2_Samuel 1:17
+2026-02-07 16:56:40,936 - INFO - Scraping: 2_Samuel 1:18
+2026-02-07 16:56:40,995 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-18.htm
+2026-02-07 16:56:41,022 - INFO - Successfully scraped 35 translations for 2_Samuel 1:18
+2026-02-07 16:56:41,022 - INFO - Scraping: 2_Samuel 1:19
+2026-02-07 16:56:41,056 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-19.htm
+2026-02-07 16:56:41,081 - INFO - Successfully scraped 35 translations for 2_Samuel 1:19
+2026-02-07 16:56:41,081 - INFO - Scraping: 2_Samuel 1:20
+2026-02-07 16:56:41,294 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-20.htm
+2026-02-07 16:56:41,332 - INFO - Successfully scraped 35 translations for 2_Samuel 1:20
+2026-02-07 16:56:41,332 - INFO - Scraping: 2_Samuel 1:21
+2026-02-07 16:56:41,372 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-21.htm
+2026-02-07 16:56:41,403 - INFO - Successfully scraped 35 translations for 2_Samuel 1:21
+2026-02-07 16:56:41,403 - INFO - Scraping: 2_Samuel 1:22
+2026-02-07 16:56:41,445 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-22.htm
+2026-02-07 16:56:41,470 - INFO - Successfully scraped 35 translations for 2_Samuel 1:22
+2026-02-07 16:56:41,470 - INFO - Scraping: 2_Samuel 1:23
+2026-02-07 16:56:41,515 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-23.htm
+2026-02-07 16:56:41,544 - INFO - Successfully scraped 35 translations for 2_Samuel 1:23
+2026-02-07 16:56:41,544 - INFO - Scraping: 2_Samuel 1:24
+2026-02-07 16:56:41,581 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-24.htm
+2026-02-07 16:56:41,613 - INFO - Successfully scraped 35 translations for 2_Samuel 1:24
+2026-02-07 16:56:41,614 - INFO - Scraping: 2_Samuel 1:25
+2026-02-07 16:56:41,789 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-25.htm
+2026-02-07 16:56:41,838 - INFO - Successfully scraped 35 translations for 2_Samuel 1:25
+2026-02-07 16:56:41,838 - INFO - Scraping: 2_Samuel 1:26
+2026-02-07 16:56:41,888 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-26.htm
+2026-02-07 16:56:41,943 - INFO - Successfully scraped 35 translations for 2_Samuel 1:26
+2026-02-07 16:56:41,943 - INFO - Scraping: 2_Samuel 1:27
+2026-02-07 16:56:41,982 - INFO - Saved HTML to cache: html_cache/2_Samuel/1-27.htm
+2026-02-07 16:56:42,464 - INFO - Successfully scraped 35 translations for 2_Samuel 1:27
+2026-02-07 16:56:42,464 - INFO -   -> Chapter 2 (32 verses)
+2026-02-07 16:56:42,464 - INFO - Scraping: 2_Samuel 2:1
+2026-02-07 16:56:42,531 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-1.htm
+2026-02-07 16:56:42,588 - INFO - Successfully scraped 35 translations for 2_Samuel 2:1
+2026-02-07 16:56:42,588 - INFO - Scraping: 2_Samuel 2:2
+2026-02-07 16:56:42,626 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-2.htm
+2026-02-07 16:56:42,658 - INFO - Successfully scraped 35 translations for 2_Samuel 2:2
+2026-02-07 16:56:42,658 - INFO - Scraping: 2_Samuel 2:3
+2026-02-07 16:56:42,840 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-3.htm
+2026-02-07 16:56:42,867 - INFO - Successfully scraped 35 translations for 2_Samuel 2:3
+2026-02-07 16:56:42,867 - INFO - Scraping: 2_Samuel 2:4
+2026-02-07 16:56:42,915 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-4.htm
+2026-02-07 16:56:42,943 - INFO - Successfully scraped 35 translations for 2_Samuel 2:4
+2026-02-07 16:56:42,943 - INFO - Scraping: 2_Samuel 2:5
+2026-02-07 16:56:42,987 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-5.htm
+2026-02-07 16:56:43,021 - INFO - Successfully scraped 35 translations for 2_Samuel 2:5
+2026-02-07 16:56:43,021 - INFO - Scraping: 2_Samuel 2:6
+2026-02-07 16:56:43,064 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-6.htm
+2026-02-07 16:56:43,092 - INFO - Successfully scraped 35 translations for 2_Samuel 2:6
+2026-02-07 16:56:43,092 - INFO - Scraping: 2_Samuel 2:7
+2026-02-07 16:56:43,131 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-7.htm
+2026-02-07 16:56:43,153 - INFO - Successfully scraped 35 translations for 2_Samuel 2:7
+2026-02-07 16:56:43,153 - INFO - Scraping: 2_Samuel 2:8
+2026-02-07 16:56:43,331 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-8.htm
+2026-02-07 16:56:43,360 - INFO - Successfully scraped 35 translations for 2_Samuel 2:8
+2026-02-07 16:56:43,360 - INFO - Scraping: 2_Samuel 2:9
+2026-02-07 16:56:43,398 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-9.htm
+2026-02-07 16:56:43,429 - INFO - Successfully scraped 35 translations for 2_Samuel 2:9
+2026-02-07 16:56:43,429 - INFO - Scraping: 2_Samuel 2:10
+2026-02-07 16:56:43,468 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-10.htm
+2026-02-07 16:56:43,865 - INFO - Successfully scraped 35 translations for 2_Samuel 2:10
+2026-02-07 16:56:43,865 - INFO - Scraping: 2_Samuel 2:11
+2026-02-07 16:56:43,898 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-11.htm
+2026-02-07 16:56:43,922 - INFO - Successfully scraped 35 translations for 2_Samuel 2:11
+2026-02-07 16:56:43,922 - INFO - Scraping: 2_Samuel 2:12
+2026-02-07 16:56:43,962 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-12.htm
+2026-02-07 16:56:43,985 - INFO - Successfully scraped 35 translations for 2_Samuel 2:12
+2026-02-07 16:56:43,985 - INFO - Scraping: 2_Samuel 2:13
+2026-02-07 16:56:44,022 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-13.htm
+2026-02-07 16:56:44,059 - INFO - Successfully scraped 35 translations for 2_Samuel 2:13
+2026-02-07 16:56:44,059 - INFO - Scraping: 2_Samuel 2:14
+2026-02-07 16:56:44,105 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-14.htm
+2026-02-07 16:56:44,204 - INFO - Successfully scraped 35 translations for 2_Samuel 2:14
+2026-02-07 16:56:44,204 - INFO - Scraping: 2_Samuel 2:15
+2026-02-07 16:56:44,378 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-15.htm
+2026-02-07 16:56:44,402 - INFO - Successfully scraped 35 translations for 2_Samuel 2:15
+2026-02-07 16:56:44,402 - INFO - Scraping: 2_Samuel 2:16
+2026-02-07 16:56:44,438 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-16.htm
+2026-02-07 16:56:44,466 - INFO - Successfully scraped 35 translations for 2_Samuel 2:16
+2026-02-07 16:56:44,466 - INFO - Scraping: 2_Samuel 2:17
+2026-02-07 16:56:44,549 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-17.htm
+2026-02-07 16:56:44,577 - INFO - Successfully scraped 35 translations for 2_Samuel 2:17
+2026-02-07 16:56:44,578 - INFO - Scraping: 2_Samuel 2:18
+2026-02-07 16:56:44,670 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-18.htm
+2026-02-07 16:56:44,699 - INFO - Successfully scraped 35 translations for 2_Samuel 2:18
+2026-02-07 16:56:44,700 - INFO - Scraping: 2_Samuel 2:19
+2026-02-07 16:56:44,910 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-19.htm
+2026-02-07 16:56:44,939 - INFO - Successfully scraped 35 translations for 2_Samuel 2:19
+2026-02-07 16:56:44,939 - INFO - Scraping: 2_Samuel 2:20
+2026-02-07 16:56:45,015 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-20.htm
+2026-02-07 16:56:45,540 - INFO - Successfully scraped 35 translations for 2_Samuel 2:20
+2026-02-07 16:56:45,541 - INFO - Scraping: 2_Samuel 2:21
+2026-02-07 16:56:45,634 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-21.htm
+2026-02-07 16:56:45,670 - INFO - Successfully scraped 35 translations for 2_Samuel 2:21
+2026-02-07 16:56:45,670 - INFO - Scraping: 2_Samuel 2:22
+2026-02-07 16:56:45,952 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-22.htm
+2026-02-07 16:56:45,979 - INFO - Successfully scraped 35 translations for 2_Samuel 2:22
+2026-02-07 16:56:45,979 - INFO - Scraping: 2_Samuel 2:23
+2026-02-07 16:56:46,215 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-23.htm
+2026-02-07 16:56:46,247 - INFO - Successfully scraped 35 translations for 2_Samuel 2:23
+2026-02-07 16:56:46,247 - INFO - Scraping: 2_Samuel 2:24
+2026-02-07 16:56:46,535 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-24.htm
+2026-02-07 16:56:46,567 - INFO - Successfully scraped 35 translations for 2_Samuel 2:24
+2026-02-07 16:56:46,567 - INFO - Scraping: 2_Samuel 2:25
+2026-02-07 16:56:46,630 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-25.htm
+2026-02-07 16:56:46,679 - INFO - Successfully scraped 35 translations for 2_Samuel 2:25
+2026-02-07 16:56:46,680 - INFO - Scraping: 2_Samuel 2:26
+2026-02-07 16:56:46,813 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-26.htm
+2026-02-07 16:56:46,844 - INFO - Successfully scraped 35 translations for 2_Samuel 2:26
+2026-02-07 16:56:46,844 - INFO - Scraping: 2_Samuel 2:27
+2026-02-07 16:56:47,063 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-27.htm
+2026-02-07 16:56:47,087 - INFO - Successfully scraped 35 translations for 2_Samuel 2:27
+2026-02-07 16:56:47,087 - INFO - Scraping: 2_Samuel 2:28
+2026-02-07 16:56:47,157 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-28.htm
+2026-02-07 16:56:47,184 - INFO - Successfully scraped 35 translations for 2_Samuel 2:28
+2026-02-07 16:56:47,184 - INFO - Scraping: 2_Samuel 2:29
+2026-02-07 16:56:47,305 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-29.htm
+2026-02-07 16:56:47,334 - INFO - Successfully scraped 35 translations for 2_Samuel 2:29
+2026-02-07 16:56:47,334 - INFO - Scraping: 2_Samuel 2:30
+2026-02-07 16:56:47,533 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-30.htm
+2026-02-07 16:56:47,957 - INFO - Successfully scraped 35 translations for 2_Samuel 2:30
+2026-02-07 16:56:47,957 - INFO - Scraping: 2_Samuel 2:31
+2026-02-07 16:56:48,312 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-31.htm
+2026-02-07 16:56:48,337 - INFO - Successfully scraped 35 translations for 2_Samuel 2:31
+2026-02-07 16:56:48,337 - INFO - Scraping: 2_Samuel 2:32
+2026-02-07 16:56:48,393 - INFO - Saved HTML to cache: html_cache/2_Samuel/2-32.htm
+2026-02-07 16:56:48,420 - INFO - Successfully scraped 35 translations for 2_Samuel 2:32
+2026-02-07 16:56:48,420 - INFO -   -> Chapter 3 (39 verses)
+2026-02-07 16:56:48,420 - INFO - Scraping: 2_Samuel 3:1
+2026-02-07 16:56:48,622 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-1.htm
+2026-02-07 16:56:48,656 - INFO - Successfully scraped 35 translations for 2_Samuel 3:1
+2026-02-07 16:56:48,656 - INFO - Scraping: 2_Samuel 3:2
+2026-02-07 16:56:48,698 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-2.htm
+2026-02-07 16:56:48,722 - INFO - Successfully scraped 34 translations for 2_Samuel 3:2
+2026-02-07 16:56:48,722 - INFO - Scraping: 2_Samuel 3:3
+2026-02-07 16:56:48,761 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-3.htm
+2026-02-07 16:56:48,790 - INFO - Successfully scraped 34 translations for 2_Samuel 3:3
+2026-02-07 16:56:48,790 - INFO - Scraping: 2_Samuel 3:4
+2026-02-07 16:56:48,826 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-4.htm
+2026-02-07 16:56:48,850 - INFO - Successfully scraped 34 translations for 2_Samuel 3:4
+2026-02-07 16:56:48,850 - INFO - Scraping: 2_Samuel 3:5
+2026-02-07 16:56:48,884 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-5.htm
+2026-02-07 16:56:48,912 - INFO - Successfully scraped 34 translations for 2_Samuel 3:5
+2026-02-07 16:56:48,912 - INFO - Scraping: 2_Samuel 3:6
+2026-02-07 16:56:48,948 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-6.htm
+2026-02-07 16:56:48,973 - INFO - Successfully scraped 35 translations for 2_Samuel 3:6
+2026-02-07 16:56:48,973 - INFO - Scraping: 2_Samuel 3:7
+2026-02-07 16:56:49,131 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-7.htm
+2026-02-07 16:56:49,156 - INFO - Successfully scraped 35 translations for 2_Samuel 3:7
+2026-02-07 16:56:49,156 - INFO - Scraping: 2_Samuel 3:8
+2026-02-07 16:56:49,194 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-8.htm
+2026-02-07 16:56:49,587 - INFO - Successfully scraped 35 translations for 2_Samuel 3:8
+2026-02-07 16:56:49,587 - INFO - Scraping: 2_Samuel 3:9
+2026-02-07 16:56:49,656 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-9.htm
+2026-02-07 16:56:49,686 - INFO - Successfully scraped 34 translations for 2_Samuel 3:9
+2026-02-07 16:56:49,686 - INFO - Scraping: 2_Samuel 3:10
+2026-02-07 16:56:49,724 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-10.htm
+2026-02-07 16:56:49,759 - INFO - Successfully scraped 34 translations for 2_Samuel 3:10
+2026-02-07 16:56:49,759 - INFO - Scraping: 2_Samuel 3:11
+2026-02-07 16:56:49,813 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-11.htm
+2026-02-07 16:56:49,887 - INFO - Successfully scraped 35 translations for 2_Samuel 3:11
+2026-02-07 16:56:49,888 - INFO - Scraping: 2_Samuel 3:12
+2026-02-07 16:56:49,930 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-12.htm
+2026-02-07 16:56:49,962 - INFO - Successfully scraped 35 translations for 2_Samuel 3:12
+2026-02-07 16:56:49,962 - INFO - Scraping: 2_Samuel 3:13
+2026-02-07 16:56:50,146 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-13.htm
+2026-02-07 16:56:50,181 - INFO - Successfully scraped 35 translations for 2_Samuel 3:13
+2026-02-07 16:56:50,181 - INFO - Scraping: 2_Samuel 3:14
+2026-02-07 16:56:50,221 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-14.htm
+2026-02-07 16:56:50,250 - INFO - Successfully scraped 35 translations for 2_Samuel 3:14
+2026-02-07 16:56:50,250 - INFO - Scraping: 2_Samuel 3:15
+2026-02-07 16:56:50,287 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-15.htm
+2026-02-07 16:56:50,309 - INFO - Successfully scraped 35 translations for 2_Samuel 3:15
+2026-02-07 16:56:50,309 - INFO - Scraping: 2_Samuel 3:16
+2026-02-07 16:56:50,345 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-16.htm
+2026-02-07 16:56:50,370 - INFO - Successfully scraped 35 translations for 2_Samuel 3:16
+2026-02-07 16:56:50,370 - INFO - Scraping: 2_Samuel 3:17
+2026-02-07 16:56:50,408 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-17.htm
+2026-02-07 16:56:50,435 - INFO - Successfully scraped 35 translations for 2_Samuel 3:17
+2026-02-07 16:56:50,435 - INFO - Scraping: 2_Samuel 3:18
+2026-02-07 16:56:50,470 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-18.htm
+2026-02-07 16:56:50,866 - INFO - Successfully scraped 35 translations for 2_Samuel 3:18
+2026-02-07 16:56:50,866 - INFO - Progress: 8100/31102 (26.0%)
+2026-02-07 16:56:50,866 - INFO - Scraping: 2_Samuel 3:19
+2026-02-07 16:56:50,902 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-19.htm
+2026-02-07 16:56:50,929 - INFO - Successfully scraped 35 translations for 2_Samuel 3:19
+2026-02-07 16:56:50,929 - INFO - Scraping: 2_Samuel 3:20
+2026-02-07 16:56:50,966 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-20.htm
+2026-02-07 16:56:50,990 - INFO - Successfully scraped 35 translations for 2_Samuel 3:20
+2026-02-07 16:56:50,990 - INFO - Scraping: 2_Samuel 3:21
+2026-02-07 16:56:51,025 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-21.htm
+2026-02-07 16:56:51,064 - INFO - Successfully scraped 35 translations for 2_Samuel 3:21
+2026-02-07 16:56:51,064 - INFO - Scraping: 2_Samuel 3:22
+2026-02-07 16:56:51,227 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-22.htm
+2026-02-07 16:56:51,255 - INFO - Successfully scraped 35 translations for 2_Samuel 3:22
+2026-02-07 16:56:51,255 - INFO - Scraping: 2_Samuel 3:23
+2026-02-07 16:56:51,299 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-23.htm
+2026-02-07 16:56:51,328 - INFO - Successfully scraped 35 translations for 2_Samuel 3:23
+2026-02-07 16:56:51,328 - INFO - Scraping: 2_Samuel 3:24
+2026-02-07 16:56:51,365 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-24.htm
+2026-02-07 16:56:51,393 - INFO - Successfully scraped 35 translations for 2_Samuel 3:24
+2026-02-07 16:56:51,393 - INFO - Scraping: 2_Samuel 3:25
+2026-02-07 16:56:51,433 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-25.htm
+2026-02-07 16:56:51,464 - INFO - Successfully scraped 35 translations for 2_Samuel 3:25
+2026-02-07 16:56:51,465 - INFO - Scraping: 2_Samuel 3:26
+2026-02-07 16:56:51,516 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-26.htm
+2026-02-07 16:56:51,542 - INFO - Successfully scraped 35 translations for 2_Samuel 3:26
+2026-02-07 16:56:51,542 - INFO - Scraping: 2_Samuel 3:27
+2026-02-07 16:56:51,720 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-27.htm
+2026-02-07 16:56:51,762 - INFO - Successfully scraped 35 translations for 2_Samuel 3:27
+2026-02-07 16:56:51,766 - INFO - Scraping: 2_Samuel 3:28
+2026-02-07 16:56:51,807 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-28.htm
+2026-02-07 16:56:52,343 - INFO - Successfully scraped 35 translations for 2_Samuel 3:28
+2026-02-07 16:56:52,343 - INFO - Scraping: 2_Samuel 3:29
+2026-02-07 16:56:52,414 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-29.htm
+2026-02-07 16:56:52,446 - INFO - Successfully scraped 35 translations for 2_Samuel 3:29
+2026-02-07 16:56:52,446 - INFO - Scraping: 2_Samuel 3:30
+2026-02-07 16:56:52,482 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-30.htm
+2026-02-07 16:56:52,507 - INFO - Successfully scraped 35 translations for 2_Samuel 3:30
+2026-02-07 16:56:52,507 - INFO - Scraping: 2_Samuel 3:31
+2026-02-07 16:56:52,546 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-31.htm
+2026-02-07 16:56:52,587 - INFO - Successfully scraped 35 translations for 2_Samuel 3:31
+2026-02-07 16:56:52,587 - INFO - Scraping: 2_Samuel 3:32
+2026-02-07 16:56:52,768 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-32.htm
+2026-02-07 16:56:52,798 - INFO - Successfully scraped 35 translations for 2_Samuel 3:32
+2026-02-07 16:56:52,798 - INFO - Scraping: 2_Samuel 3:33
+2026-02-07 16:56:52,836 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-33.htm
+2026-02-07 16:56:52,862 - INFO - Successfully scraped 35 translations for 2_Samuel 3:33
+2026-02-07 16:56:52,863 - INFO - Scraping: 2_Samuel 3:34
+2026-02-07 16:56:52,909 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-34.htm
+2026-02-07 16:56:52,941 - INFO - Successfully scraped 35 translations for 2_Samuel 3:34
+2026-02-07 16:56:52,941 - INFO - Scraping: 2_Samuel 3:35
+2026-02-07 16:56:52,984 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-35.htm
+2026-02-07 16:56:53,017 - INFO - Successfully scraped 35 translations for 2_Samuel 3:35
+2026-02-07 16:56:53,017 - INFO - Scraping: 2_Samuel 3:36
+2026-02-07 16:56:53,052 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-36.htm
+2026-02-07 16:56:53,080 - INFO - Successfully scraped 35 translations for 2_Samuel 3:36
+2026-02-07 16:56:53,080 - INFO - Scraping: 2_Samuel 3:37
+2026-02-07 16:56:53,117 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-37.htm
+2026-02-07 16:56:53,163 - INFO - Successfully scraped 35 translations for 2_Samuel 3:37
+2026-02-07 16:56:53,164 - INFO - Scraping: 2_Samuel 3:38
+2026-02-07 16:56:53,328 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-38.htm
+2026-02-07 16:56:53,785 - INFO - Successfully scraped 35 translations for 2_Samuel 3:38
+2026-02-07 16:56:53,785 - INFO - Scraping: 2_Samuel 3:39
+2026-02-07 16:56:53,891 - INFO - Saved HTML to cache: html_cache/2_Samuel/3-39.htm
+2026-02-07 16:56:53,946 - INFO - Successfully scraped 35 translations for 2_Samuel 3:39
+2026-02-07 16:56:53,946 - INFO -   -> Chapter 4 (12 verses)
+2026-02-07 16:56:53,946 - INFO - Scraping: 2_Samuel 4:1
+2026-02-07 16:56:53,984 - INFO - Saved HTML to cache: html_cache/2_Samuel/4-1.htm
+2026-02-07 16:56:54,012 - INFO - Successfully scraped 35 translations for 2_Samuel 4:1
+2026-02-07 16:56:54,012 - INFO - Scraping: 2_Samuel 4:2
+2026-02-07 16:56:54,051 - INFO - Saved HTML to cache: html_cache/2_Samuel/4-2.htm
+2026-02-07 16:56:54,083 - INFO - Successfully scraped 35 translations for 2_Samuel 4:2
+2026-02-07 16:56:54,083 - INFO - Scraping: 2_Samuel 4:3
+2026-02-07 16:56:54,120 - INFO - Saved HTML to cache: html_cache/2_Samuel/4-3.htm
+2026-02-07 16:56:54,145 - INFO - Successfully scraped 35 translations for 2_Samuel 4:3
+2026-02-07 16:56:54,145 - INFO - Scraping: 2_Samuel 4:4
+2026-02-07 16:56:54,186 - INFO - Saved HTML to cache: html_cache/2_Samuel/4-4.htm
+2026-02-07 16:56:54,219 - INFO - Successfully scraped 35 translations for 2_Samuel 4:4
+2026-02-07 16:56:54,219 - INFO - Scraping: 2_Samuel 4:5
+2026-02-07 16:56:54,373 - INFO - Saved HTML to cache: html_cache/2_Samuel/4-5.htm
+2026-02-07 16:56:54,405 - INFO - Successfully scraped 35 translations for 2_Samuel 4:5
+2026-02-07 16:56:54,405 - INFO - Scraping: 2_Samuel 4:6
+2026-02-07 16:56:54,446 - INFO - Saved HTML to cache: html_cache/2_Samuel/4-6.htm
+2026-02-07 16:56:54,472 - INFO - Successfully scraped 34 translations for 2_Samuel 4:6
+2026-02-07 16:56:54,472 - INFO - Scraping: 2_Samuel 4:7
+2026-02-07 16:56:54,511 - INFO - Saved HTML to cache: html_cache/2_Samuel/4-7.htm
+2026-02-07 16:56:54,543 - INFO - Successfully scraped 34 translations for 2_Samuel 4:7
+2026-02-07 16:56:54,543 - INFO - Scraping: 2_Samuel 4:8
+2026-02-07 16:56:54,587 - INFO - Saved HTML to cache: html_cache/2_Samuel/4-8.htm
+2026-02-07 16:56:54,619 - INFO - Successfully scraped 35 translations for 2_Samuel 4:8
+2026-02-07 16:56:54,619 - INFO - Scraping: 2_Samuel 4:9
+2026-02-07 16:56:54,660 - INFO - Saved HTML to cache: html_cache/2_Samuel/4-9.htm
+2026-02-07 16:56:55,197 - INFO - Successfully scraped 35 translations for 2_Samuel 4:9
+2026-02-07 16:56:55,197 - INFO - Scraping: 2_Samuel 4:10
+2026-02-07 16:56:55,388 - INFO - Saved HTML to cache: html_cache/2_Samuel/4-10.htm
+2026-02-07 16:56:55,448 - INFO - Successfully scraped 35 translations for 2_Samuel 4:10
+2026-02-07 16:56:55,456 - INFO - Scraping: 2_Samuel 4:11
+2026-02-07 16:56:55,506 - INFO - Saved HTML to cache: html_cache/2_Samuel/4-11.htm
+2026-02-07 16:56:55,550 - INFO - Successfully scraped 35 translations for 2_Samuel 4:11
+2026-02-07 16:56:55,550 - INFO - Scraping: 2_Samuel 4:12
+2026-02-07 16:56:55,596 - INFO - Saved HTML to cache: html_cache/2_Samuel/4-12.htm
+2026-02-07 16:56:55,633 - INFO - Successfully scraped 35 translations for 2_Samuel 4:12
+2026-02-07 16:56:55,633 - INFO -   -> Chapter 5 (25 verses)
+2026-02-07 16:56:55,633 - INFO - Scraping: 2_Samuel 5:1
+2026-02-07 16:56:55,677 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-1.htm
+2026-02-07 16:56:55,718 - INFO - Successfully scraped 35 translations for 2_Samuel 5:1
+2026-02-07 16:56:55,719 - INFO - Scraping: 2_Samuel 5:2
+2026-02-07 16:56:55,763 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-2.htm
+2026-02-07 16:56:55,796 - INFO - Successfully scraped 35 translations for 2_Samuel 5:2
+2026-02-07 16:56:55,796 - INFO - Scraping: 2_Samuel 5:3
+2026-02-07 16:56:55,952 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-3.htm
+2026-02-07 16:56:55,982 - INFO - Successfully scraped 35 translations for 2_Samuel 5:3
+2026-02-07 16:56:55,982 - INFO - Scraping: 2_Samuel 5:4
+2026-02-07 16:56:56,022 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-4.htm
+2026-02-07 16:56:56,044 - INFO - Successfully scraped 35 translations for 2_Samuel 5:4
+2026-02-07 16:56:56,044 - INFO - Scraping: 2_Samuel 5:5
+2026-02-07 16:56:56,084 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-5.htm
+2026-02-07 16:56:56,114 - INFO - Successfully scraped 35 translations for 2_Samuel 5:5
+2026-02-07 16:56:56,114 - INFO - Scraping: 2_Samuel 5:6
+2026-02-07 16:56:56,183 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-6.htm
+2026-02-07 16:56:56,220 - INFO - Successfully scraped 35 translations for 2_Samuel 5:6
+2026-02-07 16:56:56,220 - INFO - Scraping: 2_Samuel 5:7
+2026-02-07 16:56:56,260 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-7.htm
+2026-02-07 16:56:56,732 - INFO - Successfully scraped 34 translations for 2_Samuel 5:7
+2026-02-07 16:56:56,732 - INFO - Scraping: 2_Samuel 5:8
+2026-02-07 16:56:56,802 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-8.htm
+2026-02-07 16:56:56,844 - INFO - Successfully scraped 34 translations for 2_Samuel 5:8
+2026-02-07 16:56:56,844 - INFO - Scraping: 2_Samuel 5:9
+2026-02-07 16:56:56,998 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-9.htm
+2026-02-07 16:56:57,051 - INFO - Successfully scraped 34 translations for 2_Samuel 5:9
+2026-02-07 16:56:57,051 - INFO - Scraping: 2_Samuel 5:10
+2026-02-07 16:56:57,089 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-10.htm
+2026-02-07 16:56:57,112 - INFO - Successfully scraped 35 translations for 2_Samuel 5:10
+2026-02-07 16:56:57,112 - INFO - Scraping: 2_Samuel 5:11
+2026-02-07 16:56:57,177 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-11.htm
+2026-02-07 16:56:57,204 - INFO - Successfully scraped 35 translations for 2_Samuel 5:11
+2026-02-07 16:56:57,204 - INFO - Scraping: 2_Samuel 5:12
+2026-02-07 16:56:57,240 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-12.htm
+2026-02-07 16:56:57,273 - INFO - Successfully scraped 35 translations for 2_Samuel 5:12
+2026-02-07 16:56:57,273 - INFO - Scraping: 2_Samuel 5:13
+2026-02-07 16:56:57,312 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-13.htm
+2026-02-07 16:56:57,339 - INFO - Successfully scraped 35 translations for 2_Samuel 5:13
+2026-02-07 16:56:57,339 - INFO - Scraping: 2_Samuel 5:14
+2026-02-07 16:56:57,518 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-14.htm
+2026-02-07 16:56:57,542 - INFO - Successfully scraped 35 translations for 2_Samuel 5:14
+2026-02-07 16:56:57,542 - INFO - Scraping: 2_Samuel 5:15
+2026-02-07 16:56:57,578 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-15.htm
+2026-02-07 16:56:57,598 - INFO - Successfully scraped 35 translations for 2_Samuel 5:15
+2026-02-07 16:56:57,598 - INFO - Scraping: 2_Samuel 5:16
+2026-02-07 16:56:57,634 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-16.htm
+2026-02-07 16:56:57,655 - INFO - Successfully scraped 35 translations for 2_Samuel 5:16
+2026-02-07 16:56:57,655 - INFO - Scraping: 2_Samuel 5:17
+2026-02-07 16:56:57,695 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-17.htm
+2026-02-07 16:56:58,118 - INFO - Successfully scraped 35 translations for 2_Samuel 5:17
+2026-02-07 16:56:58,118 - INFO - Scraping: 2_Samuel 5:18
+2026-02-07 16:56:58,157 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-18.htm
+2026-02-07 16:56:58,181 - INFO - Successfully scraped 35 translations for 2_Samuel 5:18
+2026-02-07 16:56:58,181 - INFO - Scraping: 2_Samuel 5:19
+2026-02-07 16:56:58,216 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-19.htm
+2026-02-07 16:56:58,247 - INFO - Successfully scraped 35 translations for 2_Samuel 5:19
+2026-02-07 16:56:58,247 - INFO - Scraping: 2_Samuel 5:20
+2026-02-07 16:56:58,284 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-20.htm
+2026-02-07 16:56:58,314 - INFO - Successfully scraped 35 translations for 2_Samuel 5:20
+2026-02-07 16:56:58,314 - INFO - Scraping: 2_Samuel 5:21
+2026-02-07 16:56:58,351 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-21.htm
+2026-02-07 16:56:58,376 - INFO - Successfully scraped 35 translations for 2_Samuel 5:21
+2026-02-07 16:56:58,376 - INFO - Scraping: 2_Samuel 5:22
+2026-02-07 16:56:58,536 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-22.htm
+2026-02-07 16:56:58,559 - INFO - Successfully scraped 35 translations for 2_Samuel 5:22
+2026-02-07 16:56:58,560 - INFO - Scraping: 2_Samuel 5:23
+2026-02-07 16:56:58,596 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-23.htm
+2026-02-07 16:56:58,622 - INFO - Successfully scraped 35 translations for 2_Samuel 5:23
+2026-02-07 16:56:58,622 - INFO - Scraping: 2_Samuel 5:24
+2026-02-07 16:56:58,660 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-24.htm
+2026-02-07 16:56:58,687 - INFO - Successfully scraped 35 translations for 2_Samuel 5:24
+2026-02-07 16:56:58,687 - INFO - Scraping: 2_Samuel 5:25
+2026-02-07 16:56:58,723 - INFO - Saved HTML to cache: html_cache/2_Samuel/5-25.htm
+2026-02-07 16:56:58,752 - INFO - Successfully scraped 35 translations for 2_Samuel 5:25
+2026-02-07 16:56:58,752 - INFO -   -> Chapter 6 (23 verses)
+2026-02-07 16:56:58,752 - INFO - Scraping: 2_Samuel 6:1
+2026-02-07 16:56:58,792 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-1.htm
+2026-02-07 16:56:58,814 - INFO - Successfully scraped 35 translations for 2_Samuel 6:1
+2026-02-07 16:56:58,815 - INFO - Scraping: 2_Samuel 6:2
+2026-02-07 16:56:58,856 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-2.htm
+2026-02-07 16:56:59,265 - INFO - Successfully scraped 35 translations for 2_Samuel 6:2
+2026-02-07 16:56:59,265 - INFO - Scraping: 2_Samuel 6:3
+2026-02-07 16:56:59,331 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-3.htm
+2026-02-07 16:56:59,359 - INFO - Successfully scraped 35 translations for 2_Samuel 6:3
+2026-02-07 16:56:59,360 - INFO - Scraping: 2_Samuel 6:4
+2026-02-07 16:56:59,396 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-4.htm
+2026-02-07 16:56:59,469 - INFO - Successfully scraped 35 translations for 2_Samuel 6:4
+2026-02-07 16:56:59,469 - INFO - Scraping: 2_Samuel 6:5
+2026-02-07 16:56:59,618 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-5.htm
+2026-02-07 16:56:59,645 - INFO - Successfully scraped 35 translations for 2_Samuel 6:5
+2026-02-07 16:56:59,645 - INFO - Scraping: 2_Samuel 6:6
+2026-02-07 16:56:59,687 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-6.htm
+2026-02-07 16:56:59,713 - INFO - Successfully scraped 35 translations for 2_Samuel 6:6
+2026-02-07 16:56:59,713 - INFO - Scraping: 2_Samuel 6:7
+2026-02-07 16:56:59,749 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-7.htm
+2026-02-07 16:56:59,775 - INFO - Successfully scraped 35 translations for 2_Samuel 6:7
+2026-02-07 16:56:59,775 - INFO - Scraping: 2_Samuel 6:8
+2026-02-07 16:56:59,815 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-8.htm
+2026-02-07 16:56:59,842 - INFO - Successfully scraped 35 translations for 2_Samuel 6:8
+2026-02-07 16:56:59,842 - INFO - Scraping: 2_Samuel 6:9
+2026-02-07 16:56:59,884 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-9.htm
+2026-02-07 16:56:59,907 - INFO - Successfully scraped 35 translations for 2_Samuel 6:9
+2026-02-07 16:56:59,907 - INFO - Scraping: 2_Samuel 6:10
+2026-02-07 16:56:59,945 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-10.htm
+2026-02-07 16:56:59,970 - INFO - Successfully scraped 35 translations for 2_Samuel 6:10
+2026-02-07 16:56:59,970 - INFO - Scraping: 2_Samuel 6:11
+2026-02-07 16:57:00,142 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-11.htm
+2026-02-07 16:57:00,166 - INFO - Successfully scraped 34 translations for 2_Samuel 6:11
+2026-02-07 16:57:00,166 - INFO - Scraping: 2_Samuel 6:12
+2026-02-07 16:57:00,204 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-12.htm
+2026-02-07 16:57:00,597 - INFO - Successfully scraped 34 translations for 2_Samuel 6:12
+2026-02-07 16:57:00,597 - INFO - Scraping: 2_Samuel 6:13
+2026-02-07 16:57:00,700 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-13.htm
+2026-02-07 16:57:00,723 - INFO - Successfully scraped 35 translations for 2_Samuel 6:13
+2026-02-07 16:57:00,723 - INFO - Scraping: 2_Samuel 6:14
+2026-02-07 16:57:00,766 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-14.htm
+2026-02-07 16:57:00,792 - INFO - Successfully scraped 35 translations for 2_Samuel 6:14
+2026-02-07 16:57:00,793 - INFO - Scraping: 2_Samuel 6:15
+2026-02-07 16:57:00,829 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-15.htm
+2026-02-07 16:57:00,852 - INFO - Successfully scraped 35 translations for 2_Samuel 6:15
+2026-02-07 16:57:00,852 - INFO - Scraping: 2_Samuel 6:16
+2026-02-07 16:57:00,894 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-16.htm
+2026-02-07 16:57:00,925 - INFO - Successfully scraped 35 translations for 2_Samuel 6:16
+2026-02-07 16:57:00,925 - INFO - Scraping: 2_Samuel 6:17
+2026-02-07 16:57:00,964 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-17.htm
+2026-02-07 16:57:00,990 - INFO - Successfully scraped 35 translations for 2_Samuel 6:17
+2026-02-07 16:57:00,990 - INFO - Scraping: 2_Samuel 6:18
+2026-02-07 16:57:01,156 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-18.htm
+2026-02-07 16:57:01,181 - INFO - Successfully scraped 35 translations for 2_Samuel 6:18
+2026-02-07 16:57:01,181 - INFO - Scraping: 2_Samuel 6:19
+2026-02-07 16:57:01,216 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-19.htm
+2026-02-07 16:57:01,245 - INFO - Successfully scraped 35 translations for 2_Samuel 6:19
+2026-02-07 16:57:01,245 - INFO - Scraping: 2_Samuel 6:20
+2026-02-07 16:57:01,308 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-20.htm
+2026-02-07 16:57:01,346 - INFO - Successfully scraped 35 translations for 2_Samuel 6:20
+2026-02-07 16:57:01,346 - INFO - Scraping: 2_Samuel 6:21
+2026-02-07 16:57:01,384 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-21.htm
+2026-02-07 16:57:01,415 - INFO - Successfully scraped 35 translations for 2_Samuel 6:21
+2026-02-07 16:57:01,417 - INFO - Scraping: 2_Samuel 6:22
+2026-02-07 16:57:01,453 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-22.htm
+2026-02-07 16:57:01,857 - INFO - Successfully scraped 35 translations for 2_Samuel 6:22
+2026-02-07 16:57:01,857 - INFO - Scraping: 2_Samuel 6:23
+2026-02-07 16:57:01,894 - INFO - Saved HTML to cache: html_cache/2_Samuel/6-23.htm
+2026-02-07 16:57:01,919 - INFO - Successfully scraped 35 translations for 2_Samuel 6:23
+2026-02-07 16:57:01,919 - INFO -   -> Chapter 7 (29 verses)
+2026-02-07 16:57:01,919 - INFO - Scraping: 2_Samuel 7:1
+2026-02-07 16:57:02,240 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-1.htm
+2026-02-07 16:57:02,263 - INFO - Successfully scraped 35 translations for 2_Samuel 7:1
+2026-02-07 16:57:02,263 - INFO - Scraping: 2_Samuel 7:2
+2026-02-07 16:57:02,301 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-2.htm
+2026-02-07 16:57:02,329 - INFO - Successfully scraped 35 translations for 2_Samuel 7:2
+2026-02-07 16:57:02,329 - INFO - Scraping: 2_Samuel 7:3
+2026-02-07 16:57:02,365 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-3.htm
+2026-02-07 16:57:02,388 - INFO - Successfully scraped 35 translations for 2_Samuel 7:3
+2026-02-07 16:57:02,388 - INFO - Scraping: 2_Samuel 7:4
+2026-02-07 16:57:02,425 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-4.htm
+2026-02-07 16:57:02,445 - INFO - Successfully scraped 35 translations for 2_Samuel 7:4
+2026-02-07 16:57:02,445 - INFO - Scraping: 2_Samuel 7:5
+2026-02-07 16:57:02,484 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-5.htm
+2026-02-07 16:57:02,512 - INFO - Successfully scraped 35 translations for 2_Samuel 7:5
+2026-02-07 16:57:02,512 - INFO - Scraping: 2_Samuel 7:6
+2026-02-07 16:57:02,550 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-6.htm
+2026-02-07 16:57:02,577 - INFO - Successfully scraped 35 translations for 2_Samuel 7:6
+2026-02-07 16:57:02,577 - INFO - Scraping: 2_Samuel 7:7
+2026-02-07 16:57:02,760 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-7.htm
+2026-02-07 16:57:02,788 - INFO - Successfully scraped 35 translations for 2_Samuel 7:7
+2026-02-07 16:57:02,788 - INFO - Scraping: 2_Samuel 7:8
+2026-02-07 16:57:02,824 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-8.htm
+2026-02-07 16:57:02,855 - INFO - Successfully scraped 35 translations for 2_Samuel 7:8
+2026-02-07 16:57:02,855 - INFO - Scraping: 2_Samuel 7:9
+2026-02-07 16:57:02,890 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-9.htm
+2026-02-07 16:57:03,302 - INFO - Successfully scraped 35 translations for 2_Samuel 7:9
+2026-02-07 16:57:03,302 - INFO - Scraping: 2_Samuel 7:10
+2026-02-07 16:57:03,365 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-10.htm
+2026-02-07 16:57:03,396 - INFO - Successfully scraped 34 translations for 2_Samuel 7:10
+2026-02-07 16:57:03,396 - INFO - Scraping: 2_Samuel 7:11
+2026-02-07 16:57:03,433 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-11.htm
+2026-02-07 16:57:03,462 - INFO - Successfully scraped 34 translations for 2_Samuel 7:11
+2026-02-07 16:57:03,462 - INFO - Scraping: 2_Samuel 7:12
+2026-02-07 16:57:03,496 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-12.htm
+2026-02-07 16:57:03,527 - INFO - Successfully scraped 35 translations for 2_Samuel 7:12
+2026-02-07 16:57:03,527 - INFO - Scraping: 2_Samuel 7:13
+2026-02-07 16:57:03,566 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-13.htm
+2026-02-07 16:57:03,589 - INFO - Successfully scraped 35 translations for 2_Samuel 7:13
+2026-02-07 16:57:03,590 - INFO - Scraping: 2_Samuel 7:14
+2026-02-07 16:57:03,624 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-14.htm
+2026-02-07 16:57:03,651 - INFO - Successfully scraped 35 translations for 2_Samuel 7:14
+2026-02-07 16:57:03,651 - INFO - Scraping: 2_Samuel 7:15
+2026-02-07 16:57:03,812 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-15.htm
+2026-02-07 16:57:03,836 - INFO - Successfully scraped 35 translations for 2_Samuel 7:15
+2026-02-07 16:57:03,836 - INFO - Scraping: 2_Samuel 7:16
+2026-02-07 16:57:03,874 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-16.htm
+2026-02-07 16:57:03,901 - INFO - Successfully scraped 35 translations for 2_Samuel 7:16
+2026-02-07 16:57:03,901 - INFO - Scraping: 2_Samuel 7:17
+2026-02-07 16:57:03,939 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-17.htm
+2026-02-07 16:57:03,962 - INFO - Successfully scraped 35 translations for 2_Samuel 7:17
+2026-02-07 16:57:03,962 - INFO - Scraping: 2_Samuel 7:18
+2026-02-07 16:57:03,999 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-18.htm
+2026-02-07 16:57:04,026 - INFO - Successfully scraped 35 translations for 2_Samuel 7:18
+2026-02-07 16:57:04,026 - INFO - Scraping: 2_Samuel 7:19
+2026-02-07 16:57:04,063 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-19.htm
+2026-02-07 16:57:04,456 - INFO - Successfully scraped 35 translations for 2_Samuel 7:19
+2026-02-07 16:57:04,456 - INFO - Progress: 8200/31102 (26.4%)
+2026-02-07 16:57:04,456 - INFO - Scraping: 2_Samuel 7:20
+2026-02-07 16:57:04,493 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-20.htm
+2026-02-07 16:57:04,519 - INFO - Successfully scraped 35 translations for 2_Samuel 7:20
+2026-02-07 16:57:04,519 - INFO - Scraping: 2_Samuel 7:21
+2026-02-07 16:57:04,565 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-21.htm
+2026-02-07 16:57:04,588 - INFO - Successfully scraped 35 translations for 2_Samuel 7:21
+2026-02-07 16:57:04,588 - INFO - Scraping: 2_Samuel 7:22
+2026-02-07 16:57:04,623 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-22.htm
+2026-02-07 16:57:04,648 - INFO - Successfully scraped 35 translations for 2_Samuel 7:22
+2026-02-07 16:57:04,648 - INFO - Scraping: 2_Samuel 7:23
+2026-02-07 16:57:04,828 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-23.htm
+2026-02-07 16:57:04,864 - INFO - Successfully scraped 35 translations for 2_Samuel 7:23
+2026-02-07 16:57:04,864 - INFO - Scraping: 2_Samuel 7:24
+2026-02-07 16:57:04,901 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-24.htm
+2026-02-07 16:57:04,952 - INFO - Successfully scraped 35 translations for 2_Samuel 7:24
+2026-02-07 16:57:04,952 - INFO - Scraping: 2_Samuel 7:25
+2026-02-07 16:57:04,988 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-25.htm
+2026-02-07 16:57:05,013 - INFO - Successfully scraped 35 translations for 2_Samuel 7:25
+2026-02-07 16:57:05,013 - INFO - Scraping: 2_Samuel 7:26
+2026-02-07 16:57:05,046 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-26.htm
+2026-02-07 16:57:05,075 - INFO - Successfully scraped 35 translations for 2_Samuel 7:26
+2026-02-07 16:57:05,095 - INFO - Scraping: 2_Samuel 7:27
+2026-02-07 16:57:05,136 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-27.htm
+2026-02-07 16:57:05,167 - INFO - Successfully scraped 35 translations for 2_Samuel 7:27
+2026-02-07 16:57:05,167 - INFO - Scraping: 2_Samuel 7:28
+2026-02-07 16:57:05,202 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-28.htm
+2026-02-07 16:57:05,230 - INFO - Successfully scraped 35 translations for 2_Samuel 7:28
+2026-02-07 16:57:05,230 - INFO - Scraping: 2_Samuel 7:29
+2026-02-07 16:57:05,387 - INFO - Saved HTML to cache: html_cache/2_Samuel/7-29.htm
+2026-02-07 16:57:05,802 - INFO - Successfully scraped 35 translations for 2_Samuel 7:29
+2026-02-07 16:57:05,802 - INFO -   -> Chapter 8 (18 verses)
+2026-02-07 16:57:05,802 - INFO - Scraping: 2_Samuel 8:1
+2026-02-07 16:57:05,935 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-1.htm
+2026-02-07 16:57:05,963 - INFO - Successfully scraped 35 translations for 2_Samuel 8:1
+2026-02-07 16:57:05,963 - INFO - Scraping: 2_Samuel 8:2
+2026-02-07 16:57:06,007 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-2.htm
+2026-02-07 16:57:06,039 - INFO - Successfully scraped 35 translations for 2_Samuel 8:2
+2026-02-07 16:57:06,039 - INFO - Scraping: 2_Samuel 8:3
+2026-02-07 16:57:06,073 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-3.htm
+2026-02-07 16:57:06,106 - INFO - Successfully scraped 35 translations for 2_Samuel 8:3
+2026-02-07 16:57:06,106 - INFO - Scraping: 2_Samuel 8:4
+2026-02-07 16:57:06,145 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-4.htm
+2026-02-07 16:57:06,172 - INFO - Successfully scraped 35 translations for 2_Samuel 8:4
+2026-02-07 16:57:06,172 - INFO - Scraping: 2_Samuel 8:5
+2026-02-07 16:57:06,209 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-5.htm
+2026-02-07 16:57:06,233 - INFO - Successfully scraped 35 translations for 2_Samuel 8:5
+2026-02-07 16:57:06,233 - INFO - Scraping: 2_Samuel 8:6
+2026-02-07 16:57:06,400 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-6.htm
+2026-02-07 16:57:06,428 - INFO - Successfully scraped 35 translations for 2_Samuel 8:6
+2026-02-07 16:57:06,429 - INFO - Scraping: 2_Samuel 8:7
+2026-02-07 16:57:06,465 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-7.htm
+2026-02-07 16:57:06,492 - INFO - Successfully scraped 35 translations for 2_Samuel 8:7
+2026-02-07 16:57:06,492 - INFO - Scraping: 2_Samuel 8:8
+2026-02-07 16:57:06,528 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-8.htm
+2026-02-07 16:57:06,551 - INFO - Successfully scraped 35 translations for 2_Samuel 8:8
+2026-02-07 16:57:06,551 - INFO - Scraping: 2_Samuel 8:9
+2026-02-07 16:57:06,585 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-9.htm
+2026-02-07 16:57:06,609 - INFO - Successfully scraped 34 translations for 2_Samuel 8:9
+2026-02-07 16:57:06,609 - INFO - Scraping: 2_Samuel 8:10
+2026-02-07 16:57:06,647 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-10.htm
+2026-02-07 16:57:07,112 - INFO - Successfully scraped 34 translations for 2_Samuel 8:10
+2026-02-07 16:57:07,112 - INFO - Scraping: 2_Samuel 8:11
+2026-02-07 16:57:07,185 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-11.htm
+2026-02-07 16:57:07,227 - INFO - Successfully scraped 35 translations for 2_Samuel 8:11
+2026-02-07 16:57:07,228 - INFO - Scraping: 2_Samuel 8:12
+2026-02-07 16:57:07,266 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-12.htm
+2026-02-07 16:57:07,293 - INFO - Successfully scraped 35 translations for 2_Samuel 8:12
+2026-02-07 16:57:07,293 - INFO - Scraping: 2_Samuel 8:13
+2026-02-07 16:57:07,450 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-13.htm
+2026-02-07 16:57:07,474 - INFO - Successfully scraped 35 translations for 2_Samuel 8:13
+2026-02-07 16:57:07,474 - INFO - Scraping: 2_Samuel 8:14
+2026-02-07 16:57:07,508 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-14.htm
+2026-02-07 16:57:07,535 - INFO - Successfully scraped 35 translations for 2_Samuel 8:14
+2026-02-07 16:57:07,535 - INFO - Scraping: 2_Samuel 8:15
+2026-02-07 16:57:07,579 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-15.htm
+2026-02-07 16:57:07,605 - INFO - Successfully scraped 35 translations for 2_Samuel 8:15
+2026-02-07 16:57:07,605 - INFO - Scraping: 2_Samuel 8:16
+2026-02-07 16:57:07,641 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-16.htm
+2026-02-07 16:57:07,664 - INFO - Successfully scraped 35 translations for 2_Samuel 8:16
+2026-02-07 16:57:07,664 - INFO - Scraping: 2_Samuel 8:17
+2026-02-07 16:57:07,700 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-17.htm
+2026-02-07 16:57:07,724 - INFO - Successfully scraped 35 translations for 2_Samuel 8:17
+2026-02-07 16:57:07,724 - INFO - Scraping: 2_Samuel 8:18
+2026-02-07 16:57:07,762 - INFO - Saved HTML to cache: html_cache/2_Samuel/8-18.htm
+2026-02-07 16:57:07,786 - INFO - Successfully scraped 35 translations for 2_Samuel 8:18
+2026-02-07 16:57:07,786 - INFO -   -> Chapter 9 (13 verses)
+2026-02-07 16:57:07,786 - INFO - Scraping: 2_Samuel 9:1
+2026-02-07 16:57:07,975 - INFO - Saved HTML to cache: html_cache/2_Samuel/9-1.htm
+2026-02-07 16:57:08,002 - INFO - Successfully scraped 35 translations for 2_Samuel 9:1
+2026-02-07 16:57:08,002 - INFO - Scraping: 2_Samuel 9:2
+2026-02-07 16:57:08,037 - INFO - Saved HTML to cache: html_cache/2_Samuel/9-2.htm
+2026-02-07 16:57:08,431 - INFO - Successfully scraped 35 translations for 2_Samuel 9:2
+2026-02-07 16:57:08,431 - INFO - Scraping: 2_Samuel 9:3
+2026-02-07 16:57:08,587 - INFO - Saved HTML to cache: html_cache/2_Samuel/9-3.htm
+2026-02-07 16:57:08,640 - INFO - Successfully scraped 35 translations for 2_Samuel 9:3
+2026-02-07 16:57:08,640 - INFO - Scraping: 2_Samuel 9:4
+2026-02-07 16:57:08,678 - INFO - Saved HTML to cache: html_cache/2_Samuel/9-4.htm
+2026-02-07 16:57:08,713 - INFO - Successfully scraped 35 translations for 2_Samuel 9:4
+2026-02-07 16:57:08,714 - INFO - Scraping: 2_Samuel 9:5
+2026-02-07 16:57:08,761 - INFO - Saved HTML to cache: html_cache/2_Samuel/9-5.htm
+2026-02-07 16:57:08,786 - INFO - Successfully scraped 34 translations for 2_Samuel 9:5
+2026-02-07 16:57:08,786 - INFO - Scraping: 2_Samuel 9:6
+2026-02-07 16:57:08,823 - INFO - Saved HTML to cache: html_cache/2_Samuel/9-6.htm
+2026-02-07 16:57:08,851 - INFO - Successfully scraped 34 translations for 2_Samuel 9:6
+2026-02-07 16:57:08,851 - INFO - Scraping: 2_Samuel 9:7
+2026-02-07 16:57:09,024 - INFO - Saved HTML to cache: html_cache/2_Samuel/9-7.htm
+2026-02-07 16:57:09,057 - INFO - Successfully scraped 35 translations for 2_Samuel 9:7
+2026-02-07 16:57:09,057 - INFO - Scraping: 2_Samuel 9:8
+2026-02-07 16:57:09,094 - INFO - Saved HTML to cache: html_cache/2_Samuel/9-8.htm
+2026-02-07 16:57:09,118 - INFO - Successfully scraped 35 translations for 2_Samuel 9:8
+2026-02-07 16:57:09,118 - INFO - Scraping: 2_Samuel 9:9
+2026-02-07 16:57:09,159 - INFO - Saved HTML to cache: html_cache/2_Samuel/9-9.htm
+2026-02-07 16:57:09,190 - INFO - Successfully scraped 35 translations for 2_Samuel 9:9
+2026-02-07 16:57:09,190 - INFO - Scraping: 2_Samuel 9:10
+2026-02-07 16:57:09,231 - INFO - Saved HTML to cache: html_cache/2_Samuel/9-10.htm
+2026-02-07 16:57:09,263 - INFO - Successfully scraped 35 translations for 2_Samuel 9:10
+2026-02-07 16:57:09,263 - INFO - Scraping: 2_Samuel 9:11
+2026-02-07 16:57:09,300 - INFO - Saved HTML to cache: html_cache/2_Samuel/9-11.htm
+2026-02-07 16:57:09,328 - INFO - Successfully scraped 34 translations for 2_Samuel 9:11
+2026-02-07 16:57:09,328 - INFO - Scraping: 2_Samuel 9:12
+2026-02-07 16:57:09,365 - INFO - Saved HTML to cache: html_cache/2_Samuel/9-12.htm
+2026-02-07 16:57:09,761 - INFO - Successfully scraped 34 translations for 2_Samuel 9:12
+2026-02-07 16:57:09,761 - INFO - Scraping: 2_Samuel 9:13
+2026-02-07 16:57:09,801 - INFO - Saved HTML to cache: html_cache/2_Samuel/9-13.htm
+2026-02-07 16:57:09,911 - INFO - Successfully scraped 34 translations for 2_Samuel 9:13
+2026-02-07 16:57:09,911 - INFO -   -> Chapter 10 (19 verses)
+2026-02-07 16:57:09,911 - INFO - Scraping: 2_Samuel 10:1
+2026-02-07 16:57:10,074 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-1.htm
+2026-02-07 16:57:10,098 - INFO - Successfully scraped 35 translations for 2_Samuel 10:1
+2026-02-07 16:57:10,098 - INFO - Scraping: 2_Samuel 10:2
+2026-02-07 16:57:10,142 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-2.htm
+2026-02-07 16:57:10,172 - INFO - Successfully scraped 35 translations for 2_Samuel 10:2
+2026-02-07 16:57:10,172 - INFO - Scraping: 2_Samuel 10:3
+2026-02-07 16:57:10,211 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-3.htm
+2026-02-07 16:57:10,247 - INFO - Successfully scraped 35 translations for 2_Samuel 10:3
+2026-02-07 16:57:10,247 - INFO - Scraping: 2_Samuel 10:4
+2026-02-07 16:57:10,300 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-4.htm
+2026-02-07 16:57:10,332 - INFO - Successfully scraped 35 translations for 2_Samuel 10:4
+2026-02-07 16:57:10,332 - INFO - Scraping: 2_Samuel 10:5
+2026-02-07 16:57:10,369 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-5.htm
+2026-02-07 16:57:10,398 - INFO - Successfully scraped 35 translations for 2_Samuel 10:5
+2026-02-07 16:57:10,398 - INFO - Scraping: 2_Samuel 10:6
+2026-02-07 16:57:10,434 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-6.htm
+2026-02-07 16:57:10,464 - INFO - Successfully scraped 35 translations for 2_Samuel 10:6
+2026-02-07 16:57:10,464 - INFO - Scraping: 2_Samuel 10:7
+2026-02-07 16:57:10,624 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-7.htm
+2026-02-07 16:57:10,648 - INFO - Successfully scraped 35 translations for 2_Samuel 10:7
+2026-02-07 16:57:10,648 - INFO - Scraping: 2_Samuel 10:8
+2026-02-07 16:57:10,685 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-8.htm
+2026-02-07 16:57:10,737 - INFO - Successfully scraped 35 translations for 2_Samuel 10:8
+2026-02-07 16:57:10,737 - INFO - Scraping: 2_Samuel 10:9
+2026-02-07 16:57:10,773 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-9.htm
+2026-02-07 16:57:11,183 - INFO - Successfully scraped 35 translations for 2_Samuel 10:9
+2026-02-07 16:57:11,183 - INFO - Scraping: 2_Samuel 10:10
+2026-02-07 16:57:11,223 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-10.htm
+2026-02-07 16:57:11,246 - INFO - Successfully scraped 35 translations for 2_Samuel 10:10
+2026-02-07 16:57:11,246 - INFO - Scraping: 2_Samuel 10:11
+2026-02-07 16:57:11,282 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-11.htm
+2026-02-07 16:57:11,307 - INFO - Successfully scraped 35 translations for 2_Samuel 10:11
+2026-02-07 16:57:11,307 - INFO - Scraping: 2_Samuel 10:12
+2026-02-07 16:57:11,346 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-12.htm
+2026-02-07 16:57:11,383 - INFO - Successfully scraped 35 translations for 2_Samuel 10:12
+2026-02-07 16:57:11,383 - INFO - Scraping: 2_Samuel 10:13
+2026-02-07 16:57:11,433 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-13.htm
+2026-02-07 16:57:11,537 - INFO - Successfully scraped 35 translations for 2_Samuel 10:13
+2026-02-07 16:57:11,538 - INFO - Scraping: 2_Samuel 10:14
+2026-02-07 16:57:11,703 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-14.htm
+2026-02-07 16:57:11,731 - INFO - Successfully scraped 35 translations for 2_Samuel 10:14
+2026-02-07 16:57:11,731 - INFO - Scraping: 2_Samuel 10:15
+2026-02-07 16:57:11,767 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-15.htm
+2026-02-07 16:57:11,790 - INFO - Successfully scraped 35 translations for 2_Samuel 10:15
+2026-02-07 16:57:11,790 - INFO - Scraping: 2_Samuel 10:16
+2026-02-07 16:57:11,828 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-16.htm
+2026-02-07 16:57:11,859 - INFO - Successfully scraped 35 translations for 2_Samuel 10:16
+2026-02-07 16:57:11,859 - INFO - Scraping: 2_Samuel 10:17
+2026-02-07 16:57:11,896 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-17.htm
+2026-02-07 16:57:11,925 - INFO - Successfully scraped 35 translations for 2_Samuel 10:17
+2026-02-07 16:57:11,925 - INFO - Scraping: 2_Samuel 10:18
+2026-02-07 16:57:11,962 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-18.htm
+2026-02-07 16:57:11,990 - INFO - Successfully scraped 35 translations for 2_Samuel 10:18
+2026-02-07 16:57:11,990 - INFO - Scraping: 2_Samuel 10:19
+2026-02-07 16:57:12,166 - INFO - Saved HTML to cache: html_cache/2_Samuel/10-19.htm
+2026-02-07 16:57:12,596 - INFO - Successfully scraped 35 translations for 2_Samuel 10:19
+2026-02-07 16:57:12,596 - INFO -   -> Chapter 11 (27 verses)
+2026-02-07 16:57:12,596 - INFO - Scraping: 2_Samuel 11:1
+2026-02-07 16:57:12,755 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-1.htm
+2026-02-07 16:57:12,787 - INFO - Successfully scraped 35 translations for 2_Samuel 11:1
+2026-02-07 16:57:12,787 - INFO - Scraping: 2_Samuel 11:2
+2026-02-07 16:57:12,851 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-2.htm
+2026-02-07 16:57:12,880 - INFO - Successfully scraped 34 translations for 2_Samuel 11:2
+2026-02-07 16:57:12,880 - INFO - Scraping: 2_Samuel 11:3
+2026-02-07 16:57:12,947 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-3.htm
+2026-02-07 16:57:12,975 - INFO - Successfully scraped 34 translations for 2_Samuel 11:3
+2026-02-07 16:57:12,975 - INFO - Scraping: 2_Samuel 11:4
+2026-02-07 16:57:13,041 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-4.htm
+2026-02-07 16:57:13,099 - INFO - Successfully scraped 34 translations for 2_Samuel 11:4
+2026-02-07 16:57:13,099 - INFO - Scraping: 2_Samuel 11:5
+2026-02-07 16:57:13,251 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-5.htm
+2026-02-07 16:57:13,279 - INFO - Successfully scraped 35 translations for 2_Samuel 11:5
+2026-02-07 16:57:13,279 - INFO - Scraping: 2_Samuel 11:6
+2026-02-07 16:57:13,319 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-6.htm
+2026-02-07 16:57:13,353 - INFO - Successfully scraped 35 translations for 2_Samuel 11:6
+2026-02-07 16:57:13,353 - INFO - Scraping: 2_Samuel 11:7
+2026-02-07 16:57:13,390 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-7.htm
+2026-02-07 16:57:13,413 - INFO - Successfully scraped 35 translations for 2_Samuel 11:7
+2026-02-07 16:57:13,413 - INFO - Scraping: 2_Samuel 11:8
+2026-02-07 16:57:13,479 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-8.htm
+2026-02-07 16:57:13,507 - INFO - Successfully scraped 35 translations for 2_Samuel 11:8
+2026-02-07 16:57:13,507 - INFO - Scraping: 2_Samuel 11:9
+2026-02-07 16:57:13,543 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-9.htm
+2026-02-07 16:57:13,570 - INFO - Successfully scraped 35 translations for 2_Samuel 11:9
+2026-02-07 16:57:13,570 - INFO - Scraping: 2_Samuel 11:10
+2026-02-07 16:57:13,742 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-10.htm
+2026-02-07 16:57:14,158 - INFO - Successfully scraped 35 translations for 2_Samuel 11:10
+2026-02-07 16:57:14,158 - INFO - Scraping: 2_Samuel 11:11
+2026-02-07 16:57:14,332 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-11.htm
+2026-02-07 16:57:14,378 - INFO - Successfully scraped 35 translations for 2_Samuel 11:11
+2026-02-07 16:57:14,378 - INFO - Scraping: 2_Samuel 11:12
+2026-02-07 16:57:14,442 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-12.htm
+2026-02-07 16:57:14,476 - INFO - Successfully scraped 35 translations for 2_Samuel 11:12
+2026-02-07 16:57:14,476 - INFO - Scraping: 2_Samuel 11:13
+2026-02-07 16:57:14,550 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-13.htm
+2026-02-07 16:57:14,688 - INFO - Successfully scraped 35 translations for 2_Samuel 11:13
+2026-02-07 16:57:14,688 - INFO - Scraping: 2_Samuel 11:14
+2026-02-07 16:57:14,852 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-14.htm
+2026-02-07 16:57:14,880 - INFO - Successfully scraped 35 translations for 2_Samuel 11:14
+2026-02-07 16:57:14,880 - INFO - Scraping: 2_Samuel 11:15
+2026-02-07 16:57:14,948 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-15.htm
+2026-02-07 16:57:14,975 - INFO - Successfully scraped 35 translations for 2_Samuel 11:15
+2026-02-07 16:57:14,977 - INFO - Scraping: 2_Samuel 11:16
+2026-02-07 16:57:15,317 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-16.htm
+2026-02-07 16:57:15,343 - INFO - Successfully scraped 35 translations for 2_Samuel 11:16
+2026-02-07 16:57:15,343 - INFO - Scraping: 2_Samuel 11:17
+2026-02-07 16:57:15,420 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-17.htm
+2026-02-07 16:57:15,448 - INFO - Successfully scraped 35 translations for 2_Samuel 11:17
+2026-02-07 16:57:15,448 - INFO - Scraping: 2_Samuel 11:18
+2026-02-07 16:57:15,484 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-18.htm
+2026-02-07 16:57:15,505 - INFO - Successfully scraped 35 translations for 2_Samuel 11:18
+2026-02-07 16:57:15,505 - INFO - Scraping: 2_Samuel 11:19
+2026-02-07 16:57:15,545 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-19.htm
+2026-02-07 16:57:15,566 - INFO - Successfully scraped 35 translations for 2_Samuel 11:19
+2026-02-07 16:57:15,567 - INFO - Scraping: 2_Samuel 11:20
+2026-02-07 16:57:15,631 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-20.htm
+2026-02-07 16:57:16,112 - INFO - Successfully scraped 35 translations for 2_Samuel 11:20
+2026-02-07 16:57:16,112 - INFO - Scraping: 2_Samuel 11:21
+2026-02-07 16:57:16,181 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-21.htm
+2026-02-07 16:57:16,217 - INFO - Successfully scraped 35 translations for 2_Samuel 11:21
+2026-02-07 16:57:16,217 - INFO - Scraping: 2_Samuel 11:22
+2026-02-07 16:57:16,397 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-22.htm
+2026-02-07 16:57:16,426 - INFO - Successfully scraped 35 translations for 2_Samuel 11:22
+2026-02-07 16:57:16,426 - INFO - Scraping: 2_Samuel 11:23
+2026-02-07 16:57:16,565 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-23.htm
+2026-02-07 16:57:16,590 - INFO - Successfully scraped 35 translations for 2_Samuel 11:23
+2026-02-07 16:57:16,590 - INFO - Scraping: 2_Samuel 11:24
+2026-02-07 16:57:16,630 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-24.htm
+2026-02-07 16:57:16,655 - INFO - Successfully scraped 35 translations for 2_Samuel 11:24
+2026-02-07 16:57:16,655 - INFO - Scraping: 2_Samuel 11:25
+2026-02-07 16:57:16,692 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-25.htm
+2026-02-07 16:57:16,728 - INFO - Successfully scraped 35 translations for 2_Samuel 11:25
+2026-02-07 16:57:16,728 - INFO - Scraping: 2_Samuel 11:26
+2026-02-07 16:57:16,885 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-26.htm
+2026-02-07 16:57:16,908 - INFO - Successfully scraped 35 translations for 2_Samuel 11:26
+2026-02-07 16:57:16,908 - INFO - Scraping: 2_Samuel 11:27
+2026-02-07 16:57:16,949 - INFO - Saved HTML to cache: html_cache/2_Samuel/11-27.htm
+2026-02-07 16:57:17,028 - INFO - Successfully scraped 35 translations for 2_Samuel 11:27
+2026-02-07 16:57:17,037 - INFO -   -> Chapter 12 (31 verses)
+2026-02-07 16:57:17,038 - INFO - Scraping: 2_Samuel 12:1
+2026-02-07 16:57:17,101 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-1.htm
+2026-02-07 16:57:17,141 - INFO - Successfully scraped 35 translations for 2_Samuel 12:1
+2026-02-07 16:57:17,142 - INFO - Scraping: 2_Samuel 12:2
+2026-02-07 16:57:17,179 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-2.htm
+2026-02-07 16:57:17,206 - INFO - Successfully scraped 35 translations for 2_Samuel 12:2
+2026-02-07 16:57:17,206 - INFO - Scraping: 2_Samuel 12:3
+2026-02-07 16:57:17,245 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-3.htm
+2026-02-07 16:57:17,648 - INFO - Successfully scraped 35 translations for 2_Samuel 12:3
+2026-02-07 16:57:17,648 - INFO - Scraping: 2_Samuel 12:4
+2026-02-07 16:57:17,715 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-4.htm
+2026-02-07 16:57:17,748 - INFO - Successfully scraped 35 translations for 2_Samuel 12:4
+2026-02-07 16:57:17,748 - INFO - Scraping: 2_Samuel 12:5
+2026-02-07 16:57:17,935 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-5.htm
+2026-02-07 16:57:17,961 - INFO - Successfully scraped 35 translations for 2_Samuel 12:5
+2026-02-07 16:57:17,961 - INFO - Scraping: 2_Samuel 12:6
+2026-02-07 16:57:17,997 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-6.htm
+2026-02-07 16:57:18,045 - INFO - Successfully scraped 35 translations for 2_Samuel 12:6
+2026-02-07 16:57:18,045 - INFO - Scraping: 2_Samuel 12:7
+2026-02-07 16:57:18,083 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-7.htm
+2026-02-07 16:57:18,114 - INFO - Successfully scraped 35 translations for 2_Samuel 12:7
+2026-02-07 16:57:18,114 - INFO - Scraping: 2_Samuel 12:8
+2026-02-07 16:57:18,154 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-8.htm
+2026-02-07 16:57:18,182 - INFO - Successfully scraped 35 translations for 2_Samuel 12:8
+2026-02-07 16:57:18,182 - INFO - Scraping: 2_Samuel 12:9
+2026-02-07 16:57:18,222 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-9.htm
+2026-02-07 16:57:18,256 - INFO - Successfully scraped 35 translations for 2_Samuel 12:9
+2026-02-07 16:57:18,256 - INFO - Scraping: 2_Samuel 12:10
+2026-02-07 16:57:18,295 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-10.htm
+2026-02-07 16:57:18,330 - INFO - Successfully scraped 35 translations for 2_Samuel 12:10
+2026-02-07 16:57:18,330 - INFO - Scraping: 2_Samuel 12:11
+2026-02-07 16:57:18,494 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-11.htm
+2026-02-07 16:57:18,521 - INFO - Successfully scraped 35 translations for 2_Samuel 12:11
+2026-02-07 16:57:18,521 - INFO - Scraping: 2_Samuel 12:12
+2026-02-07 16:57:18,557 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-12.htm
+2026-02-07 16:57:18,581 - INFO - Successfully scraped 35 translations for 2_Samuel 12:12
+2026-02-07 16:57:18,581 - INFO - Scraping: 2_Samuel 12:13
+2026-02-07 16:57:18,618 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-13.htm
+2026-02-07 16:57:19,039 - INFO - Successfully scraped 34 translations for 2_Samuel 12:13
+2026-02-07 16:57:19,039 - INFO - Progress: 8300/31102 (26.7%)
+2026-02-07 16:57:19,039 - INFO - Scraping: 2_Samuel 12:14
+2026-02-07 16:57:19,083 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-14.htm
+2026-02-07 16:57:19,117 - INFO - Successfully scraped 34 translations for 2_Samuel 12:14
+2026-02-07 16:57:19,117 - INFO - Scraping: 2_Samuel 12:15
+2026-02-07 16:57:19,157 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-15.htm
+2026-02-07 16:57:19,184 - INFO - Successfully scraped 35 translations for 2_Samuel 12:15
+2026-02-07 16:57:19,184 - INFO - Scraping: 2_Samuel 12:16
+2026-02-07 16:57:19,222 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-16.htm
+2026-02-07 16:57:19,296 - INFO - Successfully scraped 35 translations for 2_Samuel 12:16
+2026-02-07 16:57:19,296 - INFO - Scraping: 2_Samuel 12:17
+2026-02-07 16:57:19,336 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-17.htm
+2026-02-07 16:57:19,360 - INFO - Successfully scraped 35 translations for 2_Samuel 12:17
+2026-02-07 16:57:19,360 - INFO - Scraping: 2_Samuel 12:18
+2026-02-07 16:57:19,539 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-18.htm
+2026-02-07 16:57:19,588 - INFO - Successfully scraped 35 translations for 2_Samuel 12:18
+2026-02-07 16:57:19,588 - INFO - Scraping: 2_Samuel 12:19
+2026-02-07 16:57:19,627 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-19.htm
+2026-02-07 16:57:19,661 - INFO - Successfully scraped 35 translations for 2_Samuel 12:19
+2026-02-07 16:57:19,662 - INFO - Scraping: 2_Samuel 12:20
+2026-02-07 16:57:19,700 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-20.htm
+2026-02-07 16:57:19,731 - INFO - Successfully scraped 35 translations for 2_Samuel 12:20
+2026-02-07 16:57:19,731 - INFO - Scraping: 2_Samuel 12:21
+2026-02-07 16:57:19,768 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-21.htm
+2026-02-07 16:57:19,794 - INFO - Successfully scraped 35 translations for 2_Samuel 12:21
+2026-02-07 16:57:19,794 - INFO - Scraping: 2_Samuel 12:22
+2026-02-07 16:57:19,832 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-22.htm
+2026-02-07 16:57:19,864 - INFO - Successfully scraped 35 translations for 2_Samuel 12:22
+2026-02-07 16:57:19,864 - INFO - Scraping: 2_Samuel 12:23
+2026-02-07 16:57:20,032 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-23.htm
+2026-02-07 16:57:20,449 - INFO - Successfully scraped 35 translations for 2_Samuel 12:23
+2026-02-07 16:57:20,449 - INFO - Scraping: 2_Samuel 12:24
+2026-02-07 16:57:20,617 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-24.htm
+2026-02-07 16:57:20,647 - INFO - Successfully scraped 35 translations for 2_Samuel 12:24
+2026-02-07 16:57:20,647 - INFO - Scraping: 2_Samuel 12:25
+2026-02-07 16:57:20,683 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-25.htm
+2026-02-07 16:57:20,706 - INFO - Successfully scraped 35 translations for 2_Samuel 12:25
+2026-02-07 16:57:20,706 - INFO - Scraping: 2_Samuel 12:26
+2026-02-07 16:57:20,745 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-26.htm
+2026-02-07 16:57:20,772 - INFO - Successfully scraped 35 translations for 2_Samuel 12:26
+2026-02-07 16:57:20,772 - INFO - Scraping: 2_Samuel 12:27
+2026-02-07 16:57:20,813 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-27.htm
+2026-02-07 16:57:20,838 - INFO - Successfully scraped 35 translations for 2_Samuel 12:27
+2026-02-07 16:57:20,838 - INFO - Scraping: 2_Samuel 12:28
+2026-02-07 16:57:20,879 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-28.htm
+2026-02-07 16:57:20,907 - INFO - Successfully scraped 35 translations for 2_Samuel 12:28
+2026-02-07 16:57:20,907 - INFO - Scraping: 2_Samuel 12:29
+2026-02-07 16:57:21,081 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-29.htm
+2026-02-07 16:57:21,115 - INFO - Successfully scraped 35 translations for 2_Samuel 12:29
+2026-02-07 16:57:21,115 - INFO - Scraping: 2_Samuel 12:30
+2026-02-07 16:57:21,154 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-30.htm
+2026-02-07 16:57:21,201 - INFO - Successfully scraped 35 translations for 2_Samuel 12:30
+2026-02-07 16:57:21,201 - INFO - Scraping: 2_Samuel 12:31
+2026-02-07 16:57:21,240 - INFO - Saved HTML to cache: html_cache/2_Samuel/12-31.htm
+2026-02-07 16:57:21,269 - INFO - Successfully scraped 35 translations for 2_Samuel 12:31
+2026-02-07 16:57:21,269 - INFO -   -> Chapter 13 (39 verses)
+2026-02-07 16:57:21,269 - INFO - Scraping: 2_Samuel 13:1
+2026-02-07 16:57:21,306 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-1.htm
+2026-02-07 16:57:21,333 - INFO - Successfully scraped 35 translations for 2_Samuel 13:1
+2026-02-07 16:57:21,333 - INFO - Scraping: 2_Samuel 13:2
+2026-02-07 16:57:21,370 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-2.htm
+2026-02-07 16:57:21,784 - INFO - Successfully scraped 35 translations for 2_Samuel 13:2
+2026-02-07 16:57:21,784 - INFO - Scraping: 2_Samuel 13:3
+2026-02-07 16:57:21,849 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-3.htm
+2026-02-07 16:57:21,878 - INFO - Successfully scraped 35 translations for 2_Samuel 13:3
+2026-02-07 16:57:21,878 - INFO - Scraping: 2_Samuel 13:4
+2026-02-07 16:57:21,920 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-4.htm
+2026-02-07 16:57:21,950 - INFO - Successfully scraped 35 translations for 2_Samuel 13:4
+2026-02-07 16:57:21,950 - INFO - Scraping: 2_Samuel 13:5
+2026-02-07 16:57:22,129 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-5.htm
+2026-02-07 16:57:22,165 - INFO - Successfully scraped 35 translations for 2_Samuel 13:5
+2026-02-07 16:57:22,165 - INFO - Scraping: 2_Samuel 13:6
+2026-02-07 16:57:22,208 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-6.htm
+2026-02-07 16:57:22,327 - INFO - Successfully scraped 35 translations for 2_Samuel 13:6
+2026-02-07 16:57:22,327 - INFO - Scraping: 2_Samuel 13:7
+2026-02-07 16:57:22,372 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-7.htm
+2026-02-07 16:57:22,417 - INFO - Successfully scraped 35 translations for 2_Samuel 13:7
+2026-02-07 16:57:22,417 - INFO - Scraping: 2_Samuel 13:8
+2026-02-07 16:57:22,456 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-8.htm
+2026-02-07 16:57:22,512 - INFO - Successfully scraped 35 translations for 2_Samuel 13:8
+2026-02-07 16:57:22,512 - INFO - Scraping: 2_Samuel 13:9
+2026-02-07 16:57:22,710 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-9.htm
+2026-02-07 16:57:22,820 - INFO - Successfully scraped 35 translations for 2_Samuel 13:9
+2026-02-07 16:57:22,821 - INFO - Scraping: 2_Samuel 13:10
+2026-02-07 16:57:22,868 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-10.htm
+2026-02-07 16:57:22,921 - INFO - Successfully scraped 35 translations for 2_Samuel 13:10
+2026-02-07 16:57:22,921 - INFO - Scraping: 2_Samuel 13:11
+2026-02-07 16:57:22,984 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-11.htm
+2026-02-07 16:57:23,014 - INFO - Successfully scraped 35 translations for 2_Samuel 13:11
+2026-02-07 16:57:23,014 - INFO - Scraping: 2_Samuel 13:12
+2026-02-07 16:57:23,180 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-12.htm
+2026-02-07 16:57:23,672 - INFO - Successfully scraped 35 translations for 2_Samuel 13:12
+2026-02-07 16:57:23,672 - INFO - Scraping: 2_Samuel 13:13
+2026-02-07 16:57:23,767 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-13.htm
+2026-02-07 16:57:23,798 - INFO - Successfully scraped 35 translations for 2_Samuel 13:13
+2026-02-07 16:57:23,798 - INFO - Scraping: 2_Samuel 13:14
+2026-02-07 16:57:23,838 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-14.htm
+2026-02-07 16:57:23,862 - INFO - Successfully scraped 35 translations for 2_Samuel 13:14
+2026-02-07 16:57:23,862 - INFO - Scraping: 2_Samuel 13:15
+2026-02-07 16:57:23,900 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-15.htm
+2026-02-07 16:57:24,008 - INFO - Successfully scraped 35 translations for 2_Samuel 13:15
+2026-02-07 16:57:24,008 - INFO - Scraping: 2_Samuel 13:16
+2026-02-07 16:57:24,049 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-16.htm
+2026-02-07 16:57:24,078 - INFO - Successfully scraped 35 translations for 2_Samuel 13:16
+2026-02-07 16:57:24,079 - INFO - Scraping: 2_Samuel 13:17
+2026-02-07 16:57:24,257 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-17.htm
+2026-02-07 16:57:24,283 - INFO - Successfully scraped 35 translations for 2_Samuel 13:17
+2026-02-07 16:57:24,283 - INFO - Scraping: 2_Samuel 13:18
+2026-02-07 16:57:24,323 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-18.htm
+2026-02-07 16:57:24,365 - INFO - Successfully scraped 35 translations for 2_Samuel 13:18
+2026-02-07 16:57:24,365 - INFO - Scraping: 2_Samuel 13:19
+2026-02-07 16:57:24,404 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-19.htm
+2026-02-07 16:57:24,468 - INFO - Successfully scraped 35 translations for 2_Samuel 13:19
+2026-02-07 16:57:24,468 - INFO - Scraping: 2_Samuel 13:20
+2026-02-07 16:57:24,538 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-20.htm
+2026-02-07 16:57:24,580 - INFO - Successfully scraped 35 translations for 2_Samuel 13:20
+2026-02-07 16:57:24,581 - INFO - Scraping: 2_Samuel 13:21
+2026-02-07 16:57:24,752 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-21.htm
+2026-02-07 16:57:24,785 - INFO - Successfully scraped 35 translations for 2_Samuel 13:21
+2026-02-07 16:57:24,785 - INFO - Scraping: 2_Samuel 13:22
+2026-02-07 16:57:24,819 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-22.htm
+2026-02-07 16:57:25,262 - INFO - Successfully scraped 35 translations for 2_Samuel 13:22
+2026-02-07 16:57:25,262 - INFO - Scraping: 2_Samuel 13:23
+2026-02-07 16:57:25,340 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-23.htm
+2026-02-07 16:57:25,372 - INFO - Successfully scraped 35 translations for 2_Samuel 13:23
+2026-02-07 16:57:25,372 - INFO - Scraping: 2_Samuel 13:24
+2026-02-07 16:57:25,411 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-24.htm
+2026-02-07 16:57:25,452 - INFO - Successfully scraped 35 translations for 2_Samuel 13:24
+2026-02-07 16:57:25,452 - INFO - Scraping: 2_Samuel 13:25
+2026-02-07 16:57:25,491 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-25.htm
+2026-02-07 16:57:25,519 - INFO - Successfully scraped 35 translations for 2_Samuel 13:25
+2026-02-07 16:57:25,519 - INFO - Scraping: 2_Samuel 13:26
+2026-02-07 16:57:25,554 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-26.htm
+2026-02-07 16:57:25,580 - INFO - Successfully scraped 35 translations for 2_Samuel 13:26
+2026-02-07 16:57:25,580 - INFO - Scraping: 2_Samuel 13:27
+2026-02-07 16:57:25,618 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-27.htm
+2026-02-07 16:57:25,646 - INFO - Successfully scraped 35 translations for 2_Samuel 13:27
+2026-02-07 16:57:25,646 - INFO - Scraping: 2_Samuel 13:28
+2026-02-07 16:57:25,866 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-28.htm
+2026-02-07 16:57:25,900 - INFO - Successfully scraped 35 translations for 2_Samuel 13:28
+2026-02-07 16:57:25,901 - INFO - Scraping: 2_Samuel 13:29
+2026-02-07 16:57:25,942 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-29.htm
+2026-02-07 16:57:25,972 - INFO - Successfully scraped 35 translations for 2_Samuel 13:29
+2026-02-07 16:57:25,972 - INFO - Scraping: 2_Samuel 13:30
+2026-02-07 16:57:26,012 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-30.htm
+2026-02-07 16:57:26,045 - INFO - Successfully scraped 35 translations for 2_Samuel 13:30
+2026-02-07 16:57:26,045 - INFO - Scraping: 2_Samuel 13:31
+2026-02-07 16:57:26,083 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-31.htm
+2026-02-07 16:57:26,112 - INFO - Successfully scraped 35 translations for 2_Samuel 13:31
+2026-02-07 16:57:26,112 - INFO - Scraping: 2_Samuel 13:32
+2026-02-07 16:57:26,321 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-32.htm
+2026-02-07 16:57:26,749 - INFO - Successfully scraped 35 translations for 2_Samuel 13:32
+2026-02-07 16:57:26,749 - INFO - Scraping: 2_Samuel 13:33
+2026-02-07 16:57:26,905 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-33.htm
+2026-02-07 16:57:26,938 - INFO - Successfully scraped 35 translations for 2_Samuel 13:33
+2026-02-07 16:57:26,939 - INFO - Scraping: 2_Samuel 13:34
+2026-02-07 16:57:26,978 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-34.htm
+2026-02-07 16:57:27,006 - INFO - Successfully scraped 35 translations for 2_Samuel 13:34
+2026-02-07 16:57:27,006 - INFO - Scraping: 2_Samuel 13:35
+2026-02-07 16:57:27,043 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-35.htm
+2026-02-07 16:57:27,073 - INFO - Successfully scraped 35 translations for 2_Samuel 13:35
+2026-02-07 16:57:27,073 - INFO - Scraping: 2_Samuel 13:36
+2026-02-07 16:57:27,116 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-36.htm
+2026-02-07 16:57:27,151 - INFO - Successfully scraped 35 translations for 2_Samuel 13:36
+2026-02-07 16:57:27,151 - INFO - Scraping: 2_Samuel 13:37
+2026-02-07 16:57:27,187 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-37.htm
+2026-02-07 16:57:27,212 - INFO - Successfully scraped 33 translations for 2_Samuel 13:37
+2026-02-07 16:57:27,212 - INFO - Scraping: 2_Samuel 13:38
+2026-02-07 16:57:27,373 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-38.htm
+2026-02-07 16:57:27,395 - INFO - Successfully scraped 33 translations for 2_Samuel 13:38
+2026-02-07 16:57:27,395 - INFO - Scraping: 2_Samuel 13:39
+2026-02-07 16:57:27,433 - INFO - Saved HTML to cache: html_cache/2_Samuel/13-39.htm
+2026-02-07 16:57:27,460 - INFO - Successfully scraped 35 translations for 2_Samuel 13:39
+2026-02-07 16:57:27,460 - INFO -   -> Chapter 14 (33 verses)
+2026-02-07 16:57:27,460 - INFO - Scraping: 2_Samuel 14:1
+2026-02-07 16:57:27,526 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-1.htm
+2026-02-07 16:57:27,550 - INFO - Successfully scraped 35 translations for 2_Samuel 14:1
+2026-02-07 16:57:27,550 - INFO - Scraping: 2_Samuel 14:2
+2026-02-07 16:57:27,618 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-2.htm
+2026-02-07 16:57:27,655 - INFO - Successfully scraped 34 translations for 2_Samuel 14:2
+2026-02-07 16:57:27,655 - INFO - Scraping: 2_Samuel 14:3
+2026-02-07 16:57:27,724 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-3.htm
+2026-02-07 16:57:28,141 - INFO - Successfully scraped 34 translations for 2_Samuel 14:3
+2026-02-07 16:57:28,141 - INFO - Scraping: 2_Samuel 14:4
+2026-02-07 16:57:28,207 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-4.htm
+2026-02-07 16:57:28,236 - INFO - Successfully scraped 35 translations for 2_Samuel 14:4
+2026-02-07 16:57:28,236 - INFO - Scraping: 2_Samuel 14:5
+2026-02-07 16:57:28,422 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-5.htm
+2026-02-07 16:57:28,446 - INFO - Successfully scraped 35 translations for 2_Samuel 14:5
+2026-02-07 16:57:28,446 - INFO - Scraping: 2_Samuel 14:6
+2026-02-07 16:57:28,482 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-6.htm
+2026-02-07 16:57:28,509 - INFO - Successfully scraped 35 translations for 2_Samuel 14:6
+2026-02-07 16:57:28,509 - INFO - Scraping: 2_Samuel 14:7
+2026-02-07 16:57:28,577 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-7.htm
+2026-02-07 16:57:28,618 - INFO - Successfully scraped 35 translations for 2_Samuel 14:7
+2026-02-07 16:57:28,618 - INFO - Scraping: 2_Samuel 14:8
+2026-02-07 16:57:28,659 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-8.htm
+2026-02-07 16:57:28,691 - INFO - Successfully scraped 35 translations for 2_Samuel 14:8
+2026-02-07 16:57:28,691 - INFO - Scraping: 2_Samuel 14:9
+2026-02-07 16:57:28,727 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-9.htm
+2026-02-07 16:57:28,757 - INFO - Successfully scraped 35 translations for 2_Samuel 14:9
+2026-02-07 16:57:28,760 - INFO - Scraping: 2_Samuel 14:10
+2026-02-07 16:57:28,945 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-10.htm
+2026-02-07 16:57:28,981 - INFO - Successfully scraped 35 translations for 2_Samuel 14:10
+2026-02-07 16:57:28,982 - INFO - Scraping: 2_Samuel 14:11
+2026-02-07 16:57:29,052 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-11.htm
+2026-02-07 16:57:29,092 - INFO - Successfully scraped 35 translations for 2_Samuel 14:11
+2026-02-07 16:57:29,093 - INFO - Scraping: 2_Samuel 14:12
+2026-02-07 16:57:29,134 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-12.htm
+2026-02-07 16:57:29,166 - INFO - Successfully scraped 35 translations for 2_Samuel 14:12
+2026-02-07 16:57:29,166 - INFO - Scraping: 2_Samuel 14:13
+2026-02-07 16:57:29,203 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-13.htm
+2026-02-07 16:57:29,605 - INFO - Successfully scraped 35 translations for 2_Samuel 14:13
+2026-02-07 16:57:29,605 - INFO - Scraping: 2_Samuel 14:14
+2026-02-07 16:57:29,673 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-14.htm
+2026-02-07 16:57:29,708 - INFO - Successfully scraped 35 translations for 2_Samuel 14:14
+2026-02-07 16:57:29,708 - INFO - Scraping: 2_Samuel 14:15
+2026-02-07 16:57:29,773 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-15.htm
+2026-02-07 16:57:29,806 - INFO - Successfully scraped 35 translations for 2_Samuel 14:15
+2026-02-07 16:57:29,806 - INFO - Scraping: 2_Samuel 14:16
+2026-02-07 16:57:29,845 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-16.htm
+2026-02-07 16:57:29,875 - INFO - Successfully scraped 35 translations for 2_Samuel 14:16
+2026-02-07 16:57:29,875 - INFO - Scraping: 2_Samuel 14:17
+2026-02-07 16:57:30,025 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-17.htm
+2026-02-07 16:57:30,060 - INFO - Successfully scraped 35 translations for 2_Samuel 14:17
+2026-02-07 16:57:30,060 - INFO - Scraping: 2_Samuel 14:18
+2026-02-07 16:57:30,126 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-18.htm
+2026-02-07 16:57:30,153 - INFO - Successfully scraped 35 translations for 2_Samuel 14:18
+2026-02-07 16:57:30,153 - INFO - Scraping: 2_Samuel 14:19
+2026-02-07 16:57:30,223 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-19.htm
+2026-02-07 16:57:30,266 - INFO - Successfully scraped 35 translations for 2_Samuel 14:19
+2026-02-07 16:57:30,266 - INFO - Scraping: 2_Samuel 14:20
+2026-02-07 16:57:30,338 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-20.htm
+2026-02-07 16:57:30,369 - INFO - Successfully scraped 35 translations for 2_Samuel 14:20
+2026-02-07 16:57:30,369 - INFO - Scraping: 2_Samuel 14:21
+2026-02-07 16:57:30,577 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-21.htm
+2026-02-07 16:57:30,603 - INFO - Successfully scraped 35 translations for 2_Samuel 14:21
+2026-02-07 16:57:30,603 - INFO - Scraping: 2_Samuel 14:22
+2026-02-07 16:57:30,673 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-22.htm
+2026-02-07 16:57:30,705 - INFO - Successfully scraped 35 translations for 2_Samuel 14:22
+2026-02-07 16:57:30,705 - INFO - Scraping: 2_Samuel 14:23
+2026-02-07 16:57:30,745 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-23.htm
+2026-02-07 16:57:31,146 - INFO - Successfully scraped 35 translations for 2_Samuel 14:23
+2026-02-07 16:57:31,146 - INFO - Scraping: 2_Samuel 14:24
+2026-02-07 16:57:31,213 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-24.htm
+2026-02-07 16:57:31,264 - INFO - Successfully scraped 35 translations for 2_Samuel 14:24
+2026-02-07 16:57:31,264 - INFO - Scraping: 2_Samuel 14:25
+2026-02-07 16:57:31,330 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-25.htm
+2026-02-07 16:57:31,356 - INFO - Successfully scraped 35 translations for 2_Samuel 14:25
+2026-02-07 16:57:31,356 - INFO - Scraping: 2_Samuel 14:26
+2026-02-07 16:57:31,396 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-26.htm
+2026-02-07 16:57:31,424 - INFO - Successfully scraped 35 translations for 2_Samuel 14:26
+2026-02-07 16:57:31,424 - INFO - Scraping: 2_Samuel 14:27
+2026-02-07 16:57:31,703 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-27.htm
+2026-02-07 16:57:31,733 - INFO - Successfully scraped 35 translations for 2_Samuel 14:27
+2026-02-07 16:57:31,733 - INFO - Scraping: 2_Samuel 14:28
+2026-02-07 16:57:31,775 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-28.htm
+2026-02-07 16:57:31,806 - INFO - Successfully scraped 35 translations for 2_Samuel 14:28
+2026-02-07 16:57:31,806 - INFO - Scraping: 2_Samuel 14:29
+2026-02-07 16:57:31,843 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-29.htm
+2026-02-07 16:57:31,869 - INFO - Successfully scraped 35 translations for 2_Samuel 14:29
+2026-02-07 16:57:31,869 - INFO - Scraping: 2_Samuel 14:30
+2026-02-07 16:57:31,904 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-30.htm
+2026-02-07 16:57:31,936 - INFO - Successfully scraped 35 translations for 2_Samuel 14:30
+2026-02-07 16:57:31,936 - INFO - Scraping: 2_Samuel 14:31
+2026-02-07 16:57:32,119 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-31.htm
+2026-02-07 16:57:32,159 - INFO - Successfully scraped 35 translations for 2_Samuel 14:31
+2026-02-07 16:57:32,159 - INFO - Scraping: 2_Samuel 14:32
+2026-02-07 16:57:32,200 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-32.htm
+2026-02-07 16:57:32,249 - INFO - Successfully scraped 35 translations for 2_Samuel 14:32
+2026-02-07 16:57:32,249 - INFO - Scraping: 2_Samuel 14:33
+2026-02-07 16:57:32,287 - INFO - Saved HTML to cache: html_cache/2_Samuel/14-33.htm
+2026-02-07 16:57:32,695 - INFO - Successfully scraped 35 translations for 2_Samuel 14:33
+2026-02-07 16:57:32,695 - INFO -   -> Chapter 15 (37 verses)
+2026-02-07 16:57:32,695 - INFO - Scraping: 2_Samuel 15:1
+2026-02-07 16:57:32,734 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-1.htm
+2026-02-07 16:57:32,759 - INFO - Successfully scraped 35 translations for 2_Samuel 15:1
+2026-02-07 16:57:32,759 - INFO - Scraping: 2_Samuel 15:2
+2026-02-07 16:57:32,799 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-2.htm
+2026-02-07 16:57:32,838 - INFO - Successfully scraped 35 translations for 2_Samuel 15:2
+2026-02-07 16:57:32,838 - INFO - Scraping: 2_Samuel 15:3
+2026-02-07 16:57:32,872 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-3.htm
+2026-02-07 16:57:32,901 - INFO - Successfully scraped 35 translations for 2_Samuel 15:3
+2026-02-07 16:57:32,901 - INFO - Scraping: 2_Samuel 15:4
+2026-02-07 16:57:32,937 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-4.htm
+2026-02-07 16:57:32,981 - INFO - Successfully scraped 35 translations for 2_Samuel 15:4
+2026-02-07 16:57:32,981 - INFO - Scraping: 2_Samuel 15:5
+2026-02-07 16:57:33,141 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-5.htm
+2026-02-07 16:57:33,169 - INFO - Successfully scraped 35 translations for 2_Samuel 15:5
+2026-02-07 16:57:33,169 - INFO - Scraping: 2_Samuel 15:6
+2026-02-07 16:57:33,205 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-6.htm
+2026-02-07 16:57:33,239 - INFO - Successfully scraped 35 translations for 2_Samuel 15:6
+2026-02-07 16:57:33,239 - INFO - Scraping: 2_Samuel 15:7
+2026-02-07 16:57:33,277 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-7.htm
+2026-02-07 16:57:33,306 - INFO - Successfully scraped 35 translations for 2_Samuel 15:7
+2026-02-07 16:57:33,307 - INFO - Scraping: 2_Samuel 15:8
+2026-02-07 16:57:33,344 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-8.htm
+2026-02-07 16:57:33,371 - INFO - Successfully scraped 35 translations for 2_Samuel 15:8
+2026-02-07 16:57:33,372 - INFO - Scraping: 2_Samuel 15:9
+2026-02-07 16:57:33,413 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-9.htm
+2026-02-07 16:57:33,435 - INFO - Successfully scraped 35 translations for 2_Samuel 15:9
+2026-02-07 16:57:33,435 - INFO - Scraping: 2_Samuel 15:10
+2026-02-07 16:57:33,474 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-10.htm
+2026-02-07 16:57:33,866 - INFO - Successfully scraped 34 translations for 2_Samuel 15:10
+2026-02-07 16:57:33,866 - INFO - Progress: 8400/31102 (27.0%)
+2026-02-07 16:57:33,866 - INFO - Scraping: 2_Samuel 15:11
+2026-02-07 16:57:33,900 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-11.htm
+2026-02-07 16:57:33,927 - INFO - Successfully scraped 34 translations for 2_Samuel 15:11
+2026-02-07 16:57:33,927 - INFO - Scraping: 2_Samuel 15:12
+2026-02-07 16:57:33,968 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-12.htm
+2026-02-07 16:57:34,002 - INFO - Successfully scraped 34 translations for 2_Samuel 15:12
+2026-02-07 16:57:34,002 - INFO - Scraping: 2_Samuel 15:13
+2026-02-07 16:57:34,187 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-13.htm
+2026-02-07 16:57:34,213 - INFO - Successfully scraped 35 translations for 2_Samuel 15:13
+2026-02-07 16:57:34,213 - INFO - Scraping: 2_Samuel 15:14
+2026-02-07 16:57:34,250 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-14.htm
+2026-02-07 16:57:34,288 - INFO - Successfully scraped 35 translations for 2_Samuel 15:14
+2026-02-07 16:57:34,288 - INFO - Scraping: 2_Samuel 15:15
+2026-02-07 16:57:34,325 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-15.htm
+2026-02-07 16:57:34,350 - INFO - Successfully scraped 35 translations for 2_Samuel 15:15
+2026-02-07 16:57:34,350 - INFO - Scraping: 2_Samuel 15:16
+2026-02-07 16:57:34,386 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-16.htm
+2026-02-07 16:57:34,412 - INFO - Successfully scraped 34 translations for 2_Samuel 15:16
+2026-02-07 16:57:34,412 - INFO - Scraping: 2_Samuel 15:17
+2026-02-07 16:57:34,449 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-17.htm
+2026-02-07 16:57:34,473 - INFO - Successfully scraped 34 translations for 2_Samuel 15:17
+2026-02-07 16:57:34,473 - INFO - Scraping: 2_Samuel 15:18
+2026-02-07 16:57:34,514 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-18.htm
+2026-02-07 16:57:34,545 - INFO - Successfully scraped 35 translations for 2_Samuel 15:18
+2026-02-07 16:57:34,546 - INFO - Scraping: 2_Samuel 15:19
+2026-02-07 16:57:34,712 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-19.htm
+2026-02-07 16:57:34,740 - INFO - Successfully scraped 35 translations for 2_Samuel 15:19
+2026-02-07 16:57:34,740 - INFO - Scraping: 2_Samuel 15:20
+2026-02-07 16:57:34,777 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-20.htm
+2026-02-07 16:57:35,213 - INFO - Successfully scraped 35 translations for 2_Samuel 15:20
+2026-02-07 16:57:35,213 - INFO - Scraping: 2_Samuel 15:21
+2026-02-07 16:57:35,295 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-21.htm
+2026-02-07 16:57:35,327 - INFO - Successfully scraped 35 translations for 2_Samuel 15:21
+2026-02-07 16:57:35,327 - INFO - Scraping: 2_Samuel 15:22
+2026-02-07 16:57:35,366 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-22.htm
+2026-02-07 16:57:35,425 - INFO - Successfully scraped 35 translations for 2_Samuel 15:22
+2026-02-07 16:57:35,429 - INFO - Scraping: 2_Samuel 15:23
+2026-02-07 16:57:35,470 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-23.htm
+2026-02-07 16:57:35,498 - INFO - Successfully scraped 35 translations for 2_Samuel 15:23
+2026-02-07 16:57:35,498 - INFO - Scraping: 2_Samuel 15:24
+2026-02-07 16:57:35,535 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-24.htm
+2026-02-07 16:57:35,565 - INFO - Successfully scraped 35 translations for 2_Samuel 15:24
+2026-02-07 16:57:35,565 - INFO - Scraping: 2_Samuel 15:25
+2026-02-07 16:57:35,601 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-25.htm
+2026-02-07 16:57:35,631 - INFO - Successfully scraped 35 translations for 2_Samuel 15:25
+2026-02-07 16:57:35,631 - INFO - Scraping: 2_Samuel 15:26
+2026-02-07 16:57:35,794 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-26.htm
+2026-02-07 16:57:35,824 - INFO - Successfully scraped 35 translations for 2_Samuel 15:26
+2026-02-07 16:57:35,824 - INFO - Scraping: 2_Samuel 15:27
+2026-02-07 16:57:35,864 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-27.htm
+2026-02-07 16:57:35,898 - INFO - Successfully scraped 35 translations for 2_Samuel 15:27
+2026-02-07 16:57:35,898 - INFO - Scraping: 2_Samuel 15:28
+2026-02-07 16:57:35,935 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-28.htm
+2026-02-07 16:57:35,961 - INFO - Successfully scraped 35 translations for 2_Samuel 15:28
+2026-02-07 16:57:35,961 - INFO - Scraping: 2_Samuel 15:29
+2026-02-07 16:57:35,994 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-29.htm
+2026-02-07 16:57:36,018 - INFO - Successfully scraped 35 translations for 2_Samuel 15:29
+2026-02-07 16:57:36,018 - INFO - Scraping: 2_Samuel 15:30
+2026-02-07 16:57:36,057 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-30.htm
+2026-02-07 16:57:36,471 - INFO - Successfully scraped 35 translations for 2_Samuel 15:30
+2026-02-07 16:57:36,471 - INFO - Scraping: 2_Samuel 15:31
+2026-02-07 16:57:36,507 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-31.htm
+2026-02-07 16:57:36,537 - INFO - Successfully scraped 35 translations for 2_Samuel 15:31
+2026-02-07 16:57:36,538 - INFO - Scraping: 2_Samuel 15:32
+2026-02-07 16:57:36,577 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-32.htm
+2026-02-07 16:57:36,608 - INFO - Successfully scraped 35 translations for 2_Samuel 15:32
+2026-02-07 16:57:36,608 - INFO - Scraping: 2_Samuel 15:33
+2026-02-07 16:57:36,643 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-33.htm
+2026-02-07 16:57:36,673 - INFO - Successfully scraped 35 translations for 2_Samuel 15:33
+2026-02-07 16:57:36,673 - INFO - Scraping: 2_Samuel 15:34
+2026-02-07 16:57:36,847 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-34.htm
+2026-02-07 16:57:36,956 - INFO - Successfully scraped 35 translations for 2_Samuel 15:34
+2026-02-07 16:57:36,956 - INFO - Scraping: 2_Samuel 15:35
+2026-02-07 16:57:36,993 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-35.htm
+2026-02-07 16:57:37,019 - INFO - Successfully scraped 35 translations for 2_Samuel 15:35
+2026-02-07 16:57:37,020 - INFO - Scraping: 2_Samuel 15:36
+2026-02-07 16:57:37,056 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-36.htm
+2026-02-07 16:57:37,083 - INFO - Successfully scraped 35 translations for 2_Samuel 15:36
+2026-02-07 16:57:37,084 - INFO - Scraping: 2_Samuel 15:37
+2026-02-07 16:57:37,121 - INFO - Saved HTML to cache: html_cache/2_Samuel/15-37.htm
+2026-02-07 16:57:37,145 - INFO - Successfully scraped 35 translations for 2_Samuel 15:37
+2026-02-07 16:57:37,145 - INFO -   -> Chapter 16 (23 verses)
+2026-02-07 16:57:37,145 - INFO - Scraping: 2_Samuel 16:1
+2026-02-07 16:57:37,183 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-1.htm
+2026-02-07 16:57:37,219 - INFO - Successfully scraped 35 translations for 2_Samuel 16:1
+2026-02-07 16:57:37,219 - INFO - Scraping: 2_Samuel 16:2
+2026-02-07 16:57:37,367 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-2.htm
+2026-02-07 16:57:37,404 - INFO - Successfully scraped 35 translations for 2_Samuel 16:2
+2026-02-07 16:57:37,404 - INFO - Scraping: 2_Samuel 16:3
+2026-02-07 16:57:37,444 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-3.htm
+2026-02-07 16:57:37,872 - INFO - Successfully scraped 35 translations for 2_Samuel 16:3
+2026-02-07 16:57:37,872 - INFO - Scraping: 2_Samuel 16:4
+2026-02-07 16:57:37,936 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-4.htm
+2026-02-07 16:57:37,970 - INFO - Successfully scraped 35 translations for 2_Samuel 16:4
+2026-02-07 16:57:37,971 - INFO - Scraping: 2_Samuel 16:5
+2026-02-07 16:57:38,007 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-5.htm
+2026-02-07 16:57:38,037 - INFO - Successfully scraped 35 translations for 2_Samuel 16:5
+2026-02-07 16:57:38,038 - INFO - Scraping: 2_Samuel 16:6
+2026-02-07 16:57:38,079 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-6.htm
+2026-02-07 16:57:38,124 - INFO - Successfully scraped 35 translations for 2_Samuel 16:6
+2026-02-07 16:57:38,124 - INFO - Scraping: 2_Samuel 16:7
+2026-02-07 16:57:38,162 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-7.htm
+2026-02-07 16:57:38,187 - INFO - Successfully scraped 35 translations for 2_Samuel 16:7
+2026-02-07 16:57:38,187 - INFO - Scraping: 2_Samuel 16:8
+2026-02-07 16:57:38,228 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-8.htm
+2026-02-07 16:57:38,287 - INFO - Successfully scraped 35 translations for 2_Samuel 16:8
+2026-02-07 16:57:38,290 - INFO - Scraping: 2_Samuel 16:9
+2026-02-07 16:57:38,416 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-9.htm
+2026-02-07 16:57:38,446 - INFO - Successfully scraped 35 translations for 2_Samuel 16:9
+2026-02-07 16:57:38,446 - INFO - Scraping: 2_Samuel 16:10
+2026-02-07 16:57:38,485 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-10.htm
+2026-02-07 16:57:38,517 - INFO - Successfully scraped 35 translations for 2_Samuel 16:10
+2026-02-07 16:57:38,517 - INFO - Scraping: 2_Samuel 16:11
+2026-02-07 16:57:38,553 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-11.htm
+2026-02-07 16:57:38,585 - INFO - Successfully scraped 35 translations for 2_Samuel 16:11
+2026-02-07 16:57:38,585 - INFO - Scraping: 2_Samuel 16:12
+2026-02-07 16:57:38,620 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-12.htm
+2026-02-07 16:57:38,648 - INFO - Successfully scraped 35 translations for 2_Samuel 16:12
+2026-02-07 16:57:38,648 - INFO - Scraping: 2_Samuel 16:13
+2026-02-07 16:57:38,684 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-13.htm
+2026-02-07 16:57:39,106 - INFO - Successfully scraped 35 translations for 2_Samuel 16:13
+2026-02-07 16:57:39,106 - INFO - Scraping: 2_Samuel 16:14
+2026-02-07 16:57:39,140 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-14.htm
+2026-02-07 16:57:39,161 - INFO - Successfully scraped 35 translations for 2_Samuel 16:14
+2026-02-07 16:57:39,161 - INFO - Scraping: 2_Samuel 16:15
+2026-02-07 16:57:39,195 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-15.htm
+2026-02-07 16:57:39,218 - INFO - Successfully scraped 35 translations for 2_Samuel 16:15
+2026-02-07 16:57:39,218 - INFO - Scraping: 2_Samuel 16:16
+2026-02-07 16:57:39,255 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-16.htm
+2026-02-07 16:57:39,287 - INFO - Successfully scraped 35 translations for 2_Samuel 16:16
+2026-02-07 16:57:39,287 - INFO - Scraping: 2_Samuel 16:17
+2026-02-07 16:57:39,460 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-17.htm
+2026-02-07 16:57:39,493 - INFO - Successfully scraped 35 translations for 2_Samuel 16:17
+2026-02-07 16:57:39,493 - INFO - Scraping: 2_Samuel 16:18
+2026-02-07 16:57:39,531 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-18.htm
+2026-02-07 16:57:39,557 - INFO - Successfully scraped 35 translations for 2_Samuel 16:18
+2026-02-07 16:57:39,557 - INFO - Scraping: 2_Samuel 16:19
+2026-02-07 16:57:39,592 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-19.htm
+2026-02-07 16:57:39,616 - INFO - Successfully scraped 35 translations for 2_Samuel 16:19
+2026-02-07 16:57:39,617 - INFO - Scraping: 2_Samuel 16:20
+2026-02-07 16:57:39,652 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-20.htm
+2026-02-07 16:57:39,675 - INFO - Successfully scraped 35 translations for 2_Samuel 16:20
+2026-02-07 16:57:39,675 - INFO - Scraping: 2_Samuel 16:21
+2026-02-07 16:57:39,715 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-21.htm
+2026-02-07 16:57:39,752 - INFO - Successfully scraped 35 translations for 2_Samuel 16:21
+2026-02-07 16:57:39,752 - INFO - Scraping: 2_Samuel 16:22
+2026-02-07 16:57:39,788 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-22.htm
+2026-02-07 16:57:39,814 - INFO - Successfully scraped 35 translations for 2_Samuel 16:22
+2026-02-07 16:57:39,814 - INFO - Scraping: 2_Samuel 16:23
+2026-02-07 16:57:39,988 - INFO - Saved HTML to cache: html_cache/2_Samuel/16-23.htm
+2026-02-07 16:57:40,490 - INFO - Successfully scraped 35 translations for 2_Samuel 16:23
+2026-02-07 16:57:40,490 - INFO -   -> Chapter 17 (29 verses)
+2026-02-07 16:57:40,490 - INFO - Scraping: 2_Samuel 17:1
+2026-02-07 16:57:40,550 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-1.htm
+2026-02-07 16:57:40,581 - INFO - Successfully scraped 35 translations for 2_Samuel 17:1
+2026-02-07 16:57:40,581 - INFO - Scraping: 2_Samuel 17:2
+2026-02-07 16:57:40,622 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-2.htm
+2026-02-07 16:57:40,659 - INFO - Successfully scraped 35 translations for 2_Samuel 17:2
+2026-02-07 16:57:40,659 - INFO - Scraping: 2_Samuel 17:3
+2026-02-07 16:57:40,695 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-3.htm
+2026-02-07 16:57:40,725 - INFO - Successfully scraped 35 translations for 2_Samuel 17:3
+2026-02-07 16:57:40,725 - INFO - Scraping: 2_Samuel 17:4
+2026-02-07 16:57:40,763 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-4.htm
+2026-02-07 16:57:40,785 - INFO - Successfully scraped 35 translations for 2_Samuel 17:4
+2026-02-07 16:57:40,785 - INFO - Scraping: 2_Samuel 17:5
+2026-02-07 16:57:40,822 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-5.htm
+2026-02-07 16:57:40,851 - INFO - Successfully scraped 35 translations for 2_Samuel 17:5
+2026-02-07 16:57:40,851 - INFO - Scraping: 2_Samuel 17:6
+2026-02-07 16:57:41,035 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-6.htm
+2026-02-07 16:57:41,067 - INFO - Successfully scraped 35 translations for 2_Samuel 17:6
+2026-02-07 16:57:41,067 - INFO - Scraping: 2_Samuel 17:7
+2026-02-07 16:57:41,110 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-7.htm
+2026-02-07 16:57:41,134 - INFO - Successfully scraped 35 translations for 2_Samuel 17:7
+2026-02-07 16:57:41,134 - INFO - Scraping: 2_Samuel 17:8
+2026-02-07 16:57:41,172 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-8.htm
+2026-02-07 16:57:41,203 - INFO - Successfully scraped 35 translations for 2_Samuel 17:8
+2026-02-07 16:57:41,203 - INFO - Scraping: 2_Samuel 17:9
+2026-02-07 16:57:41,240 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-9.htm
+2026-02-07 16:57:41,280 - INFO - Successfully scraped 35 translations for 2_Samuel 17:9
+2026-02-07 16:57:41,280 - INFO - Scraping: 2_Samuel 17:10
+2026-02-07 16:57:41,319 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-10.htm
+2026-02-07 16:57:41,742 - INFO - Successfully scraped 35 translations for 2_Samuel 17:10
+2026-02-07 16:57:41,742 - INFO - Scraping: 2_Samuel 17:11
+2026-02-07 16:57:41,804 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-11.htm
+2026-02-07 16:57:41,833 - INFO - Successfully scraped 35 translations for 2_Samuel 17:11
+2026-02-07 16:57:41,834 - INFO - Scraping: 2_Samuel 17:12
+2026-02-07 16:57:41,871 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-12.htm
+2026-02-07 16:57:41,926 - INFO - Successfully scraped 35 translations for 2_Samuel 17:12
+2026-02-07 16:57:41,926 - INFO - Scraping: 2_Samuel 17:13
+2026-02-07 16:57:42,083 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-13.htm
+2026-02-07 16:57:42,117 - INFO - Successfully scraped 35 translations for 2_Samuel 17:13
+2026-02-07 16:57:42,117 - INFO - Scraping: 2_Samuel 17:14
+2026-02-07 16:57:42,158 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-14.htm
+2026-02-07 16:57:42,193 - INFO - Successfully scraped 35 translations for 2_Samuel 17:14
+2026-02-07 16:57:42,193 - INFO - Scraping: 2_Samuel 17:15
+2026-02-07 16:57:42,226 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-15.htm
+2026-02-07 16:57:42,252 - INFO - Successfully scraped 35 translations for 2_Samuel 17:15
+2026-02-07 16:57:42,252 - INFO - Scraping: 2_Samuel 17:16
+2026-02-07 16:57:42,289 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-16.htm
+2026-02-07 16:57:42,321 - INFO - Successfully scraped 35 translations for 2_Samuel 17:16
+2026-02-07 16:57:42,321 - INFO - Scraping: 2_Samuel 17:17
+2026-02-07 16:57:42,371 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-17.htm
+2026-02-07 16:57:42,429 - INFO - Successfully scraped 35 translations for 2_Samuel 17:17
+2026-02-07 16:57:42,429 - INFO - Scraping: 2_Samuel 17:18
+2026-02-07 16:57:42,633 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-18.htm
+2026-02-07 16:57:42,671 - INFO - Successfully scraped 35 translations for 2_Samuel 17:18
+2026-02-07 16:57:42,671 - INFO - Scraping: 2_Samuel 17:19
+2026-02-07 16:57:42,705 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-19.htm
+2026-02-07 16:57:42,739 - INFO - Successfully scraped 35 translations for 2_Samuel 17:19
+2026-02-07 16:57:42,739 - INFO - Scraping: 2_Samuel 17:20
+2026-02-07 16:57:42,777 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-20.htm
+2026-02-07 16:57:43,213 - INFO - Successfully scraped 35 translations for 2_Samuel 17:20
+2026-02-07 16:57:43,213 - INFO - Scraping: 2_Samuel 17:21
+2026-02-07 16:57:43,275 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-21.htm
+2026-02-07 16:57:43,308 - INFO - Successfully scraped 35 translations for 2_Samuel 17:21
+2026-02-07 16:57:43,308 - INFO - Scraping: 2_Samuel 17:22
+2026-02-07 16:57:43,344 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-22.htm
+2026-02-07 16:57:43,369 - INFO - Successfully scraped 35 translations for 2_Samuel 17:22
+2026-02-07 16:57:43,370 - INFO - Scraping: 2_Samuel 17:23
+2026-02-07 16:57:43,412 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-23.htm
+2026-02-07 16:57:43,442 - INFO - Successfully scraped 35 translations for 2_Samuel 17:23
+2026-02-07 16:57:43,442 - INFO - Scraping: 2_Samuel 17:24
+2026-02-07 16:57:43,625 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-24.htm
+2026-02-07 16:57:43,657 - INFO - Successfully scraped 35 translations for 2_Samuel 17:24
+2026-02-07 16:57:43,657 - INFO - Scraping: 2_Samuel 17:25
+2026-02-07 16:57:43,694 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-25.htm
+2026-02-07 16:57:43,728 - INFO - Successfully scraped 35 translations for 2_Samuel 17:25
+2026-02-07 16:57:43,728 - INFO - Scraping: 2_Samuel 17:26
+2026-02-07 16:57:43,762 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-26.htm
+2026-02-07 16:57:43,785 - INFO - Successfully scraped 35 translations for 2_Samuel 17:26
+2026-02-07 16:57:43,785 - INFO - Scraping: 2_Samuel 17:27
+2026-02-07 16:57:43,822 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-27.htm
+2026-02-07 16:57:43,849 - INFO - Successfully scraped 35 translations for 2_Samuel 17:27
+2026-02-07 16:57:43,849 - INFO - Scraping: 2_Samuel 17:28
+2026-02-07 16:57:43,884 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-28.htm
+2026-02-07 16:57:43,908 - INFO - Successfully scraped 33 translations for 2_Samuel 17:28
+2026-02-07 16:57:43,908 - INFO - Scraping: 2_Samuel 17:29
+2026-02-07 16:57:43,946 - INFO - Saved HTML to cache: html_cache/2_Samuel/17-29.htm
+2026-02-07 16:57:43,980 - INFO - Successfully scraped 33 translations for 2_Samuel 17:29
+2026-02-07 16:57:43,980 - INFO -   -> Chapter 18 (33 verses)
+2026-02-07 16:57:43,980 - INFO - Scraping: 2_Samuel 18:1
+2026-02-07 16:57:44,149 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-1.htm
+2026-02-07 16:57:44,607 - INFO - Successfully scraped 35 translations for 2_Samuel 18:1
+2026-02-07 16:57:44,608 - INFO - Scraping: 2_Samuel 18:2
+2026-02-07 16:57:44,731 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-2.htm
+2026-02-07 16:57:44,764 - INFO - Successfully scraped 35 translations for 2_Samuel 18:2
+2026-02-07 16:57:44,764 - INFO - Scraping: 2_Samuel 18:3
+2026-02-07 16:57:44,806 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-3.htm
+2026-02-07 16:57:44,841 - INFO - Successfully scraped 35 translations for 2_Samuel 18:3
+2026-02-07 16:57:44,841 - INFO - Scraping: 2_Samuel 18:4
+2026-02-07 16:57:44,878 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-4.htm
+2026-02-07 16:57:44,906 - INFO - Successfully scraped 34 translations for 2_Samuel 18:4
+2026-02-07 16:57:44,907 - INFO - Scraping: 2_Samuel 18:5
+2026-02-07 16:57:44,944 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-5.htm
+2026-02-07 16:57:44,974 - INFO - Successfully scraped 34 translations for 2_Samuel 18:5
+2026-02-07 16:57:44,974 - INFO - Scraping: 2_Samuel 18:6
+2026-02-07 16:57:45,268 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-6.htm
+2026-02-07 16:57:45,292 - INFO - Successfully scraped 34 translations for 2_Samuel 18:6
+2026-02-07 16:57:45,293 - INFO - Scraping: 2_Samuel 18:7
+2026-02-07 16:57:45,331 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-7.htm
+2026-02-07 16:57:45,362 - INFO - Successfully scraped 34 translations for 2_Samuel 18:7
+2026-02-07 16:57:45,363 - INFO - Scraping: 2_Samuel 18:8
+2026-02-07 16:57:45,402 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-8.htm
+2026-02-07 16:57:45,427 - INFO - Successfully scraped 34 translations for 2_Samuel 18:8
+2026-02-07 16:57:45,427 - INFO - Scraping: 2_Samuel 18:9
+2026-02-07 16:57:45,468 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-9.htm
+2026-02-07 16:57:45,499 - INFO - Successfully scraped 35 translations for 2_Samuel 18:9
+2026-02-07 16:57:45,499 - INFO - Scraping: 2_Samuel 18:10
+2026-02-07 16:57:45,542 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-10.htm
+2026-02-07 16:57:45,566 - INFO - Successfully scraped 35 translations for 2_Samuel 18:10
+2026-02-07 16:57:45,566 - INFO - Scraping: 2_Samuel 18:11
+2026-02-07 16:57:45,722 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-11.htm
+2026-02-07 16:57:46,150 - INFO - Successfully scraped 35 translations for 2_Samuel 18:11
+2026-02-07 16:57:46,150 - INFO - Scraping: 2_Samuel 18:12
+2026-02-07 16:57:46,305 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-12.htm
+2026-02-07 16:57:46,342 - INFO - Successfully scraped 35 translations for 2_Samuel 18:12
+2026-02-07 16:57:46,343 - INFO - Scraping: 2_Samuel 18:13
+2026-02-07 16:57:46,382 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-13.htm
+2026-02-07 16:57:46,407 - INFO - Successfully scraped 35 translations for 2_Samuel 18:13
+2026-02-07 16:57:46,407 - INFO - Scraping: 2_Samuel 18:14
+2026-02-07 16:57:46,441 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-14.htm
+2026-02-07 16:57:46,472 - INFO - Successfully scraped 35 translations for 2_Samuel 18:14
+2026-02-07 16:57:46,472 - INFO - Scraping: 2_Samuel 18:15
+2026-02-07 16:57:46,507 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-15.htm
+2026-02-07 16:57:46,536 - INFO - Successfully scraped 35 translations for 2_Samuel 18:15
+2026-02-07 16:57:46,536 - INFO - Scraping: 2_Samuel 18:16
+2026-02-07 16:57:46,577 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-16.htm
+2026-02-07 16:57:46,602 - INFO - Successfully scraped 35 translations for 2_Samuel 18:16
+2026-02-07 16:57:46,602 - INFO - Scraping: 2_Samuel 18:17
+2026-02-07 16:57:46,781 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-17.htm
+2026-02-07 16:57:46,822 - INFO - Successfully scraped 35 translations for 2_Samuel 18:17
+2026-02-07 16:57:46,822 - INFO - Scraping: 2_Samuel 18:18
+2026-02-07 16:57:46,863 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-18.htm
+2026-02-07 16:57:46,902 - INFO - Successfully scraped 35 translations for 2_Samuel 18:18
+2026-02-07 16:57:46,902 - INFO - Scraping: 2_Samuel 18:19
+2026-02-07 16:57:46,940 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-19.htm
+2026-02-07 16:57:46,974 - INFO - Successfully scraped 35 translations for 2_Samuel 18:19
+2026-02-07 16:57:46,983 - INFO - Scraping: 2_Samuel 18:20
+2026-02-07 16:57:47,021 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-20.htm
+2026-02-07 16:57:47,053 - INFO - Successfully scraped 35 translations for 2_Samuel 18:20
+2026-02-07 16:57:47,053 - INFO - Scraping: 2_Samuel 18:21
+2026-02-07 16:57:47,088 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-21.htm
+2026-02-07 16:57:47,682 - INFO - Successfully scraped 35 translations for 2_Samuel 18:21
+2026-02-07 16:57:47,682 - INFO - Progress: 8500/31102 (27.3%)
+2026-02-07 16:57:47,682 - INFO - Scraping: 2_Samuel 18:22
+2026-02-07 16:57:47,876 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-22.htm
+2026-02-07 16:57:47,909 - INFO - Successfully scraped 35 translations for 2_Samuel 18:22
+2026-02-07 16:57:47,909 - INFO - Scraping: 2_Samuel 18:23
+2026-02-07 16:57:47,946 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-23.htm
+2026-02-07 16:57:47,978 - INFO - Successfully scraped 35 translations for 2_Samuel 18:23
+2026-02-07 16:57:47,978 - INFO - Scraping: 2_Samuel 18:24
+2026-02-07 16:57:48,013 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-24.htm
+2026-02-07 16:57:48,042 - INFO - Successfully scraped 35 translations for 2_Samuel 18:24
+2026-02-07 16:57:48,042 - INFO - Scraping: 2_Samuel 18:25
+2026-02-07 16:57:48,079 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-25.htm
+2026-02-07 16:57:48,105 - INFO - Successfully scraped 35 translations for 2_Samuel 18:25
+2026-02-07 16:57:48,105 - INFO - Scraping: 2_Samuel 18:26
+2026-02-07 16:57:48,139 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-26.htm
+2026-02-07 16:57:48,169 - INFO - Successfully scraped 35 translations for 2_Samuel 18:26
+2026-02-07 16:57:48,169 - INFO - Scraping: 2_Samuel 18:27
+2026-02-07 16:57:48,343 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-27.htm
+2026-02-07 16:57:48,388 - INFO - Successfully scraped 35 translations for 2_Samuel 18:27
+2026-02-07 16:57:48,388 - INFO - Scraping: 2_Samuel 18:28
+2026-02-07 16:57:48,429 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-28.htm
+2026-02-07 16:57:48,465 - INFO - Successfully scraped 35 translations for 2_Samuel 18:28
+2026-02-07 16:57:48,465 - INFO - Scraping: 2_Samuel 18:29
+2026-02-07 16:57:48,501 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-29.htm
+2026-02-07 16:57:48,535 - INFO - Successfully scraped 35 translations for 2_Samuel 18:29
+2026-02-07 16:57:48,535 - INFO - Scraping: 2_Samuel 18:30
+2026-02-07 16:57:48,571 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-30.htm
+2026-02-07 16:57:48,597 - INFO - Successfully scraped 35 translations for 2_Samuel 18:30
+2026-02-07 16:57:48,597 - INFO - Scraping: 2_Samuel 18:31
+2026-02-07 16:57:48,631 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-31.htm
+2026-02-07 16:57:49,163 - INFO - Successfully scraped 35 translations for 2_Samuel 18:31
+2026-02-07 16:57:49,163 - INFO - Scraping: 2_Samuel 18:32
+2026-02-07 16:57:49,227 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-32.htm
+2026-02-07 16:57:49,258 - INFO - Successfully scraped 35 translations for 2_Samuel 18:32
+2026-02-07 16:57:49,258 - INFO - Scraping: 2_Samuel 18:33
+2026-02-07 16:57:49,426 - INFO - Saved HTML to cache: html_cache/2_Samuel/18-33.htm
+2026-02-07 16:57:49,461 - INFO - Successfully scraped 35 translations for 2_Samuel 18:33
+2026-02-07 16:57:49,461 - INFO -   -> Chapter 19 (43 verses)
+2026-02-07 16:57:49,461 - INFO - Scraping: 2_Samuel 19:1
+2026-02-07 16:57:49,500 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-1.htm
+2026-02-07 16:57:49,526 - INFO - Successfully scraped 35 translations for 2_Samuel 19:1
+2026-02-07 16:57:49,526 - INFO - Scraping: 2_Samuel 19:2
+2026-02-07 16:57:49,563 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-2.htm
+2026-02-07 16:57:49,598 - INFO - Successfully scraped 35 translations for 2_Samuel 19:2
+2026-02-07 16:57:49,598 - INFO - Scraping: 2_Samuel 19:3
+2026-02-07 16:57:49,635 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-3.htm
+2026-02-07 16:57:49,662 - INFO - Successfully scraped 35 translations for 2_Samuel 19:3
+2026-02-07 16:57:49,662 - INFO - Scraping: 2_Samuel 19:4
+2026-02-07 16:57:49,700 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-4.htm
+2026-02-07 16:57:49,726 - INFO - Successfully scraped 35 translations for 2_Samuel 19:4
+2026-02-07 16:57:49,726 - INFO - Scraping: 2_Samuel 19:5
+2026-02-07 16:57:49,764 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-5.htm
+2026-02-07 16:57:49,794 - INFO - Successfully scraped 35 translations for 2_Samuel 19:5
+2026-02-07 16:57:49,794 - INFO - Scraping: 2_Samuel 19:6
+2026-02-07 16:57:49,948 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-6.htm
+2026-02-07 16:57:49,986 - INFO - Successfully scraped 35 translations for 2_Samuel 19:6
+2026-02-07 16:57:49,986 - INFO - Scraping: 2_Samuel 19:7
+2026-02-07 16:57:50,025 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-7.htm
+2026-02-07 16:57:50,056 - INFO - Successfully scraped 35 translations for 2_Samuel 19:7
+2026-02-07 16:57:50,056 - INFO - Scraping: 2_Samuel 19:8
+2026-02-07 16:57:50,092 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-8.htm
+2026-02-07 16:57:50,513 - INFO - Successfully scraped 35 translations for 2_Samuel 19:8
+2026-02-07 16:57:50,513 - INFO - Scraping: 2_Samuel 19:9
+2026-02-07 16:57:50,580 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-9.htm
+2026-02-07 16:57:50,614 - INFO - Successfully scraped 34 translations for 2_Samuel 19:9
+2026-02-07 16:57:50,615 - INFO - Scraping: 2_Samuel 19:10
+2026-02-07 16:57:50,661 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-10.htm
+2026-02-07 16:57:50,698 - INFO - Successfully scraped 34 translations for 2_Samuel 19:10
+2026-02-07 16:57:50,699 - INFO - Scraping: 2_Samuel 19:11
+2026-02-07 16:57:50,753 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-11.htm
+2026-02-07 16:57:50,832 - INFO - Successfully scraped 35 translations for 2_Samuel 19:11
+2026-02-07 16:57:50,833 - INFO - Scraping: 2_Samuel 19:12
+2026-02-07 16:57:50,996 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-12.htm
+2026-02-07 16:57:51,020 - INFO - Successfully scraped 35 translations for 2_Samuel 19:12
+2026-02-07 16:57:51,020 - INFO - Scraping: 2_Samuel 19:13
+2026-02-07 16:57:51,060 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-13.htm
+2026-02-07 16:57:51,120 - INFO - Successfully scraped 35 translations for 2_Samuel 19:13
+2026-02-07 16:57:51,120 - INFO - Scraping: 2_Samuel 19:14
+2026-02-07 16:57:51,156 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-14.htm
+2026-02-07 16:57:51,183 - INFO - Successfully scraped 35 translations for 2_Samuel 19:14
+2026-02-07 16:57:51,183 - INFO - Scraping: 2_Samuel 19:15
+2026-02-07 16:57:51,218 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-15.htm
+2026-02-07 16:57:51,244 - INFO - Successfully scraped 35 translations for 2_Samuel 19:15
+2026-02-07 16:57:51,244 - INFO - Scraping: 2_Samuel 19:16
+2026-02-07 16:57:51,281 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-16.htm
+2026-02-07 16:57:51,308 - INFO - Successfully scraped 35 translations for 2_Samuel 19:16
+2026-02-07 16:57:51,308 - INFO - Scraping: 2_Samuel 19:17
+2026-02-07 16:57:51,491 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-17.htm
+2026-02-07 16:57:51,528 - INFO - Successfully scraped 35 translations for 2_Samuel 19:17
+2026-02-07 16:57:51,528 - INFO - Scraping: 2_Samuel 19:18
+2026-02-07 16:57:51,566 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-18.htm
+2026-02-07 16:57:52,073 - INFO - Successfully scraped 35 translations for 2_Samuel 19:18
+2026-02-07 16:57:52,073 - INFO - Scraping: 2_Samuel 19:19
+2026-02-07 16:57:52,114 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-19.htm
+2026-02-07 16:57:52,145 - INFO - Successfully scraped 35 translations for 2_Samuel 19:19
+2026-02-07 16:57:52,146 - INFO - Scraping: 2_Samuel 19:20
+2026-02-07 16:57:52,181 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-20.htm
+2026-02-07 16:57:52,209 - INFO - Successfully scraped 35 translations for 2_Samuel 19:20
+2026-02-07 16:57:52,209 - INFO - Scraping: 2_Samuel 19:21
+2026-02-07 16:57:52,250 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-21.htm
+2026-02-07 16:57:52,283 - INFO - Successfully scraped 35 translations for 2_Samuel 19:21
+2026-02-07 16:57:52,284 - INFO - Scraping: 2_Samuel 19:22
+2026-02-07 16:57:52,321 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-22.htm
+2026-02-07 16:57:52,351 - INFO - Successfully scraped 35 translations for 2_Samuel 19:22
+2026-02-07 16:57:52,352 - INFO - Scraping: 2_Samuel 19:23
+2026-02-07 16:57:52,387 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-23.htm
+2026-02-07 16:57:52,411 - INFO - Successfully scraped 35 translations for 2_Samuel 19:23
+2026-02-07 16:57:52,411 - INFO - Scraping: 2_Samuel 19:24
+2026-02-07 16:57:52,591 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-24.htm
+2026-02-07 16:57:52,634 - INFO - Successfully scraped 34 translations for 2_Samuel 19:24
+2026-02-07 16:57:52,634 - INFO - Scraping: 2_Samuel 19:25
+2026-02-07 16:57:52,674 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-25.htm
+2026-02-07 16:57:52,708 - INFO - Successfully scraped 34 translations for 2_Samuel 19:25
+2026-02-07 16:57:52,708 - INFO - Scraping: 2_Samuel 19:26
+2026-02-07 16:57:52,749 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-26.htm
+2026-02-07 16:57:52,781 - INFO - Successfully scraped 35 translations for 2_Samuel 19:26
+2026-02-07 16:57:52,781 - INFO - Scraping: 2_Samuel 19:27
+2026-02-07 16:57:52,820 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-27.htm
+2026-02-07 16:57:52,852 - INFO - Successfully scraped 35 translations for 2_Samuel 19:27
+2026-02-07 16:57:52,852 - INFO - Scraping: 2_Samuel 19:28
+2026-02-07 16:57:52,901 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-28.htm
+2026-02-07 16:57:53,424 - INFO - Successfully scraped 35 translations for 2_Samuel 19:28
+2026-02-07 16:57:53,424 - INFO - Scraping: 2_Samuel 19:29
+2026-02-07 16:57:53,588 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-29.htm
+2026-02-07 16:57:53,617 - INFO - Successfully scraped 35 translations for 2_Samuel 19:29
+2026-02-07 16:57:53,618 - INFO - Scraping: 2_Samuel 19:30
+2026-02-07 16:57:53,652 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-30.htm
+2026-02-07 16:57:53,680 - INFO - Successfully scraped 35 translations for 2_Samuel 19:30
+2026-02-07 16:57:53,680 - INFO - Scraping: 2_Samuel 19:31
+2026-02-07 16:57:53,717 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-31.htm
+2026-02-07 16:57:53,741 - INFO - Successfully scraped 35 translations for 2_Samuel 19:31
+2026-02-07 16:57:53,741 - INFO - Scraping: 2_Samuel 19:32
+2026-02-07 16:57:53,778 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-32.htm
+2026-02-07 16:57:53,804 - INFO - Successfully scraped 35 translations for 2_Samuel 19:32
+2026-02-07 16:57:53,805 - INFO - Scraping: 2_Samuel 19:33
+2026-02-07 16:57:53,843 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-33.htm
+2026-02-07 16:57:53,870 - INFO - Successfully scraped 35 translations for 2_Samuel 19:33
+2026-02-07 16:57:53,870 - INFO - Scraping: 2_Samuel 19:34
+2026-02-07 16:57:53,904 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-34.htm
+2026-02-07 16:57:53,929 - INFO - Successfully scraped 35 translations for 2_Samuel 19:34
+2026-02-07 16:57:53,929 - INFO - Scraping: 2_Samuel 19:35
+2026-02-07 16:57:54,110 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-35.htm
+2026-02-07 16:57:54,142 - INFO - Successfully scraped 35 translations for 2_Samuel 19:35
+2026-02-07 16:57:54,142 - INFO - Scraping: 2_Samuel 19:36
+2026-02-07 16:57:54,179 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-36.htm
+2026-02-07 16:57:54,204 - INFO - Successfully scraped 35 translations for 2_Samuel 19:36
+2026-02-07 16:57:54,204 - INFO - Scraping: 2_Samuel 19:37
+2026-02-07 16:57:54,244 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-37.htm
+2026-02-07 16:57:54,279 - INFO - Successfully scraped 35 translations for 2_Samuel 19:37
+2026-02-07 16:57:54,279 - INFO - Scraping: 2_Samuel 19:38
+2026-02-07 16:57:54,316 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-38.htm
+2026-02-07 16:57:54,724 - INFO - Successfully scraped 35 translations for 2_Samuel 19:38
+2026-02-07 16:57:54,724 - INFO - Scraping: 2_Samuel 19:39
+2026-02-07 16:57:54,789 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-39.htm
+2026-02-07 16:57:54,818 - INFO - Successfully scraped 35 translations for 2_Samuel 19:39
+2026-02-07 16:57:54,818 - INFO - Scraping: 2_Samuel 19:40
+2026-02-07 16:57:54,857 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-40.htm
+2026-02-07 16:57:54,897 - INFO - Successfully scraped 35 translations for 2_Samuel 19:40
+2026-02-07 16:57:54,899 - INFO - Scraping: 2_Samuel 19:41
+2026-02-07 16:57:54,949 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-41.htm
+2026-02-07 16:57:55,042 - INFO - Successfully scraped 35 translations for 2_Samuel 19:41
+2026-02-07 16:57:55,042 - INFO - Scraping: 2_Samuel 19:42
+2026-02-07 16:57:55,220 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-42.htm
+2026-02-07 16:57:55,254 - INFO - Successfully scraped 35 translations for 2_Samuel 19:42
+2026-02-07 16:57:55,254 - INFO - Scraping: 2_Samuel 19:43
+2026-02-07 16:57:55,292 - INFO - Saved HTML to cache: html_cache/2_Samuel/19-43.htm
+2026-02-07 16:57:55,326 - INFO - Successfully scraped 35 translations for 2_Samuel 19:43
+2026-02-07 16:57:55,326 - INFO -   -> Chapter 20 (26 verses)
+2026-02-07 16:57:55,326 - INFO - Scraping: 2_Samuel 20:1
+2026-02-07 16:57:55,362 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-1.htm
+2026-02-07 16:57:55,405 - INFO - Successfully scraped 35 translations for 2_Samuel 20:1
+2026-02-07 16:57:55,405 - INFO - Scraping: 2_Samuel 20:2
+2026-02-07 16:57:55,438 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-2.htm
+2026-02-07 16:57:55,466 - INFO - Successfully scraped 35 translations for 2_Samuel 20:2
+2026-02-07 16:57:55,466 - INFO - Scraping: 2_Samuel 20:3
+2026-02-07 16:57:55,506 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-3.htm
+2026-02-07 16:57:55,537 - INFO - Successfully scraped 35 translations for 2_Samuel 20:3
+2026-02-07 16:57:55,537 - INFO - Scraping: 2_Samuel 20:4
+2026-02-07 16:57:55,715 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-4.htm
+2026-02-07 16:57:55,745 - INFO - Successfully scraped 35 translations for 2_Samuel 20:4
+2026-02-07 16:57:55,746 - INFO - Scraping: 2_Samuel 20:5
+2026-02-07 16:57:55,781 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-5.htm
+2026-02-07 16:57:56,196 - INFO - Successfully scraped 35 translations for 2_Samuel 20:5
+2026-02-07 16:57:56,196 - INFO - Scraping: 2_Samuel 20:6
+2026-02-07 16:57:56,267 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-6.htm
+2026-02-07 16:57:56,298 - INFO - Successfully scraped 35 translations for 2_Samuel 20:6
+2026-02-07 16:57:56,298 - INFO - Scraping: 2_Samuel 20:7
+2026-02-07 16:57:56,333 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-7.htm
+2026-02-07 16:57:56,364 - INFO - Successfully scraped 35 translations for 2_Samuel 20:7
+2026-02-07 16:57:56,364 - INFO - Scraping: 2_Samuel 20:8
+2026-02-07 16:57:56,398 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-8.htm
+2026-02-07 16:57:56,429 - INFO - Successfully scraped 35 translations for 2_Samuel 20:8
+2026-02-07 16:57:56,429 - INFO - Scraping: 2_Samuel 20:9
+2026-02-07 16:57:56,464 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-9.htm
+2026-02-07 16:57:56,497 - INFO - Successfully scraped 35 translations for 2_Samuel 20:9
+2026-02-07 16:57:56,498 - INFO - Scraping: 2_Samuel 20:10
+2026-02-07 16:57:56,534 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-10.htm
+2026-02-07 16:57:56,565 - INFO - Successfully scraped 35 translations for 2_Samuel 20:10
+2026-02-07 16:57:56,565 - INFO - Scraping: 2_Samuel 20:11
+2026-02-07 16:57:56,732 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-11.htm
+2026-02-07 16:57:56,758 - INFO - Successfully scraped 35 translations for 2_Samuel 20:11
+2026-02-07 16:57:56,758 - INFO - Scraping: 2_Samuel 20:12
+2026-02-07 16:57:56,795 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-12.htm
+2026-02-07 16:57:56,823 - INFO - Successfully scraped 35 translations for 2_Samuel 20:12
+2026-02-07 16:57:56,823 - INFO - Scraping: 2_Samuel 20:13
+2026-02-07 16:57:56,857 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-13.htm
+2026-02-07 16:57:56,883 - INFO - Successfully scraped 35 translations for 2_Samuel 20:13
+2026-02-07 16:57:56,883 - INFO - Scraping: 2_Samuel 20:14
+2026-02-07 16:57:56,920 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-14.htm
+2026-02-07 16:57:56,950 - INFO - Successfully scraped 35 translations for 2_Samuel 20:14
+2026-02-07 16:57:56,950 - INFO - Scraping: 2_Samuel 20:15
+2026-02-07 16:57:56,985 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-15.htm
+2026-02-07 16:57:57,391 - INFO - Successfully scraped 35 translations for 2_Samuel 20:15
+2026-02-07 16:57:57,391 - INFO - Scraping: 2_Samuel 20:16
+2026-02-07 16:57:57,463 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-16.htm
+2026-02-07 16:57:57,494 - INFO - Successfully scraped 35 translations for 2_Samuel 20:16
+2026-02-07 16:57:57,494 - INFO - Scraping: 2_Samuel 20:17
+2026-02-07 16:57:57,531 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-17.htm
+2026-02-07 16:57:57,578 - INFO - Successfully scraped 35 translations for 2_Samuel 20:17
+2026-02-07 16:57:57,578 - INFO - Scraping: 2_Samuel 20:18
+2026-02-07 16:57:57,615 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-18.htm
+2026-02-07 16:57:57,642 - INFO - Successfully scraped 35 translations for 2_Samuel 20:18
+2026-02-07 16:57:57,642 - INFO - Scraping: 2_Samuel 20:19
+2026-02-07 16:57:57,814 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-19.htm
+2026-02-07 16:57:57,844 - INFO - Successfully scraped 35 translations for 2_Samuel 20:19
+2026-02-07 16:57:57,844 - INFO - Scraping: 2_Samuel 20:20
+2026-02-07 16:57:57,882 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-20.htm
+2026-02-07 16:57:57,905 - INFO - Successfully scraped 35 translations for 2_Samuel 20:20
+2026-02-07 16:57:57,905 - INFO - Scraping: 2_Samuel 20:21
+2026-02-07 16:57:57,943 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-21.htm
+2026-02-07 16:57:57,980 - INFO - Successfully scraped 35 translations for 2_Samuel 20:21
+2026-02-07 16:57:57,980 - INFO - Scraping: 2_Samuel 20:22
+2026-02-07 16:57:58,020 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-22.htm
+2026-02-07 16:57:58,054 - INFO - Successfully scraped 35 translations for 2_Samuel 20:22
+2026-02-07 16:57:58,054 - INFO - Scraping: 2_Samuel 20:23
+2026-02-07 16:57:58,092 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-23.htm
+2026-02-07 16:57:58,119 - INFO - Successfully scraped 35 translations for 2_Samuel 20:23
+2026-02-07 16:57:58,119 - INFO - Scraping: 2_Samuel 20:24
+2026-02-07 16:57:58,153 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-24.htm
+2026-02-07 16:57:58,177 - INFO - Successfully scraped 35 translations for 2_Samuel 20:24
+2026-02-07 16:57:58,177 - INFO - Scraping: 2_Samuel 20:25
+2026-02-07 16:57:58,333 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-25.htm
+2026-02-07 16:57:58,748 - INFO - Successfully scraped 35 translations for 2_Samuel 20:25
+2026-02-07 16:57:58,748 - INFO - Scraping: 2_Samuel 20:26
+2026-02-07 16:57:58,899 - INFO - Saved HTML to cache: html_cache/2_Samuel/20-26.htm
+2026-02-07 16:57:58,925 - INFO - Successfully scraped 35 translations for 2_Samuel 20:26
+2026-02-07 16:57:58,926 - INFO -   -> Chapter 21 (22 verses)
+2026-02-07 16:57:58,926 - INFO - Scraping: 2_Samuel 21:1
+2026-02-07 16:57:58,989 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-1.htm
+2026-02-07 16:57:59,018 - INFO - Successfully scraped 35 translations for 2_Samuel 21:1
+2026-02-07 16:57:59,018 - INFO - Scraping: 2_Samuel 21:2
+2026-02-07 16:57:59,058 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-2.htm
+2026-02-07 16:57:59,091 - INFO - Successfully scraped 35 translations for 2_Samuel 21:2
+2026-02-07 16:57:59,091 - INFO - Scraping: 2_Samuel 21:3
+2026-02-07 16:57:59,128 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-3.htm
+2026-02-07 16:57:59,153 - INFO - Successfully scraped 35 translations for 2_Samuel 21:3
+2026-02-07 16:57:59,153 - INFO - Scraping: 2_Samuel 21:4
+2026-02-07 16:57:59,193 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-4.htm
+2026-02-07 16:57:59,226 - INFO - Successfully scraped 35 translations for 2_Samuel 21:4
+2026-02-07 16:57:59,226 - INFO - Scraping: 2_Samuel 21:5
+2026-02-07 16:57:59,488 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-5.htm
+2026-02-07 16:57:59,520 - INFO - Successfully scraped 35 translations for 2_Samuel 21:5
+2026-02-07 16:57:59,520 - INFO - Scraping: 2_Samuel 21:6
+2026-02-07 16:57:59,556 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-6.htm
+2026-02-07 16:57:59,590 - INFO - Successfully scraped 35 translations for 2_Samuel 21:6
+2026-02-07 16:57:59,590 - INFO - Scraping: 2_Samuel 21:7
+2026-02-07 16:57:59,624 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-7.htm
+2026-02-07 16:57:59,652 - INFO - Successfully scraped 35 translations for 2_Samuel 21:7
+2026-02-07 16:57:59,652 - INFO - Scraping: 2_Samuel 21:8
+2026-02-07 16:57:59,690 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-8.htm
+2026-02-07 16:57:59,721 - INFO - Successfully scraped 35 translations for 2_Samuel 21:8
+2026-02-07 16:57:59,722 - INFO - Scraping: 2_Samuel 21:9
+2026-02-07 16:57:59,879 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-9.htm
+2026-02-07 16:58:00,296 - INFO - Successfully scraped 35 translations for 2_Samuel 21:9
+2026-02-07 16:58:00,296 - INFO - Scraping: 2_Samuel 21:10
+2026-02-07 16:58:00,468 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-10.htm
+2026-02-07 16:58:00,514 - INFO - Successfully scraped 35 translations for 2_Samuel 21:10
+2026-02-07 16:58:00,515 - INFO - Scraping: 2_Samuel 21:11
+2026-02-07 16:58:00,551 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-11.htm
+2026-02-07 16:58:00,575 - INFO - Successfully scraped 34 translations for 2_Samuel 21:11
+2026-02-07 16:58:00,575 - INFO - Scraping: 2_Samuel 21:12
+2026-02-07 16:58:00,615 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-12.htm
+2026-02-07 16:58:00,649 - INFO - Successfully scraped 34 translations for 2_Samuel 21:12
+2026-02-07 16:58:00,649 - INFO - Scraping: 2_Samuel 21:13
+2026-02-07 16:58:00,687 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-13.htm
+2026-02-07 16:58:00,713 - INFO - Successfully scraped 34 translations for 2_Samuel 21:13
+2026-02-07 16:58:00,714 - INFO - Scraping: 2_Samuel 21:14
+2026-02-07 16:58:00,753 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-14.htm
+2026-02-07 16:58:00,835 - INFO - Successfully scraped 34 translations for 2_Samuel 21:14
+2026-02-07 16:58:00,835 - INFO - Scraping: 2_Samuel 21:15
+2026-02-07 16:58:00,956 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-15.htm
+2026-02-07 16:58:00,981 - INFO - Successfully scraped 35 translations for 2_Samuel 21:15
+2026-02-07 16:58:00,981 - INFO - Scraping: 2_Samuel 21:16
+2026-02-07 16:58:01,018 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-16.htm
+2026-02-07 16:58:01,051 - INFO - Successfully scraped 35 translations for 2_Samuel 21:16
+2026-02-07 16:58:01,051 - INFO - Scraping: 2_Samuel 21:17
+2026-02-07 16:58:01,086 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-17.htm
+2026-02-07 16:58:01,119 - INFO - Successfully scraped 35 translations for 2_Samuel 21:17
+2026-02-07 16:58:01,119 - INFO - Scraping: 2_Samuel 21:18
+2026-02-07 16:58:01,153 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-18.htm
+2026-02-07 16:58:01,188 - INFO - Successfully scraped 35 translations for 2_Samuel 21:18
+2026-02-07 16:58:01,188 - INFO - Scraping: 2_Samuel 21:19
+2026-02-07 16:58:01,223 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-19.htm
+2026-02-07 16:58:01,662 - INFO - Successfully scraped 35 translations for 2_Samuel 21:19
+2026-02-07 16:58:01,662 - INFO - Progress: 8600/31102 (27.7%)
+2026-02-07 16:58:01,662 - INFO - Scraping: 2_Samuel 21:20
+2026-02-07 16:58:01,727 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-20.htm
+2026-02-07 16:58:01,757 - INFO - Successfully scraped 35 translations for 2_Samuel 21:20
+2026-02-07 16:58:01,757 - INFO - Scraping: 2_Samuel 21:21
+2026-02-07 16:58:01,795 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-21.htm
+2026-02-07 16:58:01,833 - INFO - Successfully scraped 35 translations for 2_Samuel 21:21
+2026-02-07 16:58:01,833 - INFO - Scraping: 2_Samuel 21:22
+2026-02-07 16:58:02,007 - INFO - Saved HTML to cache: html_cache/2_Samuel/21-22.htm
+2026-02-07 16:58:02,036 - INFO - Successfully scraped 35 translations for 2_Samuel 21:22
+2026-02-07 16:58:02,036 - INFO -   -> Chapter 22 (51 verses)
+2026-02-07 16:58:02,036 - INFO - Scraping: 2_Samuel 22:1
+2026-02-07 16:58:02,076 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-1.htm
+2026-02-07 16:58:02,103 - INFO - Successfully scraped 35 translations for 2_Samuel 22:1
+2026-02-07 16:58:02,103 - INFO - Scraping: 2_Samuel 22:2
+2026-02-07 16:58:02,139 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-2.htm
+2026-02-07 16:58:02,164 - INFO - Successfully scraped 35 translations for 2_Samuel 22:2
+2026-02-07 16:58:02,164 - INFO - Scraping: 2_Samuel 22:3
+2026-02-07 16:58:02,199 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-3.htm
+2026-02-07 16:58:02,228 - INFO - Successfully scraped 35 translations for 2_Samuel 22:3
+2026-02-07 16:58:02,228 - INFO - Scraping: 2_Samuel 22:4
+2026-02-07 16:58:02,262 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-4.htm
+2026-02-07 16:58:02,287 - INFO - Successfully scraped 35 translations for 2_Samuel 22:4
+2026-02-07 16:58:02,287 - INFO - Scraping: 2_Samuel 22:5
+2026-02-07 16:58:02,323 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-5.htm
+2026-02-07 16:58:02,345 - INFO - Successfully scraped 35 translations for 2_Samuel 22:5
+2026-02-07 16:58:02,345 - INFO - Scraping: 2_Samuel 22:6
+2026-02-07 16:58:02,535 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-6.htm
+2026-02-07 16:58:02,559 - INFO - Successfully scraped 35 translations for 2_Samuel 22:6
+2026-02-07 16:58:02,560 - INFO - Scraping: 2_Samuel 22:7
+2026-02-07 16:58:02,599 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-7.htm
+2026-02-07 16:58:03,000 - INFO - Successfully scraped 35 translations for 2_Samuel 22:7
+2026-02-07 16:58:03,000 - INFO - Scraping: 2_Samuel 22:8
+2026-02-07 16:58:03,060 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-8.htm
+2026-02-07 16:58:03,101 - INFO - Successfully scraped 35 translations for 2_Samuel 22:8
+2026-02-07 16:58:03,101 - INFO - Scraping: 2_Samuel 22:9
+2026-02-07 16:58:03,144 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-9.htm
+2026-02-07 16:58:03,168 - INFO - Successfully scraped 35 translations for 2_Samuel 22:9
+2026-02-07 16:58:03,168 - INFO - Scraping: 2_Samuel 22:10
+2026-02-07 16:58:03,201 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-10.htm
+2026-02-07 16:58:03,224 - INFO - Successfully scraped 35 translations for 2_Samuel 22:10
+2026-02-07 16:58:03,224 - INFO - Scraping: 2_Samuel 22:11
+2026-02-07 16:58:03,264 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-11.htm
+2026-02-07 16:58:03,285 - INFO - Successfully scraped 35 translations for 2_Samuel 22:11
+2026-02-07 16:58:03,285 - INFO - Scraping: 2_Samuel 22:12
+2026-02-07 16:58:03,323 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-12.htm
+2026-02-07 16:58:03,347 - INFO - Successfully scraped 35 translations for 2_Samuel 22:12
+2026-02-07 16:58:03,347 - INFO - Scraping: 2_Samuel 22:13
+2026-02-07 16:58:03,382 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-13.htm
+2026-02-07 16:58:03,405 - INFO - Successfully scraped 35 translations for 2_Samuel 22:13
+2026-02-07 16:58:03,405 - INFO - Scraping: 2_Samuel 22:14
+2026-02-07 16:58:03,578 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-14.htm
+2026-02-07 16:58:03,601 - INFO - Successfully scraped 35 translations for 2_Samuel 22:14
+2026-02-07 16:58:03,601 - INFO - Scraping: 2_Samuel 22:15
+2026-02-07 16:58:03,636 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-15.htm
+2026-02-07 16:58:03,659 - INFO - Successfully scraped 35 translations for 2_Samuel 22:15
+2026-02-07 16:58:03,659 - INFO - Scraping: 2_Samuel 22:16
+2026-02-07 16:58:03,694 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-16.htm
+2026-02-07 16:58:03,723 - INFO - Successfully scraped 35 translations for 2_Samuel 22:16
+2026-02-07 16:58:03,723 - INFO - Scraping: 2_Samuel 22:17
+2026-02-07 16:58:03,757 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-17.htm
+2026-02-07 16:58:04,164 - INFO - Successfully scraped 35 translations for 2_Samuel 22:17
+2026-02-07 16:58:04,164 - INFO - Scraping: 2_Samuel 22:18
+2026-02-07 16:58:04,202 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-18.htm
+2026-02-07 16:58:04,224 - INFO - Successfully scraped 35 translations for 2_Samuel 22:18
+2026-02-07 16:58:04,224 - INFO - Scraping: 2_Samuel 22:19
+2026-02-07 16:58:04,261 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-19.htm
+2026-02-07 16:58:04,281 - INFO - Successfully scraped 35 translations for 2_Samuel 22:19
+2026-02-07 16:58:04,281 - INFO - Scraping: 2_Samuel 22:20
+2026-02-07 16:58:04,316 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-20.htm
+2026-02-07 16:58:04,337 - INFO - Successfully scraped 35 translations for 2_Samuel 22:20
+2026-02-07 16:58:04,337 - INFO - Scraping: 2_Samuel 22:21
+2026-02-07 16:58:04,372 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-21.htm
+2026-02-07 16:58:04,429 - INFO - Successfully scraped 35 translations for 2_Samuel 22:21
+2026-02-07 16:58:04,429 - INFO - Scraping: 2_Samuel 22:22
+2026-02-07 16:58:04,597 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-22.htm
+2026-02-07 16:58:04,619 - INFO - Successfully scraped 35 translations for 2_Samuel 22:22
+2026-02-07 16:58:04,619 - INFO - Scraping: 2_Samuel 22:23
+2026-02-07 16:58:04,653 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-23.htm
+2026-02-07 16:58:04,677 - INFO - Successfully scraped 35 translations for 2_Samuel 22:23
+2026-02-07 16:58:04,677 - INFO - Scraping: 2_Samuel 22:24
+2026-02-07 16:58:04,710 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-24.htm
+2026-02-07 16:58:04,735 - INFO - Successfully scraped 35 translations for 2_Samuel 22:24
+2026-02-07 16:58:04,735 - INFO - Scraping: 2_Samuel 22:25
+2026-02-07 16:58:04,772 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-25.htm
+2026-02-07 16:58:04,797 - INFO - Successfully scraped 35 translations for 2_Samuel 22:25
+2026-02-07 16:58:04,797 - INFO - Scraping: 2_Samuel 22:26
+2026-02-07 16:58:04,833 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-26.htm
+2026-02-07 16:58:04,862 - INFO - Successfully scraped 35 translations for 2_Samuel 22:26
+2026-02-07 16:58:04,862 - INFO - Scraping: 2_Samuel 22:27
+2026-02-07 16:58:04,898 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-27.htm
+2026-02-07 16:58:05,439 - INFO - Successfully scraped 35 translations for 2_Samuel 22:27
+2026-02-07 16:58:05,439 - INFO - Scraping: 2_Samuel 22:28
+2026-02-07 16:58:05,475 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-28.htm
+2026-02-07 16:58:05,498 - INFO - Successfully scraped 35 translations for 2_Samuel 22:28
+2026-02-07 16:58:05,498 - INFO - Scraping: 2_Samuel 22:29
+2026-02-07 16:58:05,675 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-29.htm
+2026-02-07 16:58:05,698 - INFO - Successfully scraped 35 translations for 2_Samuel 22:29
+2026-02-07 16:58:05,698 - INFO - Scraping: 2_Samuel 22:30
+2026-02-07 16:58:05,735 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-30.htm
+2026-02-07 16:58:05,758 - INFO - Successfully scraped 35 translations for 2_Samuel 22:30
+2026-02-07 16:58:05,758 - INFO - Scraping: 2_Samuel 22:31
+2026-02-07 16:58:05,792 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-31.htm
+2026-02-07 16:58:05,826 - INFO - Successfully scraped 35 translations for 2_Samuel 22:31
+2026-02-07 16:58:05,826 - INFO - Scraping: 2_Samuel 22:32
+2026-02-07 16:58:05,865 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-32.htm
+2026-02-07 16:58:05,890 - INFO - Successfully scraped 35 translations for 2_Samuel 22:32
+2026-02-07 16:58:05,890 - INFO - Scraping: 2_Samuel 22:33
+2026-02-07 16:58:05,924 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-33.htm
+2026-02-07 16:58:05,950 - INFO - Successfully scraped 35 translations for 2_Samuel 22:33
+2026-02-07 16:58:05,950 - INFO - Scraping: 2_Samuel 22:34
+2026-02-07 16:58:05,984 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-34.htm
+2026-02-07 16:58:06,008 - INFO - Successfully scraped 35 translations for 2_Samuel 22:34
+2026-02-07 16:58:06,008 - INFO - Scraping: 2_Samuel 22:35
+2026-02-07 16:58:06,171 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-35.htm
+2026-02-07 16:58:06,203 - INFO - Successfully scraped 35 translations for 2_Samuel 22:35
+2026-02-07 16:58:06,203 - INFO - Scraping: 2_Samuel 22:36
+2026-02-07 16:58:06,239 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-36.htm
+2026-02-07 16:58:06,262 - INFO - Successfully scraped 35 translations for 2_Samuel 22:36
+2026-02-07 16:58:06,262 - INFO - Scraping: 2_Samuel 22:37
+2026-02-07 16:58:06,300 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-37.htm
+2026-02-07 16:58:06,756 - INFO - Successfully scraped 35 translations for 2_Samuel 22:37
+2026-02-07 16:58:06,756 - INFO - Scraping: 2_Samuel 22:38
+2026-02-07 16:58:06,796 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-38.htm
+2026-02-07 16:58:06,826 - INFO - Successfully scraped 35 translations for 2_Samuel 22:38
+2026-02-07 16:58:06,827 - INFO - Scraping: 2_Samuel 22:39
+2026-02-07 16:58:06,867 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-39.htm
+2026-02-07 16:58:06,892 - INFO - Successfully scraped 35 translations for 2_Samuel 22:39
+2026-02-07 16:58:06,893 - INFO - Scraping: 2_Samuel 22:40
+2026-02-07 16:58:06,927 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-40.htm
+2026-02-07 16:58:06,990 - INFO - Successfully scraped 35 translations for 2_Samuel 22:40
+2026-02-07 16:58:06,990 - INFO - Scraping: 2_Samuel 22:41
+2026-02-07 16:58:07,025 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-41.htm
+2026-02-07 16:58:07,178 - INFO - Successfully scraped 35 translations for 2_Samuel 22:41
+2026-02-07 16:58:07,179 - INFO - Scraping: 2_Samuel 22:42
+2026-02-07 16:58:07,251 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-42.htm
+2026-02-07 16:58:07,293 - INFO - Successfully scraped 35 translations for 2_Samuel 22:42
+2026-02-07 16:58:07,294 - INFO - Scraping: 2_Samuel 22:43
+2026-02-07 16:58:07,330 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-43.htm
+2026-02-07 16:58:07,354 - INFO - Successfully scraped 35 translations for 2_Samuel 22:43
+2026-02-07 16:58:07,354 - INFO - Scraping: 2_Samuel 22:44
+2026-02-07 16:58:07,390 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-44.htm
+2026-02-07 16:58:07,419 - INFO - Successfully scraped 35 translations for 2_Samuel 22:44
+2026-02-07 16:58:07,419 - INFO - Scraping: 2_Samuel 22:45
+2026-02-07 16:58:07,455 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-45.htm
+2026-02-07 16:58:07,481 - INFO - Successfully scraped 35 translations for 2_Samuel 22:45
+2026-02-07 16:58:07,481 - INFO - Scraping: 2_Samuel 22:46
+2026-02-07 16:58:07,520 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-46.htm
+2026-02-07 16:58:07,545 - INFO - Successfully scraped 35 translations for 2_Samuel 22:46
+2026-02-07 16:58:07,548 - INFO - Scraping: 2_Samuel 22:47
+2026-02-07 16:58:07,584 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-47.htm
+2026-02-07 16:58:08,055 - INFO - Successfully scraped 35 translations for 2_Samuel 22:47
+2026-02-07 16:58:08,055 - INFO - Scraping: 2_Samuel 22:48
+2026-02-07 16:58:08,092 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-48.htm
+2026-02-07 16:58:08,115 - INFO - Successfully scraped 35 translations for 2_Samuel 22:48
+2026-02-07 16:58:08,115 - INFO - Scraping: 2_Samuel 22:49
+2026-02-07 16:58:08,298 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-49.htm
+2026-02-07 16:58:08,331 - INFO - Successfully scraped 35 translations for 2_Samuel 22:49
+2026-02-07 16:58:08,334 - INFO - Scraping: 2_Samuel 22:50
+2026-02-07 16:58:08,371 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-50.htm
+2026-02-07 16:58:08,408 - INFO - Successfully scraped 35 translations for 2_Samuel 22:50
+2026-02-07 16:58:08,408 - INFO - Scraping: 2_Samuel 22:51
+2026-02-07 16:58:08,444 - INFO - Saved HTML to cache: html_cache/2_Samuel/22-51.htm
+2026-02-07 16:58:08,470 - INFO - Successfully scraped 35 translations for 2_Samuel 22:51
+2026-02-07 16:58:08,470 - INFO -   -> Chapter 23 (39 verses)
+2026-02-07 16:58:08,470 - INFO - Scraping: 2_Samuel 23:1
+2026-02-07 16:58:08,509 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-1.htm
+2026-02-07 16:58:08,539 - INFO - Successfully scraped 35 translations for 2_Samuel 23:1
+2026-02-07 16:58:08,539 - INFO - Scraping: 2_Samuel 23:2
+2026-02-07 16:58:08,574 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-2.htm
+2026-02-07 16:58:08,600 - INFO - Successfully scraped 35 translations for 2_Samuel 23:2
+2026-02-07 16:58:08,600 - INFO - Scraping: 2_Samuel 23:3
+2026-02-07 16:58:08,636 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-3.htm
+2026-02-07 16:58:08,664 - INFO - Successfully scraped 35 translations for 2_Samuel 23:3
+2026-02-07 16:58:08,664 - INFO - Scraping: 2_Samuel 23:4
+2026-02-07 16:58:08,827 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-4.htm
+2026-02-07 16:58:08,860 - INFO - Successfully scraped 35 translations for 2_Samuel 23:4
+2026-02-07 16:58:08,860 - INFO - Scraping: 2_Samuel 23:5
+2026-02-07 16:58:08,901 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-5.htm
+2026-02-07 16:58:08,936 - INFO - Successfully scraped 35 translations for 2_Samuel 23:5
+2026-02-07 16:58:08,937 - INFO - Scraping: 2_Samuel 23:6
+2026-02-07 16:58:08,972 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-6.htm
+2026-02-07 16:58:09,429 - INFO - Successfully scraped 35 translations for 2_Samuel 23:6
+2026-02-07 16:58:09,429 - INFO - Scraping: 2_Samuel 23:7
+2026-02-07 16:58:09,490 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-7.htm
+2026-02-07 16:58:09,514 - INFO - Successfully scraped 35 translations for 2_Samuel 23:7
+2026-02-07 16:58:09,514 - INFO - Scraping: 2_Samuel 23:8
+2026-02-07 16:58:09,549 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-8.htm
+2026-02-07 16:58:09,576 - INFO - Successfully scraped 35 translations for 2_Samuel 23:8
+2026-02-07 16:58:09,577 - INFO - Scraping: 2_Samuel 23:9
+2026-02-07 16:58:09,616 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-9.htm
+2026-02-07 16:58:09,647 - INFO - Successfully scraped 35 translations for 2_Samuel 23:9
+2026-02-07 16:58:09,647 - INFO - Scraping: 2_Samuel 23:10
+2026-02-07 16:58:09,684 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-10.htm
+2026-02-07 16:58:09,717 - INFO - Successfully scraped 35 translations for 2_Samuel 23:10
+2026-02-07 16:58:09,717 - INFO - Scraping: 2_Samuel 23:11
+2026-02-07 16:58:09,876 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-11.htm
+2026-02-07 16:58:09,910 - INFO - Successfully scraped 35 translations for 2_Samuel 23:11
+2026-02-07 16:58:09,910 - INFO - Scraping: 2_Samuel 23:12
+2026-02-07 16:58:09,950 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-12.htm
+2026-02-07 16:58:09,973 - INFO - Successfully scraped 35 translations for 2_Samuel 23:12
+2026-02-07 16:58:09,974 - INFO - Scraping: 2_Samuel 23:13
+2026-02-07 16:58:10,014 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-13.htm
+2026-02-07 16:58:10,059 - INFO - Successfully scraped 35 translations for 2_Samuel 23:13
+2026-02-07 16:58:10,064 - INFO - Scraping: 2_Samuel 23:14
+2026-02-07 16:58:10,102 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-14.htm
+2026-02-07 16:58:10,124 - INFO - Successfully scraped 35 translations for 2_Samuel 23:14
+2026-02-07 16:58:10,124 - INFO - Scraping: 2_Samuel 23:15
+2026-02-07 16:58:10,158 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-15.htm
+2026-02-07 16:58:10,181 - INFO - Successfully scraped 35 translations for 2_Samuel 23:15
+2026-02-07 16:58:10,181 - INFO - Scraping: 2_Samuel 23:16
+2026-02-07 16:58:10,364 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-16.htm
+2026-02-07 16:58:10,814 - INFO - Successfully scraped 35 translations for 2_Samuel 23:16
+2026-02-07 16:58:10,814 - INFO - Scraping: 2_Samuel 23:17
+2026-02-07 16:58:10,950 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-17.htm
+2026-02-07 16:58:10,990 - INFO - Successfully scraped 35 translations for 2_Samuel 23:17
+2026-02-07 16:58:10,990 - INFO - Scraping: 2_Samuel 23:18
+2026-02-07 16:58:11,035 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-18.htm
+2026-02-07 16:58:11,156 - INFO - Successfully scraped 35 translations for 2_Samuel 23:18
+2026-02-07 16:58:11,156 - INFO - Scraping: 2_Samuel 23:19
+2026-02-07 16:58:11,192 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-19.htm
+2026-02-07 16:58:11,215 - INFO - Successfully scraped 35 translations for 2_Samuel 23:19
+2026-02-07 16:58:11,216 - INFO - Scraping: 2_Samuel 23:20
+2026-02-07 16:58:11,252 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-20.htm
+2026-02-07 16:58:11,285 - INFO - Successfully scraped 35 translations for 2_Samuel 23:20
+2026-02-07 16:58:11,285 - INFO - Scraping: 2_Samuel 23:21
+2026-02-07 16:58:11,443 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-21.htm
+2026-02-07 16:58:11,478 - INFO - Successfully scraped 35 translations for 2_Samuel 23:21
+2026-02-07 16:58:11,478 - INFO - Scraping: 2_Samuel 23:22
+2026-02-07 16:58:11,515 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-22.htm
+2026-02-07 16:58:11,540 - INFO - Successfully scraped 34 translations for 2_Samuel 23:22
+2026-02-07 16:58:11,540 - INFO - Scraping: 2_Samuel 23:23
+2026-02-07 16:58:11,576 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-23.htm
+2026-02-07 16:58:11,601 - INFO - Successfully scraped 34 translations for 2_Samuel 23:23
+2026-02-07 16:58:11,601 - INFO - Scraping: 2_Samuel 23:24
+2026-02-07 16:58:11,641 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-24.htm
+2026-02-07 16:58:11,663 - INFO - Successfully scraped 33 translations for 2_Samuel 23:24
+2026-02-07 16:58:11,663 - INFO - Scraping: 2_Samuel 23:25
+2026-02-07 16:58:11,697 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-25.htm
+2026-02-07 16:58:11,718 - INFO - Successfully scraped 33 translations for 2_Samuel 23:25
+2026-02-07 16:58:11,718 - INFO - Scraping: 2_Samuel 23:26
+2026-02-07 16:58:11,753 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-26.htm
+2026-02-07 16:58:12,183 - INFO - Successfully scraped 33 translations for 2_Samuel 23:26
+2026-02-07 16:58:12,183 - INFO - Scraping: 2_Samuel 23:27
+2026-02-07 16:58:12,221 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-27.htm
+2026-02-07 16:58:12,243 - INFO - Successfully scraped 33 translations for 2_Samuel 23:27
+2026-02-07 16:58:12,243 - INFO - Scraping: 2_Samuel 23:28
+2026-02-07 16:58:12,279 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-28.htm
+2026-02-07 16:58:12,302 - INFO - Successfully scraped 33 translations for 2_Samuel 23:28
+2026-02-07 16:58:12,303 - INFO - Scraping: 2_Samuel 23:29
+2026-02-07 16:58:12,466 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-29.htm
+2026-02-07 16:58:12,488 - INFO - Successfully scraped 33 translations for 2_Samuel 23:29
+2026-02-07 16:58:12,488 - INFO - Scraping: 2_Samuel 23:30
+2026-02-07 16:58:12,522 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-30.htm
+2026-02-07 16:58:12,544 - INFO - Successfully scraped 33 translations for 2_Samuel 23:30
+2026-02-07 16:58:12,544 - INFO - Scraping: 2_Samuel 23:31
+2026-02-07 16:58:12,582 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-31.htm
+2026-02-07 16:58:12,609 - INFO - Successfully scraped 33 translations for 2_Samuel 23:31
+2026-02-07 16:58:12,609 - INFO - Scraping: 2_Samuel 23:32
+2026-02-07 16:58:12,644 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-32.htm
+2026-02-07 16:58:12,666 - INFO - Successfully scraped 33 translations for 2_Samuel 23:32
+2026-02-07 16:58:12,666 - INFO - Scraping: 2_Samuel 23:33
+2026-02-07 16:58:12,809 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-33.htm
+2026-02-07 16:58:12,833 - INFO - Successfully scraped 33 translations for 2_Samuel 23:33
+2026-02-07 16:58:12,833 - INFO - Scraping: 2_Samuel 23:34
+2026-02-07 16:58:13,017 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-34.htm
+2026-02-07 16:58:13,042 - INFO - Successfully scraped 33 translations for 2_Samuel 23:34
+2026-02-07 16:58:13,042 - INFO - Scraping: 2_Samuel 23:35
+2026-02-07 16:58:13,081 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-35.htm
+2026-02-07 16:58:13,140 - INFO - Successfully scraped 33 translations for 2_Samuel 23:35
+2026-02-07 16:58:13,142 - INFO - Scraping: 2_Samuel 23:36
+2026-02-07 16:58:13,185 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-36.htm
+2026-02-07 16:58:13,699 - INFO - Successfully scraped 33 translations for 2_Samuel 23:36
+2026-02-07 16:58:13,699 - INFO - Scraping: 2_Samuel 23:37
+2026-02-07 16:58:13,763 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-37.htm
+2026-02-07 16:58:13,785 - INFO - Successfully scraped 33 translations for 2_Samuel 23:37
+2026-02-07 16:58:13,786 - INFO - Scraping: 2_Samuel 23:38
+2026-02-07 16:58:13,823 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-38.htm
+2026-02-07 16:58:13,843 - INFO - Successfully scraped 33 translations for 2_Samuel 23:38
+2026-02-07 16:58:13,843 - INFO - Scraping: 2_Samuel 23:39
+2026-02-07 16:58:13,883 - INFO - Saved HTML to cache: html_cache/2_Samuel/23-39.htm
+2026-02-07 16:58:13,908 - INFO - Successfully scraped 33 translations for 2_Samuel 23:39
+2026-02-07 16:58:13,909 - INFO -   -> Chapter 24 (25 verses)
+2026-02-07 16:58:13,909 - INFO - Scraping: 2_Samuel 24:1
+2026-02-07 16:58:14,070 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-1.htm
+2026-02-07 16:58:14,099 - INFO - Successfully scraped 35 translations for 2_Samuel 24:1
+2026-02-07 16:58:14,099 - INFO - Scraping: 2_Samuel 24:2
+2026-02-07 16:58:14,141 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-2.htm
+2026-02-07 16:58:14,175 - INFO - Successfully scraped 35 translations for 2_Samuel 24:2
+2026-02-07 16:58:14,175 - INFO - Scraping: 2_Samuel 24:3
+2026-02-07 16:58:14,212 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-3.htm
+2026-02-07 16:58:14,261 - INFO - Successfully scraped 35 translations for 2_Samuel 24:3
+2026-02-07 16:58:14,261 - INFO - Scraping: 2_Samuel 24:4
+2026-02-07 16:58:14,298 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-4.htm
+2026-02-07 16:58:14,329 - INFO - Successfully scraped 35 translations for 2_Samuel 24:4
+2026-02-07 16:58:14,331 - INFO - Scraping: 2_Samuel 24:5
+2026-02-07 16:58:14,368 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-5.htm
+2026-02-07 16:58:14,418 - INFO - Successfully scraped 35 translations for 2_Samuel 24:5
+2026-02-07 16:58:14,419 - INFO - Scraping: 2_Samuel 24:6
+2026-02-07 16:58:14,590 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-6.htm
+2026-02-07 16:58:14,622 - INFO - Successfully scraped 35 translations for 2_Samuel 24:6
+2026-02-07 16:58:14,622 - INFO - Scraping: 2_Samuel 24:7
+2026-02-07 16:58:14,666 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-7.htm
+2026-02-07 16:58:15,221 - INFO - Successfully scraped 35 translations for 2_Samuel 24:7
+2026-02-07 16:58:15,222 - INFO - Progress: 8700/31102 (28.0%)
+2026-02-07 16:58:15,222 - INFO - Scraping: 2_Samuel 24:8
+2026-02-07 16:58:15,258 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-8.htm
+2026-02-07 16:58:15,285 - INFO - Successfully scraped 35 translations for 2_Samuel 24:8
+2026-02-07 16:58:15,285 - INFO - Scraping: 2_Samuel 24:9
+2026-02-07 16:58:15,324 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-9.htm
+2026-02-07 16:58:15,353 - INFO - Successfully scraped 35 translations for 2_Samuel 24:9
+2026-02-07 16:58:15,353 - INFO - Scraping: 2_Samuel 24:10
+2026-02-07 16:58:15,392 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-10.htm
+2026-02-07 16:58:15,424 - INFO - Successfully scraped 35 translations for 2_Samuel 24:10
+2026-02-07 16:58:15,425 - INFO - Scraping: 2_Samuel 24:11
+2026-02-07 16:58:15,607 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-11.htm
+2026-02-07 16:58:15,631 - INFO - Successfully scraped 34 translations for 2_Samuel 24:11
+2026-02-07 16:58:15,631 - INFO - Scraping: 2_Samuel 24:12
+2026-02-07 16:58:15,671 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-12.htm
+2026-02-07 16:58:15,697 - INFO - Successfully scraped 33 translations for 2_Samuel 24:12
+2026-02-07 16:58:15,698 - INFO - Scraping: 2_Samuel 24:13
+2026-02-07 16:58:15,768 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-13.htm
+2026-02-07 16:58:15,806 - INFO - Successfully scraped 34 translations for 2_Samuel 24:13
+2026-02-07 16:58:15,806 - INFO - Scraping: 2_Samuel 24:14
+2026-02-07 16:58:15,842 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-14.htm
+2026-02-07 16:58:15,872 - INFO - Successfully scraped 35 translations for 2_Samuel 24:14
+2026-02-07 16:58:15,872 - INFO - Scraping: 2_Samuel 24:15
+2026-02-07 16:58:15,944 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-15.htm
+2026-02-07 16:58:15,971 - INFO - Successfully scraped 34 translations for 2_Samuel 24:15
+2026-02-07 16:58:15,971 - INFO - Scraping: 2_Samuel 24:16
+2026-02-07 16:58:16,132 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-16.htm
+2026-02-07 16:58:16,189 - INFO - Successfully scraped 34 translations for 2_Samuel 24:16
+2026-02-07 16:58:16,189 - INFO - Scraping: 2_Samuel 24:17
+2026-02-07 16:58:16,257 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-17.htm
+2026-02-07 16:58:16,713 - INFO - Successfully scraped 35 translations for 2_Samuel 24:17
+2026-02-07 16:58:16,713 - INFO - Scraping: 2_Samuel 24:18
+2026-02-07 16:58:16,778 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-18.htm
+2026-02-07 16:58:16,809 - INFO - Successfully scraped 34 translations for 2_Samuel 24:18
+2026-02-07 16:58:16,809 - INFO - Scraping: 2_Samuel 24:19
+2026-02-07 16:58:16,844 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-19.htm
+2026-02-07 16:58:16,864 - INFO - Successfully scraped 34 translations for 2_Samuel 24:19
+2026-02-07 16:58:16,864 - INFO - Scraping: 2_Samuel 24:20
+2026-02-07 16:58:16,898 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-20.htm
+2026-02-07 16:58:16,923 - INFO - Successfully scraped 35 translations for 2_Samuel 24:20
+2026-02-07 16:58:16,923 - INFO - Scraping: 2_Samuel 24:21
+2026-02-07 16:58:16,963 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-21.htm
+2026-02-07 16:58:16,997 - INFO - Successfully scraped 35 translations for 2_Samuel 24:21
+2026-02-07 16:58:16,997 - INFO - Scraping: 2_Samuel 24:22
+2026-02-07 16:58:17,182 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-22.htm
+2026-02-07 16:58:17,214 - INFO - Successfully scraped 35 translations for 2_Samuel 24:22
+2026-02-07 16:58:17,214 - INFO - Scraping: 2_Samuel 24:23
+2026-02-07 16:58:17,253 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-23.htm
+2026-02-07 16:58:17,281 - INFO - Successfully scraped 35 translations for 2_Samuel 24:23
+2026-02-07 16:58:17,281 - INFO - Scraping: 2_Samuel 24:24
+2026-02-07 16:58:17,345 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-24.htm
+2026-02-07 16:58:17,385 - INFO - Successfully scraped 35 translations for 2_Samuel 24:24
+2026-02-07 16:58:17,385 - INFO - Scraping: 2_Samuel 24:25
+2026-02-07 16:58:17,420 - INFO - Saved HTML to cache: html_cache/2_Samuel/24-25.htm
+2026-02-07 16:58:17,453 - INFO - Successfully scraped 35 translations for 2_Samuel 24:25
+2026-02-07 16:58:17,454 - INFO - === Starting book: 1_Kings (22 chapters) ===
+2026-02-07 16:58:17,454 - INFO -   -> Chapter 1 (53 verses)
+2026-02-07 16:58:17,454 - INFO - Scraping: 1_Kings 1:1
+2026-02-07 16:58:17,497 - INFO - Saved HTML to cache: html_cache/1_Kings/1-1.htm
+2026-02-07 16:58:17,524 - INFO - Successfully scraped 35 translations for 1_Kings 1:1
+2026-02-07 16:58:17,524 - INFO - Scraping: 1_Kings 1:2
+2026-02-07 16:58:17,704 - INFO - Saved HTML to cache: html_cache/1_Kings/1-2.htm
+2026-02-07 16:58:18,422 - INFO - Successfully scraped 35 translations for 1_Kings 1:2
+2026-02-07 16:58:18,422 - INFO - Scraping: 1_Kings 1:3
+2026-02-07 16:58:18,489 - INFO - Saved HTML to cache: html_cache/1_Kings/1-3.htm
+2026-02-07 16:58:18,521 - INFO - Successfully scraped 34 translations for 1_Kings 1:3
+2026-02-07 16:58:18,522 - INFO - Scraping: 1_Kings 1:4
+2026-02-07 16:58:18,565 - INFO - Saved HTML to cache: html_cache/1_Kings/1-4.htm
+2026-02-07 16:58:18,591 - INFO - Successfully scraped 34 translations for 1_Kings 1:4
+2026-02-07 16:58:18,591 - INFO - Scraping: 1_Kings 1:5
+2026-02-07 16:58:18,787 - INFO - Saved HTML to cache: html_cache/1_Kings/1-5.htm
+2026-02-07 16:58:18,819 - INFO - Successfully scraped 33 translations for 1_Kings 1:5
+2026-02-07 16:58:18,819 - INFO - Scraping: 1_Kings 1:6
+2026-02-07 16:58:18,859 - INFO - Saved HTML to cache: html_cache/1_Kings/1-6.htm
+2026-02-07 16:58:18,894 - INFO - Successfully scraped 33 translations for 1_Kings 1:6
+2026-02-07 16:58:18,894 - INFO - Scraping: 1_Kings 1:7
+2026-02-07 16:58:18,961 - INFO - Saved HTML to cache: html_cache/1_Kings/1-7.htm
+2026-02-07 16:58:18,994 - INFO - Successfully scraped 35 translations for 1_Kings 1:7
+2026-02-07 16:58:18,994 - INFO - Scraping: 1_Kings 1:8
+2026-02-07 16:58:19,061 - INFO - Saved HTML to cache: html_cache/1_Kings/1-8.htm
+2026-02-07 16:58:19,093 - INFO - Successfully scraped 35 translations for 1_Kings 1:8
+2026-02-07 16:58:19,094 - INFO - Scraping: 1_Kings 1:9
+2026-02-07 16:58:19,279 - INFO - Saved HTML to cache: html_cache/1_Kings/1-9.htm
+2026-02-07 16:58:19,309 - INFO - Successfully scraped 35 translations for 1_Kings 1:9
+2026-02-07 16:58:19,309 - INFO - Scraping: 1_Kings 1:10
+2026-02-07 16:58:19,346 - INFO - Saved HTML to cache: html_cache/1_Kings/1-10.htm
+2026-02-07 16:58:19,381 - INFO - Successfully scraped 35 translations for 1_Kings 1:10
+2026-02-07 16:58:19,381 - INFO - Scraping: 1_Kings 1:11
+2026-02-07 16:58:19,420 - INFO - Saved HTML to cache: html_cache/1_Kings/1-11.htm
+2026-02-07 16:58:19,462 - INFO - Successfully scraped 35 translations for 1_Kings 1:11
+2026-02-07 16:58:19,462 - INFO - Scraping: 1_Kings 1:12
+2026-02-07 16:58:19,521 - INFO - Saved HTML to cache: html_cache/1_Kings/1-12.htm
+2026-02-07 16:58:19,984 - INFO - Successfully scraped 35 translations for 1_Kings 1:12
+2026-02-07 16:58:19,984 - INFO - Scraping: 1_Kings 1:13
+2026-02-07 16:58:20,050 - INFO - Saved HTML to cache: html_cache/1_Kings/1-13.htm
+2026-02-07 16:58:20,083 - INFO - Successfully scraped 35 translations for 1_Kings 1:13
+2026-02-07 16:58:20,084 - INFO - Scraping: 1_Kings 1:14
+2026-02-07 16:58:20,137 - INFO - Saved HTML to cache: html_cache/1_Kings/1-14.htm
+2026-02-07 16:58:20,273 - INFO - Successfully scraped 35 translations for 1_Kings 1:14
+2026-02-07 16:58:20,273 - INFO - Scraping: 1_Kings 1:15
+2026-02-07 16:58:20,358 - INFO - Saved HTML to cache: html_cache/1_Kings/1-15.htm
+2026-02-07 16:58:20,419 - INFO - Successfully scraped 35 translations for 1_Kings 1:15
+2026-02-07 16:58:20,419 - INFO - Scraping: 1_Kings 1:16
+2026-02-07 16:58:20,455 - INFO - Saved HTML to cache: html_cache/1_Kings/1-16.htm
+2026-02-07 16:58:20,482 - INFO - Successfully scraped 35 translations for 1_Kings 1:16
+2026-02-07 16:58:20,482 - INFO - Scraping: 1_Kings 1:17
+2026-02-07 16:58:20,520 - INFO - Saved HTML to cache: html_cache/1_Kings/1-17.htm
+2026-02-07 16:58:20,551 - INFO - Successfully scraped 35 translations for 1_Kings 1:17
+2026-02-07 16:58:20,551 - INFO - Scraping: 1_Kings 1:18
+2026-02-07 16:58:20,587 - INFO - Saved HTML to cache: html_cache/1_Kings/1-18.htm
+2026-02-07 16:58:20,612 - INFO - Successfully scraped 35 translations for 1_Kings 1:18
+2026-02-07 16:58:20,612 - INFO - Scraping: 1_Kings 1:19
+2026-02-07 16:58:20,648 - INFO - Saved HTML to cache: html_cache/1_Kings/1-19.htm
+2026-02-07 16:58:20,684 - INFO - Successfully scraped 35 translations for 1_Kings 1:19
+2026-02-07 16:58:20,684 - INFO - Scraping: 1_Kings 1:20
+2026-02-07 16:58:20,849 - INFO - Saved HTML to cache: html_cache/1_Kings/1-20.htm
+2026-02-07 16:58:20,874 - INFO - Successfully scraped 35 translations for 1_Kings 1:20
+2026-02-07 16:58:20,874 - INFO - Scraping: 1_Kings 1:21
+2026-02-07 16:58:20,912 - INFO - Saved HTML to cache: html_cache/1_Kings/1-21.htm
+2026-02-07 16:58:20,942 - INFO - Successfully scraped 35 translations for 1_Kings 1:21
+2026-02-07 16:58:20,942 - INFO - Scraping: 1_Kings 1:22
+2026-02-07 16:58:21,011 - INFO - Saved HTML to cache: html_cache/1_Kings/1-22.htm
+2026-02-07 16:58:21,487 - INFO - Successfully scraped 35 translations for 1_Kings 1:22
+2026-02-07 16:58:21,487 - INFO - Scraping: 1_Kings 1:23
+2026-02-07 16:58:21,552 - INFO - Saved HTML to cache: html_cache/1_Kings/1-23.htm
+2026-02-07 16:58:21,583 - INFO - Successfully scraped 35 translations for 1_Kings 1:23
+2026-02-07 16:58:21,583 - INFO - Scraping: 1_Kings 1:24
+2026-02-07 16:58:21,647 - INFO - Saved HTML to cache: html_cache/1_Kings/1-24.htm
+2026-02-07 16:58:21,681 - INFO - Successfully scraped 35 translations for 1_Kings 1:24
+2026-02-07 16:58:21,681 - INFO - Scraping: 1_Kings 1:25
+2026-02-07 16:58:21,898 - INFO - Saved HTML to cache: html_cache/1_Kings/1-25.htm
+2026-02-07 16:58:21,932 - INFO - Successfully scraped 35 translations for 1_Kings 1:25
+2026-02-07 16:58:21,933 - INFO - Scraping: 1_Kings 1:26
+2026-02-07 16:58:21,999 - INFO - Saved HTML to cache: html_cache/1_Kings/1-26.htm
+2026-02-07 16:58:22,025 - INFO - Successfully scraped 35 translations for 1_Kings 1:26
+2026-02-07 16:58:22,025 - INFO - Scraping: 1_Kings 1:27
+2026-02-07 16:58:22,088 - INFO - Saved HTML to cache: html_cache/1_Kings/1-27.htm
+2026-02-07 16:58:22,123 - INFO - Successfully scraped 35 translations for 1_Kings 1:27
+2026-02-07 16:58:22,123 - INFO - Scraping: 1_Kings 1:28
+2026-02-07 16:58:22,162 - INFO - Saved HTML to cache: html_cache/1_Kings/1-28.htm
+2026-02-07 16:58:22,187 - INFO - Successfully scraped 35 translations for 1_Kings 1:28
+2026-02-07 16:58:22,187 - INFO - Scraping: 1_Kings 1:29
+2026-02-07 16:58:22,227 - INFO - Saved HTML to cache: html_cache/1_Kings/1-29.htm
+2026-02-07 16:58:22,324 - INFO - Successfully scraped 34 translations for 1_Kings 1:29
+2026-02-07 16:58:22,325 - INFO - Scraping: 1_Kings 1:30
+2026-02-07 16:58:22,455 - INFO - Saved HTML to cache: html_cache/1_Kings/1-30.htm
+2026-02-07 16:58:22,484 - INFO - Successfully scraped 34 translations for 1_Kings 1:30
+2026-02-07 16:58:22,485 - INFO - Scraping: 1_Kings 1:31
+2026-02-07 16:58:22,528 - INFO - Saved HTML to cache: html_cache/1_Kings/1-31.htm
+2026-02-07 16:58:22,561 - INFO - Successfully scraped 35 translations for 1_Kings 1:31
+2026-02-07 16:58:22,562 - INFO - Scraping: 1_Kings 1:32
+2026-02-07 16:58:22,607 - INFO - Saved HTML to cache: html_cache/1_Kings/1-32.htm
+2026-02-07 16:58:23,173 - INFO - Successfully scraped 35 translations for 1_Kings 1:32
+2026-02-07 16:58:23,173 - INFO - Scraping: 1_Kings 1:33
+2026-02-07 16:58:23,241 - INFO - Saved HTML to cache: html_cache/1_Kings/1-33.htm
+2026-02-07 16:58:23,272 - INFO - Successfully scraped 35 translations for 1_Kings 1:33
+2026-02-07 16:58:23,273 - INFO - Scraping: 1_Kings 1:34
+2026-02-07 16:58:23,475 - INFO - Saved HTML to cache: html_cache/1_Kings/1-34.htm
+2026-02-07 16:58:23,559 - INFO - Successfully scraped 35 translations for 1_Kings 1:34
+2026-02-07 16:58:23,559 - INFO - Scraping: 1_Kings 1:35
+2026-02-07 16:58:23,625 - INFO - Saved HTML to cache: html_cache/1_Kings/1-35.htm
+2026-02-07 16:58:23,662 - INFO - Successfully scraped 35 translations for 1_Kings 1:35
+2026-02-07 16:58:23,662 - INFO - Scraping: 1_Kings 1:36
+2026-02-07 16:58:23,700 - INFO - Saved HTML to cache: html_cache/1_Kings/1-36.htm
+2026-02-07 16:58:23,727 - INFO - Successfully scraped 35 translations for 1_Kings 1:36
+2026-02-07 16:58:23,727 - INFO - Scraping: 1_Kings 1:37
+2026-02-07 16:58:23,762 - INFO - Saved HTML to cache: html_cache/1_Kings/1-37.htm
+2026-02-07 16:58:23,792 - INFO - Successfully scraped 35 translations for 1_Kings 1:37
+2026-02-07 16:58:23,792 - INFO - Scraping: 1_Kings 1:38
+2026-02-07 16:58:23,995 - INFO - Saved HTML to cache: html_cache/1_Kings/1-38.htm
+2026-02-07 16:58:24,035 - INFO - Successfully scraped 35 translations for 1_Kings 1:38
+2026-02-07 16:58:24,036 - INFO - Scraping: 1_Kings 1:39
+2026-02-07 16:58:24,071 - INFO - Saved HTML to cache: html_cache/1_Kings/1-39.htm
+2026-02-07 16:58:24,106 - INFO - Successfully scraped 35 translations for 1_Kings 1:39
+2026-02-07 16:58:24,106 - INFO - Scraping: 1_Kings 1:40
