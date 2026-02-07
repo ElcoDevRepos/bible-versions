@@ -150,8 +150,8 @@ class BibleScraper:
                 try:
                     with open(json_file, 'r', encoding='utf-8') as f:
                         translation_data = json.load(f)
-                        # Extract translation name from filename (remove .json extension)
-                        translation_name = json_file.stem
+                        # Extract translation name from filename and normalize to uppercase
+                        translation_name = json_file.stem.upper()
                         self.data[translation_name] = translation_data
                     logger.info(f"Loaded existing data from {json_file.name}")
                 except Exception as e:
@@ -166,11 +166,11 @@ class BibleScraper:
             logger.error(f"Could not save progress: {e}")
     
     def save_data(self) -> None:
-        """Save each translation to its own JSON file."""
+        """Save each translation to its own JSON file with uppercase filenames."""
         output_path = Path(self.output_dir)
         for translation_name, translation_data in self.data.items():
-            # Create filename from translation name (e.g., "KING JAMES BIBLE.json")
-            filename = f"{translation_name}.json"
+            # Create filename from translation name in ALL CAPS (e.g., "KING JAMES BIBLE.json")
+            filename = f"{translation_name.upper()}.json"
             file_path = output_path / filename
             try:
                 with open(file_path, 'w', encoding='utf-8') as f:
@@ -352,18 +352,19 @@ class BibleScraper:
         
         # Store in data structure organized by translation -> book -> chapter -> verse
         for translation_name, verse_text in translations.items():
-            # Use translation name as-is (will be used as filename)
+            # Normalize translation name to uppercase for consistency
+            translation_name_upper = translation_name.upper()
             # Remove underscores for saving book title
             book_save = book.replace('_', ' ')
             # Initialize structure
-            if translation_name not in self.data:
-                self.data[translation_name] = {}
-            if book_save not in self.data[translation_name]:
-                self.data[translation_name][book_save] = {}
-            if str(chapter) not in self.data[translation_name][book_save]:
-                self.data[translation_name][book_save][str(chapter)] = {}
+            if translation_name_upper not in self.data:
+                self.data[translation_name_upper] = {}
+            if book_save not in self.data[translation_name_upper]:
+                self.data[translation_name_upper][book_save] = {}
+            if str(chapter) not in self.data[translation_name_upper][book_save]:
+                self.data[translation_name_upper][book_save][str(chapter)] = {}
             # Store verse
-            self.data[translation_name][book_save][str(chapter)][str(verse)] = verse_text
+            self.data[translation_name_upper][book_save][str(chapter)][str(verse)] = verse_text
         
         # Mark as completed
         self.mark_verse_completed(book, chapter, verse)

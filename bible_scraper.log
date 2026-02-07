@@ -1,0 +1,1012 @@
+2026-02-07 16:39:22,920 - INFO - Resume mode enabled
+2026-02-07 16:39:22,936 - INFO - Loaded existing data from NASB 1977.json
+2026-02-07 16:39:22,949 - INFO - Loaded existing data from NASB 1995.json
+2026-02-07 16:39:22,960 - INFO - Loaded existing data from KING JAMES BIBLE.json
+2026-02-07 16:39:22,973 - INFO - Loaded existing data from WORLD ENGLISH BIBLE.json
+2026-02-07 16:39:22,973 - INFO - Starting scrape of 66 books, ~31102 verses
+2026-02-07 16:39:22,973 - INFO - === Starting book: Genesis (50 chapters) ===
+2026-02-07 16:39:22,973 - INFO -   -> Chapter 1 (31 verses)
+2026-02-07 16:39:22,973 - INFO - Scraping: Genesis 1:1
+2026-02-07 16:39:23,248 - INFO - Saved HTML to cache: html_cache/Genesis/1-1.htm
+2026-02-07 16:39:23,279 - INFO - Successfully scraped 35 translations for Genesis 1:1
+2026-02-07 16:39:23,279 - INFO - Scraping: Genesis 1:2
+2026-02-07 16:39:23,436 - INFO - Saved HTML to cache: html_cache/Genesis/1-2.htm
+2026-02-07 16:39:23,474 - INFO - Successfully scraped 35 translations for Genesis 1:2
+2026-02-07 16:39:23,474 - INFO - Scraping: Genesis 1:3
+2026-02-07 16:39:23,633 - INFO - Saved HTML to cache: html_cache/Genesis/1-3.htm
+2026-02-07 16:39:23,662 - INFO - Successfully scraped 35 translations for Genesis 1:3
+2026-02-07 16:39:23,662 - INFO - Scraping: Genesis 1:4
+2026-02-07 16:39:23,711 - INFO - Saved HTML to cache: html_cache/Genesis/1-4.htm
+2026-02-07 16:39:23,733 - INFO - Successfully scraped 35 translations for Genesis 1:4
+2026-02-07 16:39:23,733 - INFO - Scraping: Genesis 1:5
+2026-02-07 16:39:23,771 - INFO - Saved HTML to cache: html_cache/Genesis/1-5.htm
+2026-02-07 16:39:23,799 - INFO - Successfully scraped 35 translations for Genesis 1:5
+2026-02-07 16:39:23,800 - INFO - Scraping: Genesis 1:6
+2026-02-07 16:39:23,841 - INFO - Saved HTML to cache: html_cache/Genesis/1-6.htm
+2026-02-07 16:39:23,867 - INFO - Successfully scraped 34 translations for Genesis 1:6
+2026-02-07 16:39:23,869 - INFO - Scraping: Genesis 1:7
+2026-02-07 16:39:23,909 - INFO - Saved HTML to cache: html_cache/Genesis/1-7.htm
+2026-02-07 16:39:23,936 - INFO - Successfully scraped 34 translations for Genesis 1:7
+2026-02-07 16:39:23,936 - INFO - Scraping: Genesis 1:8
+2026-02-07 16:39:24,123 - INFO - Saved HTML to cache: html_cache/Genesis/1-8.htm
+2026-02-07 16:39:24,151 - INFO - Successfully scraped 35 translations for Genesis 1:8
+2026-02-07 16:39:24,151 - INFO - Scraping: Genesis 1:9
+2026-02-07 16:39:24,187 - INFO - Saved HTML to cache: html_cache/Genesis/1-9.htm
+2026-02-07 16:39:24,213 - INFO - Successfully scraped 35 translations for Genesis 1:9
+2026-02-07 16:39:24,213 - INFO - Scraping: Genesis 1:10
+2026-02-07 16:39:24,249 - INFO - Saved HTML to cache: html_cache/Genesis/1-10.htm
+2026-02-07 16:39:24,423 - INFO - Successfully scraped 35 translations for Genesis 1:10
+2026-02-07 16:39:24,423 - INFO - Scraping: Genesis 1:11
+2026-02-07 16:39:24,468 - INFO - Saved HTML to cache: html_cache/Genesis/1-11.htm
+2026-02-07 16:39:24,533 - INFO - Successfully scraped 35 translations for Genesis 1:11
+2026-02-07 16:39:24,533 - INFO - Scraping: Genesis 1:12
+2026-02-07 16:39:24,677 - INFO - Saved HTML to cache: html_cache/Genesis/1-12.htm
+2026-02-07 16:39:24,705 - INFO - Successfully scraped 35 translations for Genesis 1:12
+2026-02-07 16:39:24,705 - INFO - Scraping: Genesis 1:13
+2026-02-07 16:39:24,745 - INFO - Saved HTML to cache: html_cache/Genesis/1-13.htm
+2026-02-07 16:39:24,765 - INFO - Successfully scraped 35 translations for Genesis 1:13
+2026-02-07 16:39:24,765 - INFO - Scraping: Genesis 1:14
+2026-02-07 16:39:24,801 - INFO - Saved HTML to cache: html_cache/Genesis/1-14.htm
+2026-02-07 16:39:24,832 - INFO - Successfully scraped 35 translations for Genesis 1:14
+2026-02-07 16:39:24,832 - INFO - Scraping: Genesis 1:15
+2026-02-07 16:39:24,867 - INFO - Saved HTML to cache: html_cache/Genesis/1-15.htm
+2026-02-07 16:39:24,890 - INFO - Successfully scraped 35 translations for Genesis 1:15
+2026-02-07 16:39:24,890 - INFO - Scraping: Genesis 1:16
+2026-02-07 16:39:24,930 - INFO - Saved HTML to cache: html_cache/Genesis/1-16.htm
+2026-02-07 16:39:24,958 - INFO - Successfully scraped 35 translations for Genesis 1:16
+2026-02-07 16:39:24,958 - INFO - Scraping: Genesis 1:17
+2026-02-07 16:39:24,995 - INFO - Saved HTML to cache: html_cache/Genesis/1-17.htm
+2026-02-07 16:39:25,019 - INFO - Successfully scraped 35 translations for Genesis 1:17
+2026-02-07 16:39:25,019 - INFO - Scraping: Genesis 1:18
+2026-02-07 16:39:25,201 - INFO - Saved HTML to cache: html_cache/Genesis/1-18.htm
+2026-02-07 16:39:25,226 - INFO - Successfully scraped 35 translations for Genesis 1:18
+2026-02-07 16:39:25,226 - INFO - Scraping: Genesis 1:19
+2026-02-07 16:39:25,260 - INFO - Saved HTML to cache: html_cache/Genesis/1-19.htm
+2026-02-07 16:39:25,279 - INFO - Successfully scraped 35 translations for Genesis 1:19
+2026-02-07 16:39:25,279 - INFO - Scraping: Genesis 1:20
+2026-02-07 16:39:25,316 - INFO - Saved HTML to cache: html_cache/Genesis/1-20.htm
+2026-02-07 16:39:25,464 - INFO - Successfully scraped 35 translations for Genesis 1:20
+2026-02-07 16:39:25,464 - INFO - Scraping: Genesis 1:21
+2026-02-07 16:39:25,501 - INFO - Saved HTML to cache: html_cache/Genesis/1-21.htm
+2026-02-07 16:39:25,534 - INFO - Successfully scraped 35 translations for Genesis 1:21
+2026-02-07 16:39:25,534 - INFO - Scraping: Genesis 1:22
+2026-02-07 16:39:25,693 - INFO - Saved HTML to cache: html_cache/Genesis/1-22.htm
+2026-02-07 16:39:25,724 - INFO - Successfully scraped 35 translations for Genesis 1:22
+2026-02-07 16:39:25,725 - INFO - Scraping: Genesis 1:23
+2026-02-07 16:39:25,760 - INFO - Saved HTML to cache: html_cache/Genesis/1-23.htm
+2026-02-07 16:39:25,785 - INFO - Successfully scraped 35 translations for Genesis 1:23
+2026-02-07 16:39:25,785 - INFO - Scraping: Genesis 1:24
+2026-02-07 16:39:25,825 - INFO - Saved HTML to cache: html_cache/Genesis/1-24.htm
+2026-02-07 16:39:25,853 - INFO - Successfully scraped 35 translations for Genesis 1:24
+2026-02-07 16:39:25,853 - INFO - Scraping: Genesis 1:25
+2026-02-07 16:39:25,888 - INFO - Saved HTML to cache: html_cache/Genesis/1-25.htm
+2026-02-07 16:39:25,920 - INFO - Successfully scraped 35 translations for Genesis 1:25
+2026-02-07 16:39:25,920 - INFO - Scraping: Genesis 1:26
+2026-02-07 16:39:25,958 - INFO - Saved HTML to cache: html_cache/Genesis/1-26.htm
+2026-02-07 16:39:25,993 - INFO - Successfully scraped 35 translations for Genesis 1:26
+2026-02-07 16:39:25,993 - INFO - Scraping: Genesis 1:27
+2026-02-07 16:39:26,030 - INFO - Saved HTML to cache: html_cache/Genesis/1-27.htm
+2026-02-07 16:39:26,055 - INFO - Successfully scraped 35 translations for Genesis 1:27
+2026-02-07 16:39:26,055 - INFO - Scraping: Genesis 1:28
+2026-02-07 16:39:26,216 - INFO - Saved HTML to cache: html_cache/Genesis/1-28.htm
+2026-02-07 16:39:26,250 - INFO - Successfully scraped 35 translations for Genesis 1:28
+2026-02-07 16:39:26,250 - INFO - Scraping: Genesis 1:29
+2026-02-07 16:39:26,287 - INFO - Saved HTML to cache: html_cache/Genesis/1-29.htm
+2026-02-07 16:39:26,320 - INFO - Successfully scraped 35 translations for Genesis 1:29
+2026-02-07 16:39:26,320 - INFO - Scraping: Genesis 1:30
+2026-02-07 16:39:26,360 - INFO - Saved HTML to cache: html_cache/Genesis/1-30.htm
+2026-02-07 16:39:26,515 - INFO - Successfully scraped 35 translations for Genesis 1:30
+2026-02-07 16:39:26,515 - INFO - Scraping: Genesis 1:31
+2026-02-07 16:39:26,553 - INFO - Saved HTML to cache: html_cache/Genesis/1-31.htm
+2026-02-07 16:39:26,577 - INFO - Successfully scraped 35 translations for Genesis 1:31
+2026-02-07 16:39:26,577 - INFO -   -> Chapter 2 (25 verses)
+2026-02-07 16:39:26,577 - INFO - Scraping: Genesis 2:1
+2026-02-07 16:39:26,745 - INFO - Saved HTML to cache: html_cache/Genesis/2-1.htm
+2026-02-07 16:39:26,767 - INFO - Successfully scraped 35 translations for Genesis 2:1
+2026-02-07 16:39:26,767 - INFO - Scraping: Genesis 2:2
+2026-02-07 16:39:26,805 - INFO - Saved HTML to cache: html_cache/Genesis/2-2.htm
+2026-02-07 16:39:26,846 - INFO - Successfully scraped 35 translations for Genesis 2:2
+2026-02-07 16:39:26,846 - INFO - Scraping: Genesis 2:3
+2026-02-07 16:39:26,885 - INFO - Saved HTML to cache: html_cache/Genesis/2-3.htm
+2026-02-07 16:39:26,913 - INFO - Successfully scraped 35 translations for Genesis 2:3
+2026-02-07 16:39:26,913 - INFO - Scraping: Genesis 2:4
+2026-02-07 16:39:26,954 - INFO - Saved HTML to cache: html_cache/Genesis/2-4.htm
+2026-02-07 16:39:26,980 - INFO - Successfully scraped 35 translations for Genesis 2:4
+2026-02-07 16:39:26,980 - INFO - Scraping: Genesis 2:5
+2026-02-07 16:39:27,016 - INFO - Saved HTML to cache: html_cache/Genesis/2-5.htm
+2026-02-07 16:39:27,044 - INFO - Successfully scraped 35 translations for Genesis 2:5
+2026-02-07 16:39:27,044 - INFO - Scraping: Genesis 2:6
+2026-02-07 16:39:27,080 - INFO - Saved HTML to cache: html_cache/Genesis/2-6.htm
+2026-02-07 16:39:27,105 - INFO - Successfully scraped 35 translations for Genesis 2:6
+2026-02-07 16:39:27,105 - INFO - Scraping: Genesis 2:7
+2026-02-07 16:39:27,269 - INFO - Saved HTML to cache: html_cache/Genesis/2-7.htm
+2026-02-07 16:39:27,302 - INFO - Successfully scraped 35 translations for Genesis 2:7
+2026-02-07 16:39:27,302 - INFO - Scraping: Genesis 2:8
+2026-02-07 16:39:27,340 - INFO - Saved HTML to cache: html_cache/Genesis/2-8.htm
+2026-02-07 16:39:27,367 - INFO - Successfully scraped 35 translations for Genesis 2:8
+2026-02-07 16:39:27,367 - INFO - Scraping: Genesis 2:9
+2026-02-07 16:39:27,405 - INFO - Saved HTML to cache: html_cache/Genesis/2-9.htm
+2026-02-07 16:39:27,563 - INFO - Successfully scraped 35 translations for Genesis 2:9
+2026-02-07 16:39:27,563 - INFO - Scraping: Genesis 2:10
+2026-02-07 16:39:27,600 - INFO - Saved HTML to cache: html_cache/Genesis/2-10.htm
+2026-02-07 16:39:27,625 - INFO - Successfully scraped 35 translations for Genesis 2:10
+2026-02-07 16:39:27,625 - INFO - Scraping: Genesis 2:11
+2026-02-07 16:39:27,790 - INFO - Saved HTML to cache: html_cache/Genesis/2-11.htm
+2026-02-07 16:39:27,814 - INFO - Successfully scraped 35 translations for Genesis 2:11
+2026-02-07 16:39:27,814 - INFO - Scraping: Genesis 2:12
+2026-02-07 16:39:27,851 - INFO - Saved HTML to cache: html_cache/Genesis/2-12.htm
+2026-02-07 16:39:27,873 - INFO - Successfully scraped 35 translations for Genesis 2:12
+2026-02-07 16:39:27,873 - INFO - Scraping: Genesis 2:13
+2026-02-07 16:39:27,909 - INFO - Saved HTML to cache: html_cache/Genesis/2-13.htm
+2026-02-07 16:39:27,933 - INFO - Successfully scraped 35 translations for Genesis 2:13
+2026-02-07 16:39:27,933 - INFO - Scraping: Genesis 2:14
+2026-02-07 16:39:27,970 - INFO - Saved HTML to cache: html_cache/Genesis/2-14.htm
+2026-02-07 16:39:28,000 - INFO - Successfully scraped 35 translations for Genesis 2:14
+2026-02-07 16:39:28,000 - INFO - Scraping: Genesis 2:15
+2026-02-07 16:39:28,036 - INFO - Saved HTML to cache: html_cache/Genesis/2-15.htm
+2026-02-07 16:39:28,060 - INFO - Successfully scraped 35 translations for Genesis 2:15
+2026-02-07 16:39:28,060 - INFO - Scraping: Genesis 2:16
+2026-02-07 16:39:28,101 - INFO - Saved HTML to cache: html_cache/Genesis/2-16.htm
+2026-02-07 16:39:28,126 - INFO - Successfully scraped 35 translations for Genesis 2:16
+2026-02-07 16:39:28,126 - INFO - Scraping: Genesis 2:17
+2026-02-07 16:39:28,314 - INFO - Saved HTML to cache: html_cache/Genesis/2-17.htm
+2026-02-07 16:39:28,358 - INFO - Successfully scraped 35 translations for Genesis 2:17
+2026-02-07 16:39:28,358 - INFO - Scraping: Genesis 2:18
+2026-02-07 16:39:28,396 - INFO - Saved HTML to cache: html_cache/Genesis/2-18.htm
+2026-02-07 16:39:28,492 - INFO - Successfully scraped 35 translations for Genesis 2:18
+2026-02-07 16:39:28,493 - INFO - Scraping: Genesis 2:19
+2026-02-07 16:39:28,540 - INFO - Saved HTML to cache: html_cache/Genesis/2-19.htm
+2026-02-07 16:39:28,717 - INFO - Successfully scraped 34 translations for Genesis 2:19
+2026-02-07 16:39:28,717 - INFO - Scraping: Genesis 2:20
+2026-02-07 16:39:28,874 - INFO - Saved HTML to cache: html_cache/Genesis/2-20.htm
+2026-02-07 16:39:28,905 - INFO - Successfully scraped 34 translations for Genesis 2:20
+2026-02-07 16:39:28,905 - INFO - Scraping: Genesis 2:21
+2026-02-07 16:39:28,946 - INFO - Saved HTML to cache: html_cache/Genesis/2-21.htm
+2026-02-07 16:39:28,975 - INFO - Successfully scraped 35 translations for Genesis 2:21
+2026-02-07 16:39:28,975 - INFO - Scraping: Genesis 2:22
+2026-02-07 16:39:29,012 - INFO - Saved HTML to cache: html_cache/Genesis/2-22.htm
+2026-02-07 16:39:29,039 - INFO - Successfully scraped 35 translations for Genesis 2:22
+2026-02-07 16:39:29,039 - INFO - Scraping: Genesis 2:23
+2026-02-07 16:39:29,078 - INFO - Saved HTML to cache: html_cache/Genesis/2-23.htm
+2026-02-07 16:39:29,107 - INFO - Successfully scraped 35 translations for Genesis 2:23
+2026-02-07 16:39:29,107 - INFO - Scraping: Genesis 2:24
+2026-02-07 16:39:29,144 - INFO - Saved HTML to cache: html_cache/Genesis/2-24.htm
+2026-02-07 16:39:29,172 - INFO - Successfully scraped 35 translations for Genesis 2:24
+2026-02-07 16:39:29,172 - INFO - Scraping: Genesis 2:25
+2026-02-07 16:39:29,211 - INFO - Saved HTML to cache: html_cache/Genesis/2-25.htm
+2026-02-07 16:39:29,236 - INFO - Successfully scraped 35 translations for Genesis 2:25
+2026-02-07 16:39:29,239 - INFO -   -> Chapter 3 (24 verses)
+2026-02-07 16:39:29,239 - INFO - Scraping: Genesis 3:1
+2026-02-07 16:39:29,394 - INFO - Saved HTML to cache: html_cache/Genesis/3-1.htm
+2026-02-07 16:39:29,428 - INFO - Successfully scraped 35 translations for Genesis 3:1
+2026-02-07 16:39:29,428 - INFO - Scraping: Genesis 3:2
+2026-02-07 16:39:29,466 - INFO - Saved HTML to cache: html_cache/Genesis/3-2.htm
+2026-02-07 16:39:29,489 - INFO - Successfully scraped 35 translations for Genesis 3:2
+2026-02-07 16:39:29,489 - INFO - Scraping: Genesis 3:3
+2026-02-07 16:39:29,526 - INFO - Saved HTML to cache: html_cache/Genesis/3-3.htm
+2026-02-07 16:39:29,552 - INFO - Successfully scraped 35 translations for Genesis 3:3
+2026-02-07 16:39:29,552 - INFO - Scraping: Genesis 3:4
+2026-02-07 16:39:29,589 - INFO - Saved HTML to cache: html_cache/Genesis/3-4.htm
+2026-02-07 16:39:29,756 - INFO - Successfully scraped 35 translations for Genesis 3:4
+2026-02-07 16:39:29,756 - INFO - Scraping: Genesis 3:5
+2026-02-07 16:39:29,919 - INFO - Saved HTML to cache: html_cache/Genesis/3-5.htm
+2026-02-07 16:39:29,948 - INFO - Successfully scraped 35 translations for Genesis 3:5
+2026-02-07 16:39:29,948 - INFO - Scraping: Genesis 3:6
+2026-02-07 16:39:29,984 - INFO - Saved HTML to cache: html_cache/Genesis/3-6.htm
+2026-02-07 16:39:30,016 - INFO - Successfully scraped 35 translations for Genesis 3:6
+2026-02-07 16:39:30,016 - INFO - Scraping: Genesis 3:7
+2026-02-07 16:39:30,076 - INFO - Saved HTML to cache: html_cache/Genesis/3-7.htm
+2026-02-07 16:39:30,102 - INFO - Successfully scraped 35 translations for Genesis 3:7
+2026-02-07 16:39:30,102 - INFO - Scraping: Genesis 3:8
+2026-02-07 16:39:30,139 - INFO - Saved HTML to cache: html_cache/Genesis/3-8.htm
+2026-02-07 16:39:30,170 - INFO - Successfully scraped 35 translations for Genesis 3:8
+2026-02-07 16:39:30,170 - INFO - Scraping: Genesis 3:9
+2026-02-07 16:39:30,207 - INFO - Saved HTML to cache: html_cache/Genesis/3-9.htm
+2026-02-07 16:39:30,240 - INFO - Successfully scraped 35 translations for Genesis 3:9
+2026-02-07 16:39:30,240 - INFO - Scraping: Genesis 3:10
+2026-02-07 16:39:30,410 - INFO - Saved HTML to cache: html_cache/Genesis/3-10.htm
+2026-02-07 16:39:30,435 - INFO - Successfully scraped 35 translations for Genesis 3:10
+2026-02-07 16:39:30,435 - INFO - Scraping: Genesis 3:11
+2026-02-07 16:39:30,471 - INFO - Saved HTML to cache: html_cache/Genesis/3-11.htm
+2026-02-07 16:39:30,497 - INFO - Successfully scraped 35 translations for Genesis 3:11
+2026-02-07 16:39:30,497 - INFO - Scraping: Genesis 3:12
+2026-02-07 16:39:30,534 - INFO - Saved HTML to cache: html_cache/Genesis/3-12.htm
+2026-02-07 16:39:30,557 - INFO - Successfully scraped 35 translations for Genesis 3:12
+2026-02-07 16:39:30,557 - INFO - Scraping: Genesis 3:13
+2026-02-07 16:39:30,592 - INFO - Saved HTML to cache: html_cache/Genesis/3-13.htm
+2026-02-07 16:39:30,621 - INFO - Successfully scraped 35 translations for Genesis 3:13
+2026-02-07 16:39:30,621 - INFO - Scraping: Genesis 3:14
+2026-02-07 16:39:30,658 - INFO - Saved HTML to cache: html_cache/Genesis/3-14.htm
+2026-02-07 16:39:30,815 - INFO - Successfully scraped 35 translations for Genesis 3:14
+2026-02-07 16:39:30,815 - INFO - Scraping: Genesis 3:15
+2026-02-07 16:39:30,998 - INFO - Saved HTML to cache: html_cache/Genesis/3-15.htm
+2026-02-07 16:39:31,031 - INFO - Successfully scraped 35 translations for Genesis 3:15
+2026-02-07 16:39:31,031 - INFO - Scraping: Genesis 3:16
+2026-02-07 16:39:31,071 - INFO - Saved HTML to cache: html_cache/Genesis/3-16.htm
+2026-02-07 16:39:31,103 - INFO - Successfully scraped 35 translations for Genesis 3:16
+2026-02-07 16:39:31,103 - INFO - Scraping: Genesis 3:17
+2026-02-07 16:39:31,145 - INFO - Saved HTML to cache: html_cache/Genesis/3-17.htm
+2026-02-07 16:39:31,177 - INFO - Successfully scraped 35 translations for Genesis 3:17
+2026-02-07 16:39:31,177 - INFO - Scraping: Genesis 3:18
+2026-02-07 16:39:31,212 - INFO - Saved HTML to cache: html_cache/Genesis/3-18.htm
+2026-02-07 16:39:31,234 - INFO - Successfully scraped 35 translations for Genesis 3:18
+2026-02-07 16:39:31,234 - INFO - Scraping: Genesis 3:19
+2026-02-07 16:39:31,273 - INFO - Saved HTML to cache: html_cache/Genesis/3-19.htm
+2026-02-07 16:39:31,302 - INFO - Successfully scraped 35 translations for Genesis 3:19
+2026-02-07 16:39:31,302 - INFO - Scraping: Genesis 3:20
+2026-02-07 16:39:31,459 - INFO - Saved HTML to cache: html_cache/Genesis/3-20.htm
+2026-02-07 16:39:31,486 - INFO - Successfully scraped 35 translations for Genesis 3:20
+2026-02-07 16:39:31,486 - INFO - Scraping: Genesis 3:21
+2026-02-07 16:39:31,522 - INFO - Saved HTML to cache: html_cache/Genesis/3-21.htm
+2026-02-07 16:39:31,561 - INFO - Successfully scraped 35 translations for Genesis 3:21
+2026-02-07 16:39:31,562 - INFO - Scraping: Genesis 3:22
+2026-02-07 16:39:31,601 - INFO - Saved HTML to cache: html_cache/Genesis/3-22.htm
+2026-02-07 16:39:31,633 - INFO - Successfully scraped 35 translations for Genesis 3:22
+2026-02-07 16:39:31,633 - INFO - Scraping: Genesis 3:23
+2026-02-07 16:39:31,671 - INFO - Saved HTML to cache: html_cache/Genesis/3-23.htm
+2026-02-07 16:39:31,695 - INFO - Successfully scraped 35 translations for Genesis 3:23
+2026-02-07 16:39:31,695 - INFO - Scraping: Genesis 3:24
+2026-02-07 16:39:31,739 - INFO - Saved HTML to cache: html_cache/Genesis/3-24.htm
+2026-02-07 16:39:31,895 - INFO - Successfully scraped 35 translations for Genesis 3:24
+2026-02-07 16:39:31,895 - INFO -   -> Chapter 4 (26 verses)
+2026-02-07 16:39:31,895 - INFO - Scraping: Genesis 4:1
+2026-02-07 16:39:32,044 - INFO - Saved HTML to cache: html_cache/Genesis/4-1.htm
+2026-02-07 16:39:32,071 - INFO - Successfully scraped 35 translations for Genesis 4:1
+2026-02-07 16:39:32,073 - INFO - Scraping: Genesis 4:2
+2026-02-07 16:39:32,112 - INFO - Saved HTML to cache: html_cache/Genesis/4-2.htm
+2026-02-07 16:39:32,138 - INFO - Successfully scraped 35 translations for Genesis 4:2
+2026-02-07 16:39:32,141 - INFO - Scraping: Genesis 4:3
+2026-02-07 16:39:32,176 - INFO - Saved HTML to cache: html_cache/Genesis/4-3.htm
+2026-02-07 16:39:32,198 - INFO - Successfully scraped 35 translations for Genesis 4:3
+2026-02-07 16:39:32,198 - INFO - Scraping: Genesis 4:4
+2026-02-07 16:39:32,234 - INFO - Saved HTML to cache: html_cache/Genesis/4-4.htm
+2026-02-07 16:39:32,262 - INFO - Successfully scraped 35 translations for Genesis 4:4
+2026-02-07 16:39:32,262 - INFO - Scraping: Genesis 4:5
+2026-02-07 16:39:32,301 - INFO - Saved HTML to cache: html_cache/Genesis/4-5.htm
+2026-02-07 16:39:32,323 - INFO - Successfully scraped 35 translations for Genesis 4:5
+2026-02-07 16:39:32,323 - INFO - Scraping: Genesis 4:6
+2026-02-07 16:39:32,508 - INFO - Saved HTML to cache: html_cache/Genesis/4-6.htm
+2026-02-07 16:39:32,532 - INFO - Successfully scraped 35 translations for Genesis 4:6
+2026-02-07 16:39:32,532 - INFO - Scraping: Genesis 4:7
+2026-02-07 16:39:32,568 - INFO - Saved HTML to cache: html_cache/Genesis/4-7.htm
+2026-02-07 16:39:32,597 - INFO - Successfully scraped 35 translations for Genesis 4:7
+2026-02-07 16:39:32,597 - INFO - Scraping: Genesis 4:8
+2026-02-07 16:39:32,633 - INFO - Saved HTML to cache: html_cache/Genesis/4-8.htm
+2026-02-07 16:39:32,664 - INFO - Successfully scraped 35 translations for Genesis 4:8
+2026-02-07 16:39:32,664 - INFO - Scraping: Genesis 4:9
+2026-02-07 16:39:32,700 - INFO - Saved HTML to cache: html_cache/Genesis/4-9.htm
+2026-02-07 16:39:32,728 - INFO - Successfully scraped 35 translations for Genesis 4:9
+2026-02-07 16:39:32,728 - INFO - Scraping: Genesis 4:10
+2026-02-07 16:39:32,766 - INFO - Saved HTML to cache: html_cache/Genesis/4-10.htm
+2026-02-07 16:39:32,916 - INFO - Successfully scraped 35 translations for Genesis 4:10
+2026-02-07 16:39:32,916 - INFO - Scraping: Genesis 4:11
+2026-02-07 16:39:33,098 - INFO - Saved HTML to cache: html_cache/Genesis/4-11.htm
+2026-02-07 16:39:33,126 - INFO - Successfully scraped 35 translations for Genesis 4:11
+2026-02-07 16:39:33,126 - INFO - Scraping: Genesis 4:12
+2026-02-07 16:39:33,161 - INFO - Saved HTML to cache: html_cache/Genesis/4-12.htm
+2026-02-07 16:39:33,190 - INFO - Successfully scraped 35 translations for Genesis 4:12
+2026-02-07 16:39:33,190 - INFO - Scraping: Genesis 4:13
+2026-02-07 16:39:33,225 - INFO - Saved HTML to cache: html_cache/Genesis/4-13.htm
+2026-02-07 16:39:33,248 - INFO - Successfully scraped 35 translations for Genesis 4:13
+2026-02-07 16:39:33,248 - INFO - Scraping: Genesis 4:14
+2026-02-07 16:39:33,285 - INFO - Saved HTML to cache: html_cache/Genesis/4-14.htm
+2026-02-07 16:39:33,312 - INFO - Successfully scraped 35 translations for Genesis 4:14
+2026-02-07 16:39:33,312 - INFO - Scraping: Genesis 4:15
+2026-02-07 16:39:33,354 - INFO - Saved HTML to cache: html_cache/Genesis/4-15.htm
+2026-02-07 16:39:33,382 - INFO - Successfully scraped 35 translations for Genesis 4:15
+2026-02-07 16:39:33,382 - INFO - Scraping: Genesis 4:16
+2026-02-07 16:39:33,556 - INFO - Saved HTML to cache: html_cache/Genesis/4-16.htm
+2026-02-07 16:39:33,583 - INFO - Successfully scraped 35 translations for Genesis 4:16
+2026-02-07 16:39:33,583 - INFO - Scraping: Genesis 4:17
+2026-02-07 16:39:33,623 - INFO - Saved HTML to cache: html_cache/Genesis/4-17.htm
+2026-02-07 16:39:33,650 - INFO - Successfully scraped 35 translations for Genesis 4:17
+2026-02-07 16:39:33,650 - INFO - Scraping: Genesis 4:18
+2026-02-07 16:39:33,687 - INFO - Saved HTML to cache: html_cache/Genesis/4-18.htm
+2026-02-07 16:39:33,713 - INFO - Successfully scraped 35 translations for Genesis 4:18
+2026-02-07 16:39:33,713 - INFO - Scraping: Genesis 4:19
+2026-02-07 16:39:33,748 - INFO - Saved HTML to cache: html_cache/Genesis/4-19.htm
+2026-02-07 16:39:33,771 - INFO - Successfully scraped 35 translations for Genesis 4:19
+2026-02-07 16:39:33,771 - INFO - Scraping: Genesis 4:20
+2026-02-07 16:39:33,809 - INFO - Saved HTML to cache: html_cache/Genesis/4-20.htm
+2026-02-07 16:39:33,960 - INFO - Successfully scraped 34 translations for Genesis 4:20
+2026-02-07 16:39:33,960 - INFO - Progress: 100/31102 (0.3%)
+2026-02-07 16:39:33,960 - INFO - Scraping: Genesis 4:21
+2026-02-07 16:39:34,116 - INFO - Saved HTML to cache: html_cache/Genesis/4-21.htm
+2026-02-07 16:39:34,141 - INFO - Successfully scraped 34 translations for Genesis 4:21
+2026-02-07 16:39:34,141 - INFO - Scraping: Genesis 4:22
+2026-02-07 16:39:34,283 - INFO - Saved HTML to cache: html_cache/Genesis/4-22.htm
+2026-02-07 16:39:34,309 - INFO - Successfully scraped 35 translations for Genesis 4:22
+2026-02-07 16:39:34,309 - INFO - Scraping: Genesis 4:23
+2026-02-07 16:39:34,350 - INFO - Saved HTML to cache: html_cache/Genesis/4-23.htm
+2026-02-07 16:39:34,381 - INFO - Successfully scraped 35 translations for Genesis 4:23
+2026-02-07 16:39:34,381 - INFO - Scraping: Genesis 4:24
+2026-02-07 16:39:34,417 - INFO - Saved HTML to cache: html_cache/Genesis/4-24.htm
+2026-02-07 16:39:34,443 - INFO - Successfully scraped 35 translations for Genesis 4:24
+2026-02-07 16:39:34,443 - INFO - Scraping: Genesis 4:25
+2026-02-07 16:39:34,607 - INFO - Saved HTML to cache: html_cache/Genesis/4-25.htm
+2026-02-07 16:39:34,636 - INFO - Successfully scraped 35 translations for Genesis 4:25
+2026-02-07 16:39:34,636 - INFO - Scraping: Genesis 4:26
+2026-02-07 16:39:34,675 - INFO - Saved HTML to cache: html_cache/Genesis/4-26.htm
+2026-02-07 16:39:34,698 - INFO - Successfully scraped 35 translations for Genesis 4:26
+2026-02-07 16:39:34,698 - INFO -   -> Chapter 5 (32 verses)
+2026-02-07 16:39:34,698 - INFO - Scraping: Genesis 5:1
+2026-02-07 16:39:34,737 - INFO - Saved HTML to cache: html_cache/Genesis/5-1.htm
+2026-02-07 16:39:34,761 - INFO - Successfully scraped 34 translations for Genesis 5:1
+2026-02-07 16:39:34,762 - INFO - Scraping: Genesis 5:2
+2026-02-07 16:39:34,797 - INFO - Saved HTML to cache: html_cache/Genesis/5-2.htm
+2026-02-07 16:39:34,824 - INFO - Successfully scraped 34 translations for Genesis 5:2
+2026-02-07 16:39:34,825 - INFO - Scraping: Genesis 5:3
+2026-02-07 16:39:34,863 - INFO - Saved HTML to cache: html_cache/Genesis/5-3.htm
+2026-02-07 16:39:34,888 - INFO - Successfully scraped 34 translations for Genesis 5:3
+2026-02-07 16:39:34,892 - INFO - Scraping: Genesis 5:4
+2026-02-07 16:39:34,927 - INFO - Saved HTML to cache: html_cache/Genesis/5-4.htm
+2026-02-07 16:39:35,086 - INFO - Successfully scraped 34 translations for Genesis 5:4
+2026-02-07 16:39:35,086 - INFO - Scraping: Genesis 5:5
+2026-02-07 16:39:35,163 - INFO - Saved HTML to cache: html_cache/Genesis/5-5.htm
+2026-02-07 16:39:35,187 - INFO - Successfully scraped 35 translations for Genesis 5:5
+2026-02-07 16:39:35,188 - INFO - Scraping: Genesis 5:6
+2026-02-07 16:39:35,222 - INFO - Saved HTML to cache: html_cache/Genesis/5-6.htm
+2026-02-07 16:39:35,251 - INFO - Successfully scraped 35 translations for Genesis 5:6
+2026-02-07 16:39:35,251 - INFO - Scraping: Genesis 5:7
+2026-02-07 16:39:35,293 - INFO - Saved HTML to cache: html_cache/Genesis/5-7.htm
+2026-02-07 16:39:35,319 - INFO - Successfully scraped 35 translations for Genesis 5:7
+2026-02-07 16:39:35,319 - INFO - Scraping: Genesis 5:8
+2026-02-07 16:39:35,354 - INFO - Saved HTML to cache: html_cache/Genesis/5-8.htm
+2026-02-07 16:39:35,375 - INFO - Successfully scraped 35 translations for Genesis 5:8
+2026-02-07 16:39:35,375 - INFO - Scraping: Genesis 5:9
+2026-02-07 16:39:35,411 - INFO - Saved HTML to cache: html_cache/Genesis/5-9.htm
+2026-02-07 16:39:35,432 - INFO - Successfully scraped 35 translations for Genesis 5:9
+2026-02-07 16:39:35,432 - INFO - Scraping: Genesis 5:10
+2026-02-07 16:39:35,470 - INFO - Saved HTML to cache: html_cache/Genesis/5-10.htm
+2026-02-07 16:39:35,499 - INFO - Successfully scraped 35 translations for Genesis 5:10
+2026-02-07 16:39:35,499 - INFO - Scraping: Genesis 5:11
+2026-02-07 16:39:35,689 - INFO - Saved HTML to cache: html_cache/Genesis/5-11.htm
+2026-02-07 16:39:35,713 - INFO - Successfully scraped 35 translations for Genesis 5:11
+2026-02-07 16:39:35,713 - INFO - Scraping: Genesis 5:12
+2026-02-07 16:39:35,755 - INFO - Saved HTML to cache: html_cache/Genesis/5-12.htm
+2026-02-07 16:39:35,777 - INFO - Successfully scraped 35 translations for Genesis 5:12
+2026-02-07 16:39:35,777 - INFO - Scraping: Genesis 5:13
+2026-02-07 16:39:35,813 - INFO - Saved HTML to cache: html_cache/Genesis/5-13.htm
+2026-02-07 16:39:35,837 - INFO - Successfully scraped 35 translations for Genesis 5:13
+2026-02-07 16:39:35,837 - INFO - Scraping: Genesis 5:14
+2026-02-07 16:39:35,872 - INFO - Saved HTML to cache: html_cache/Genesis/5-14.htm
+2026-02-07 16:39:36,048 - INFO - Successfully scraped 35 translations for Genesis 5:14
+2026-02-07 16:39:36,048 - INFO - Scraping: Genesis 5:15
+2026-02-07 16:39:36,207 - INFO - Saved HTML to cache: html_cache/Genesis/5-15.htm
+2026-02-07 16:39:36,236 - INFO - Successfully scraped 35 translations for Genesis 5:15
+2026-02-07 16:39:36,236 - INFO - Scraping: Genesis 5:16
+2026-02-07 16:39:36,271 - INFO - Saved HTML to cache: html_cache/Genesis/5-16.htm
+2026-02-07 16:39:36,309 - INFO - Successfully scraped 35 translations for Genesis 5:16
+2026-02-07 16:39:36,309 - INFO - Scraping: Genesis 5:17
+2026-02-07 16:39:36,346 - INFO - Saved HTML to cache: html_cache/Genesis/5-17.htm
+2026-02-07 16:39:36,367 - INFO - Successfully scraped 35 translations for Genesis 5:17
+2026-02-07 16:39:36,367 - INFO - Scraping: Genesis 5:18
+2026-02-07 16:39:36,404 - INFO - Saved HTML to cache: html_cache/Genesis/5-18.htm
+2026-02-07 16:39:36,425 - INFO - Successfully scraped 35 translations for Genesis 5:18
+2026-02-07 16:39:36,425 - INFO - Scraping: Genesis 5:19
+2026-02-07 16:39:36,459 - INFO - Saved HTML to cache: html_cache/Genesis/5-19.htm
+2026-02-07 16:39:36,482 - INFO - Successfully scraped 35 translations for Genesis 5:19
+2026-02-07 16:39:36,482 - INFO - Scraping: Genesis 5:20
+2026-02-07 16:39:36,517 - INFO - Saved HTML to cache: html_cache/Genesis/5-20.htm
+2026-02-07 16:39:36,537 - INFO - Successfully scraped 35 translations for Genesis 5:20
+2026-02-07 16:39:36,537 - INFO - Scraping: Genesis 5:21
+2026-02-07 16:39:36,702 - INFO - Saved HTML to cache: html_cache/Genesis/5-21.htm
+2026-02-07 16:39:36,728 - INFO - Successfully scraped 35 translations for Genesis 5:21
+2026-02-07 16:39:36,728 - INFO - Scraping: Genesis 5:22
+2026-02-07 16:39:36,762 - INFO - Saved HTML to cache: html_cache/Genesis/5-22.htm
+2026-02-07 16:39:36,785 - INFO - Successfully scraped 35 translations for Genesis 5:22
+2026-02-07 16:39:36,785 - INFO - Scraping: Genesis 5:23
+2026-02-07 16:39:36,822 - INFO - Saved HTML to cache: html_cache/Genesis/5-23.htm
+2026-02-07 16:39:36,841 - INFO - Successfully scraped 34 translations for Genesis 5:23
+2026-02-07 16:39:36,841 - INFO - Scraping: Genesis 5:24
+2026-02-07 16:39:36,876 - INFO - Saved HTML to cache: html_cache/Genesis/5-24.htm
+2026-02-07 16:39:37,127 - INFO - Successfully scraped 34 translations for Genesis 5:24
+2026-02-07 16:39:37,127 - INFO - Scraping: Genesis 5:25
+2026-02-07 16:39:37,258 - INFO - Saved HTML to cache: html_cache/Genesis/5-25.htm
+2026-02-07 16:39:37,281 - INFO - Successfully scraped 35 translations for Genesis 5:25
+2026-02-07 16:39:37,281 - INFO - Scraping: Genesis 5:26
+2026-02-07 16:39:37,324 - INFO - Saved HTML to cache: html_cache/Genesis/5-26.htm
+2026-02-07 16:39:37,346 - INFO - Successfully scraped 35 translations for Genesis 5:26
+2026-02-07 16:39:37,346 - INFO - Scraping: Genesis 5:27
+2026-02-07 16:39:37,386 - INFO - Saved HTML to cache: html_cache/Genesis/5-27.htm
+2026-02-07 16:39:37,407 - INFO - Successfully scraped 35 translations for Genesis 5:27
+2026-02-07 16:39:37,407 - INFO - Scraping: Genesis 5:28
+2026-02-07 16:39:37,444 - INFO - Saved HTML to cache: html_cache/Genesis/5-28.htm
+2026-02-07 16:39:37,465 - INFO - Successfully scraped 35 translations for Genesis 5:28
+2026-02-07 16:39:37,465 - INFO - Scraping: Genesis 5:29
+2026-02-07 16:39:37,501 - INFO - Saved HTML to cache: html_cache/Genesis/5-29.htm
+2026-02-07 16:39:37,561 - INFO - Successfully scraped 35 translations for Genesis 5:29
+2026-02-07 16:39:37,562 - INFO - Scraping: Genesis 5:30
+2026-02-07 16:39:37,751 - INFO - Saved HTML to cache: html_cache/Genesis/5-30.htm
+2026-02-07 16:39:37,776 - INFO - Successfully scraped 35 translations for Genesis 5:30
+2026-02-07 16:39:37,776 - INFO - Scraping: Genesis 5:31
+2026-02-07 16:39:37,810 - INFO - Saved HTML to cache: html_cache/Genesis/5-31.htm
+2026-02-07 16:39:37,831 - INFO - Successfully scraped 35 translations for Genesis 5:31
+2026-02-07 16:39:37,831 - INFO - Scraping: Genesis 5:32
+2026-02-07 16:39:37,868 - INFO - Saved HTML to cache: html_cache/Genesis/5-32.htm
+2026-02-07 16:39:37,895 - INFO - Successfully scraped 35 translations for Genesis 5:32
+2026-02-07 16:39:37,895 - INFO -   -> Chapter 6 (22 verses)
+2026-02-07 16:39:37,895 - INFO - Scraping: Genesis 6:1
+2026-02-07 16:39:37,932 - INFO - Saved HTML to cache: html_cache/Genesis/6-1.htm
+2026-02-07 16:39:37,955 - INFO - Successfully scraped 34 translations for Genesis 6:1
+2026-02-07 16:39:37,955 - INFO - Scraping: Genesis 6:2
+2026-02-07 16:39:37,992 - INFO - Saved HTML to cache: html_cache/Genesis/6-2.htm
+2026-02-07 16:39:38,154 - INFO - Successfully scraped 34 translations for Genesis 6:2
+2026-02-07 16:39:38,154 - INFO - Scraping: Genesis 6:3
+2026-02-07 16:39:38,308 - INFO - Saved HTML to cache: html_cache/Genesis/6-3.htm
+2026-02-07 16:39:38,336 - INFO - Successfully scraped 35 translations for Genesis 6:3
+2026-02-07 16:39:38,337 - INFO - Scraping: Genesis 6:4
+2026-02-07 16:39:38,378 - INFO - Saved HTML to cache: html_cache/Genesis/6-4.htm
+2026-02-07 16:39:38,409 - INFO - Successfully scraped 35 translations for Genesis 6:4
+2026-02-07 16:39:38,409 - INFO - Scraping: Genesis 6:5
+2026-02-07 16:39:38,444 - INFO - Saved HTML to cache: html_cache/Genesis/6-5.htm
+2026-02-07 16:39:38,471 - INFO - Successfully scraped 35 translations for Genesis 6:5
+2026-02-07 16:39:38,471 - INFO - Scraping: Genesis 6:6
+2026-02-07 16:39:38,507 - INFO - Saved HTML to cache: html_cache/Genesis/6-6.htm
+2026-02-07 16:39:38,534 - INFO - Successfully scraped 35 translations for Genesis 6:6
+2026-02-07 16:39:38,535 - INFO - Scraping: Genesis 6:7
+2026-02-07 16:39:38,573 - INFO - Saved HTML to cache: html_cache/Genesis/6-7.htm
+2026-02-07 16:39:38,604 - INFO - Successfully scraped 35 translations for Genesis 6:7
+2026-02-07 16:39:38,604 - INFO - Scraping: Genesis 6:8
+2026-02-07 16:39:38,638 - INFO - Saved HTML to cache: html_cache/Genesis/6-8.htm
+2026-02-07 16:39:38,660 - INFO - Successfully scraped 35 translations for Genesis 6:8
+2026-02-07 16:39:38,660 - INFO - Scraping: Genesis 6:9
+2026-02-07 16:39:38,831 - INFO - Saved HTML to cache: html_cache/Genesis/6-9.htm
+2026-02-07 16:39:38,858 - INFO - Successfully scraped 34 translations for Genesis 6:9
+2026-02-07 16:39:38,858 - INFO - Scraping: Genesis 6:10
+2026-02-07 16:39:38,897 - INFO - Saved HTML to cache: html_cache/Genesis/6-10.htm
+2026-02-07 16:39:38,922 - INFO - Successfully scraped 34 translations for Genesis 6:10
+2026-02-07 16:39:38,922 - INFO - Scraping: Genesis 6:11
+2026-02-07 16:39:38,964 - INFO - Saved HTML to cache: html_cache/Genesis/6-11.htm
+2026-02-07 16:39:38,986 - INFO - Successfully scraped 34 translations for Genesis 6:11
+2026-02-07 16:39:38,986 - INFO - Scraping: Genesis 6:12
+2026-02-07 16:39:39,022 - INFO - Saved HTML to cache: html_cache/Genesis/6-12.htm
+2026-02-07 16:39:39,202 - INFO - Successfully scraped 34 translations for Genesis 6:12
+2026-02-07 16:39:39,202 - INFO - Scraping: Genesis 6:13
+2026-02-07 16:39:39,359 - INFO - Saved HTML to cache: html_cache/Genesis/6-13.htm
+2026-02-07 16:39:39,388 - INFO - Successfully scraped 35 translations for Genesis 6:13
+2026-02-07 16:39:39,388 - INFO - Scraping: Genesis 6:14
+2026-02-07 16:39:39,428 - INFO - Saved HTML to cache: html_cache/Genesis/6-14.htm
+2026-02-07 16:39:39,456 - INFO - Successfully scraped 35 translations for Genesis 6:14
+2026-02-07 16:39:39,456 - INFO - Scraping: Genesis 6:15
+2026-02-07 16:39:39,493 - INFO - Saved HTML to cache: html_cache/Genesis/6-15.htm
+2026-02-07 16:39:39,519 - INFO - Successfully scraped 35 translations for Genesis 6:15
+2026-02-07 16:39:39,519 - INFO - Scraping: Genesis 6:16
+2026-02-07 16:39:39,559 - INFO - Saved HTML to cache: html_cache/Genesis/6-16.htm
+2026-02-07 16:39:39,733 - INFO - Successfully scraped 35 translations for Genesis 6:16
+2026-02-07 16:39:39,733 - INFO - Scraping: Genesis 6:17
+2026-02-07 16:39:39,884 - INFO - Saved HTML to cache: html_cache/Genesis/6-17.htm
+2026-02-07 16:39:39,915 - INFO - Successfully scraped 35 translations for Genesis 6:17
+2026-02-07 16:39:39,915 - INFO - Scraping: Genesis 6:18
+2026-02-07 16:39:39,955 - INFO - Saved HTML to cache: html_cache/Genesis/6-18.htm
+2026-02-07 16:39:39,985 - INFO - Successfully scraped 35 translations for Genesis 6:18
+2026-02-07 16:39:39,998 - INFO - Scraping: Genesis 6:19
+2026-02-07 16:39:40,036 - INFO - Saved HTML to cache: html_cache/Genesis/6-19.htm
+2026-02-07 16:39:40,061 - INFO - Successfully scraped 33 translations for Genesis 6:19
+2026-02-07 16:39:40,061 - INFO - Scraping: Genesis 6:20
+2026-02-07 16:39:40,096 - INFO - Saved HTML to cache: html_cache/Genesis/6-20.htm
+2026-02-07 16:39:40,122 - INFO - Successfully scraped 33 translations for Genesis 6:20
+2026-02-07 16:39:40,122 - INFO - Scraping: Genesis 6:21
+2026-02-07 16:39:40,162 - INFO - Saved HTML to cache: html_cache/Genesis/6-21.htm
+2026-02-07 16:39:40,186 - INFO - Successfully scraped 35 translations for Genesis 6:21
+2026-02-07 16:39:40,186 - INFO - Scraping: Genesis 6:22
+2026-02-07 16:39:40,227 - INFO - Saved HTML to cache: html_cache/Genesis/6-22.htm
+2026-02-07 16:39:40,384 - INFO - Successfully scraped 35 translations for Genesis 6:22
+2026-02-07 16:39:40,384 - INFO -   -> Chapter 7 (24 verses)
+2026-02-07 16:39:40,384 - INFO - Scraping: Genesis 7:1
+2026-02-07 16:39:40,419 - INFO - Saved HTML to cache: html_cache/Genesis/7-1.htm
+2026-02-07 16:39:40,444 - INFO - Successfully scraped 35 translations for Genesis 7:1
+2026-02-07 16:39:40,444 - INFO - Scraping: Genesis 7:2
+2026-02-07 16:39:40,482 - INFO - Saved HTML to cache: html_cache/Genesis/7-2.htm
+2026-02-07 16:39:40,509 - INFO - Successfully scraped 35 translations for Genesis 7:2
+2026-02-07 16:39:40,509 - INFO - Scraping: Genesis 7:3
+2026-02-07 16:39:40,549 - INFO - Saved HTML to cache: html_cache/Genesis/7-3.htm
+2026-02-07 16:39:40,717 - INFO - Successfully scraped 35 translations for Genesis 7:3
+2026-02-07 16:39:40,718 - INFO - Scraping: Genesis 7:4
+2026-02-07 16:39:40,897 - INFO - Saved HTML to cache: html_cache/Genesis/7-4.htm
+2026-02-07 16:39:40,934 - INFO - Successfully scraped 35 translations for Genesis 7:4
+2026-02-07 16:39:40,934 - INFO - Scraping: Genesis 7:5
+2026-02-07 16:39:40,970 - INFO - Saved HTML to cache: html_cache/Genesis/7-5.htm
+2026-02-07 16:39:40,990 - INFO - Successfully scraped 34 translations for Genesis 7:5
+2026-02-07 16:39:40,990 - INFO - Scraping: Genesis 7:6
+2026-02-07 16:39:41,029 - INFO - Saved HTML to cache: html_cache/Genesis/7-6.htm
+2026-02-07 16:39:41,051 - INFO - Successfully scraped 34 translations for Genesis 7:6
+2026-02-07 16:39:41,051 - INFO - Scraping: Genesis 7:7
+2026-02-07 16:39:41,086 - INFO - Saved HTML to cache: html_cache/Genesis/7-7.htm
+2026-02-07 16:39:41,109 - INFO - Successfully scraped 34 translations for Genesis 7:7
+2026-02-07 16:39:41,110 - INFO - Scraping: Genesis 7:8
+2026-02-07 16:39:41,146 - INFO - Saved HTML to cache: html_cache/Genesis/7-8.htm
+2026-02-07 16:39:41,173 - INFO - Successfully scraped 34 translations for Genesis 7:8
+2026-02-07 16:39:41,173 - INFO - Scraping: Genesis 7:9
+2026-02-07 16:39:41,210 - INFO - Saved HTML to cache: html_cache/Genesis/7-9.htm
+2026-02-07 16:39:41,261 - INFO - Successfully scraped 34 translations for Genesis 7:9
+2026-02-07 16:39:41,261 - INFO - Scraping: Genesis 7:10
+2026-02-07 16:39:41,421 - INFO - Saved HTML to cache: html_cache/Genesis/7-10.htm
+2026-02-07 16:39:41,605 - INFO - Successfully scraped 35 translations for Genesis 7:10
+2026-02-07 16:39:41,605 - INFO - Scraping: Genesis 7:11
+2026-02-07 16:39:41,670 - INFO - Saved HTML to cache: html_cache/Genesis/7-11.htm
+2026-02-07 16:39:41,700 - INFO - Successfully scraped 34 translations for Genesis 7:11
+2026-02-07 16:39:41,700 - INFO - Scraping: Genesis 7:12
+2026-02-07 16:39:41,740 - INFO - Saved HTML to cache: html_cache/Genesis/7-12.htm
+2026-02-07 16:39:41,762 - INFO - Successfully scraped 34 translations for Genesis 7:12
+2026-02-07 16:39:41,762 - INFO - Scraping: Genesis 7:13
+2026-02-07 16:39:41,944 - INFO - Saved HTML to cache: html_cache/Genesis/7-13.htm
+2026-02-07 16:39:41,974 - INFO - Successfully scraped 35 translations for Genesis 7:13
+2026-02-07 16:39:41,974 - INFO - Scraping: Genesis 7:14
+2026-02-07 16:39:42,012 - INFO - Saved HTML to cache: html_cache/Genesis/7-14.htm
+2026-02-07 16:39:42,038 - INFO - Successfully scraped 35 translations for Genesis 7:14
+2026-02-07 16:39:42,039 - INFO - Scraping: Genesis 7:15
+2026-02-07 16:39:42,076 - INFO - Saved HTML to cache: html_cache/Genesis/7-15.htm
+2026-02-07 16:39:42,115 - INFO - Successfully scraped 35 translations for Genesis 7:15
+2026-02-07 16:39:42,115 - INFO - Scraping: Genesis 7:16
+2026-02-07 16:39:42,151 - INFO - Saved HTML to cache: html_cache/Genesis/7-16.htm
+2026-02-07 16:39:42,175 - INFO - Successfully scraped 35 translations for Genesis 7:16
+2026-02-07 16:39:42,175 - INFO - Scraping: Genesis 7:17
+2026-02-07 16:39:42,216 - INFO - Saved HTML to cache: html_cache/Genesis/7-17.htm
+2026-02-07 16:39:42,243 - INFO - Successfully scraped 34 translations for Genesis 7:17
+2026-02-07 16:39:42,243 - INFO - Scraping: Genesis 7:18
+2026-02-07 16:39:42,279 - INFO - Saved HTML to cache: html_cache/Genesis/7-18.htm
+2026-02-07 16:39:42,301 - INFO - Successfully scraped 34 translations for Genesis 7:18
+2026-02-07 16:39:42,301 - INFO - Scraping: Genesis 7:19
+2026-02-07 16:39:42,470 - INFO - Saved HTML to cache: html_cache/Genesis/7-19.htm
+2026-02-07 16:39:42,498 - INFO - Successfully scraped 34 translations for Genesis 7:19
+2026-02-07 16:39:42,498 - INFO - Scraping: Genesis 7:20
+2026-02-07 16:39:42,534 - INFO - Saved HTML to cache: html_cache/Genesis/7-20.htm
+2026-02-07 16:39:42,683 - INFO - Successfully scraped 34 translations for Genesis 7:20
+2026-02-07 16:39:42,683 - INFO - Scraping: Genesis 7:21
+2026-02-07 16:39:42,720 - INFO - Saved HTML to cache: html_cache/Genesis/7-21.htm
+2026-02-07 16:39:42,752 - INFO - Successfully scraped 35 translations for Genesis 7:21
+2026-02-07 16:39:42,752 - INFO - Scraping: Genesis 7:22
+2026-02-07 16:39:42,794 - INFO - Saved HTML to cache: html_cache/Genesis/7-22.htm
+2026-02-07 16:39:42,815 - INFO - Successfully scraped 34 translations for Genesis 7:22
+2026-02-07 16:39:42,815 - INFO - Scraping: Genesis 7:23
+2026-02-07 16:39:42,996 - INFO - Saved HTML to cache: html_cache/Genesis/7-23.htm
+2026-02-07 16:39:43,038 - INFO - Successfully scraped 34 translations for Genesis 7:23
+2026-02-07 16:39:43,038 - INFO - Scraping: Genesis 7:24
+2026-02-07 16:39:43,073 - INFO - Saved HTML to cache: html_cache/Genesis/7-24.htm
+2026-02-07 16:39:43,104 - INFO - Successfully scraped 35 translations for Genesis 7:24
+2026-02-07 16:39:43,104 - INFO -   -> Chapter 8 (22 verses)
+2026-02-07 16:39:43,104 - INFO - Scraping: Genesis 8:1
+2026-02-07 16:39:43,144 - INFO - Saved HTML to cache: html_cache/Genesis/8-1.htm
+2026-02-07 16:39:43,176 - INFO - Successfully scraped 35 translations for Genesis 8:1
+2026-02-07 16:39:43,176 - INFO - Scraping: Genesis 8:2
+2026-02-07 16:39:43,213 - INFO - Saved HTML to cache: html_cache/Genesis/8-2.htm
+2026-02-07 16:39:43,237 - INFO - Successfully scraped 35 translations for Genesis 8:2
+2026-02-07 16:39:43,237 - INFO - Scraping: Genesis 8:3
+2026-02-07 16:39:43,274 - INFO - Saved HTML to cache: html_cache/Genesis/8-3.htm
+2026-02-07 16:39:43,297 - INFO - Successfully scraped 35 translations for Genesis 8:3
+2026-02-07 16:39:43,297 - INFO - Scraping: Genesis 8:4
+2026-02-07 16:39:43,333 - INFO - Saved HTML to cache: html_cache/Genesis/8-4.htm
+2026-02-07 16:39:43,356 - INFO - Successfully scraped 35 translations for Genesis 8:4
+2026-02-07 16:39:43,356 - INFO - Scraping: Genesis 8:5
+2026-02-07 16:39:43,518 - INFO - Saved HTML to cache: html_cache/Genesis/8-5.htm
+2026-02-07 16:39:43,546 - INFO - Successfully scraped 35 translations for Genesis 8:5
+2026-02-07 16:39:43,546 - INFO - Scraping: Genesis 8:6
+2026-02-07 16:39:43,586 - INFO - Saved HTML to cache: html_cache/Genesis/8-6.htm
+2026-02-07 16:39:43,762 - INFO - Successfully scraped 34 translations for Genesis 8:6
+2026-02-07 16:39:43,762 - INFO - Scraping: Genesis 8:7
+2026-02-07 16:39:43,797 - INFO - Saved HTML to cache: html_cache/Genesis/8-7.htm
+2026-02-07 16:39:43,819 - INFO - Successfully scraped 34 translations for Genesis 8:7
+2026-02-07 16:39:43,820 - INFO - Scraping: Genesis 8:8
+2026-02-07 16:39:43,856 - INFO - Saved HTML to cache: html_cache/Genesis/8-8.htm
+2026-02-07 16:39:43,879 - INFO - Successfully scraped 35 translations for Genesis 8:8
+2026-02-07 16:39:43,879 - INFO - Scraping: Genesis 8:9
+2026-02-07 16:39:44,042 - INFO - Saved HTML to cache: html_cache/Genesis/8-9.htm
+2026-02-07 16:39:44,073 - INFO - Successfully scraped 35 translations for Genesis 8:9
+2026-02-07 16:39:44,073 - INFO - Scraping: Genesis 8:10
+2026-02-07 16:39:44,106 - INFO - Saved HTML to cache: html_cache/Genesis/8-10.htm
+2026-02-07 16:39:44,130 - INFO - Successfully scraped 35 translations for Genesis 8:10
+2026-02-07 16:39:44,130 - INFO - Scraping: Genesis 8:11
+2026-02-07 16:39:44,165 - INFO - Saved HTML to cache: html_cache/Genesis/8-11.htm
+2026-02-07 16:39:44,190 - INFO - Successfully scraped 35 translations for Genesis 8:11
+2026-02-07 16:39:44,190 - INFO - Scraping: Genesis 8:12
+2026-02-07 16:39:44,226 - INFO - Saved HTML to cache: html_cache/Genesis/8-12.htm
+2026-02-07 16:39:44,260 - INFO - Successfully scraped 35 translations for Genesis 8:12
+2026-02-07 16:39:44,260 - INFO - Scraping: Genesis 8:13
+2026-02-07 16:39:44,298 - INFO - Saved HTML to cache: html_cache/Genesis/8-13.htm
+2026-02-07 16:39:44,331 - INFO - Successfully scraped 35 translations for Genesis 8:13
+2026-02-07 16:39:44,331 - INFO - Scraping: Genesis 8:14
+2026-02-07 16:39:44,369 - INFO - Saved HTML to cache: html_cache/Genesis/8-14.htm
+2026-02-07 16:39:44,390 - INFO - Successfully scraped 35 translations for Genesis 8:14
+2026-02-07 16:39:44,390 - INFO - Scraping: Genesis 8:15
+2026-02-07 16:39:44,567 - INFO - Saved HTML to cache: html_cache/Genesis/8-15.htm
+2026-02-07 16:39:44,588 - INFO - Successfully scraped 35 translations for Genesis 8:15
+2026-02-07 16:39:44,588 - INFO - Scraping: Genesis 8:16
+2026-02-07 16:39:44,628 - INFO - Saved HTML to cache: html_cache/Genesis/8-16.htm
+2026-02-07 16:39:44,778 - INFO - Successfully scraped 35 translations for Genesis 8:16
+2026-02-07 16:39:44,778 - INFO - Progress: 200/31102 (0.6%)
+2026-02-07 16:39:44,778 - INFO - Scraping: Genesis 8:17
+2026-02-07 16:39:44,815 - INFO - Saved HTML to cache: html_cache/Genesis/8-17.htm
+2026-02-07 16:39:44,846 - INFO - Successfully scraped 35 translations for Genesis 8:17
+2026-02-07 16:39:44,847 - INFO - Scraping: Genesis 8:18
+2026-02-07 16:39:44,881 - INFO - Saved HTML to cache: html_cache/Genesis/8-18.htm
+2026-02-07 16:39:44,904 - INFO - Successfully scraped 35 translations for Genesis 8:18
+2026-02-07 16:39:44,905 - INFO - Scraping: Genesis 8:19
+2026-02-07 16:39:45,187 - INFO - Saved HTML to cache: html_cache/Genesis/8-19.htm
+2026-02-07 16:39:45,214 - INFO - Successfully scraped 35 translations for Genesis 8:19
+2026-02-07 16:39:45,214 - INFO - Scraping: Genesis 8:20
+2026-02-07 16:39:45,252 - INFO - Saved HTML to cache: html_cache/Genesis/8-20.htm
+2026-02-07 16:39:45,278 - INFO - Successfully scraped 35 translations for Genesis 8:20
+2026-02-07 16:39:45,278 - INFO - Scraping: Genesis 8:21
+2026-02-07 16:39:45,319 - INFO - Saved HTML to cache: html_cache/Genesis/8-21.htm
+2026-02-07 16:39:45,427 - INFO - Successfully scraped 35 translations for Genesis 8:21
+2026-02-07 16:39:45,427 - INFO - Scraping: Genesis 8:22
+2026-02-07 16:39:45,615 - INFO - Saved HTML to cache: html_cache/Genesis/8-22.htm
+2026-02-07 16:39:45,643 - INFO - Successfully scraped 35 translations for Genesis 8:22
+2026-02-07 16:39:45,643 - INFO -   -> Chapter 9 (29 verses)
+2026-02-07 16:39:45,643 - INFO - Scraping: Genesis 9:1
+2026-02-07 16:39:45,682 - INFO - Saved HTML to cache: html_cache/Genesis/9-1.htm
+2026-02-07 16:39:45,710 - INFO - Successfully scraped 35 translations for Genesis 9:1
+2026-02-07 16:39:45,711 - INFO - Scraping: Genesis 9:2
+2026-02-07 16:39:45,747 - INFO - Saved HTML to cache: html_cache/Genesis/9-2.htm
+2026-02-07 16:39:45,776 - INFO - Successfully scraped 35 translations for Genesis 9:2
+2026-02-07 16:39:45,776 - INFO - Scraping: Genesis 9:3
+2026-02-07 16:39:45,813 - INFO - Saved HTML to cache: html_cache/Genesis/9-3.htm
+2026-02-07 16:39:45,839 - INFO - Successfully scraped 35 translations for Genesis 9:3
+2026-02-07 16:39:45,839 - INFO - Scraping: Genesis 9:4
+2026-02-07 16:39:45,876 - INFO - Saved HTML to cache: html_cache/Genesis/9-4.htm
+2026-02-07 16:39:46,041 - INFO - Successfully scraped 35 translations for Genesis 9:4
+2026-02-07 16:39:46,042 - INFO - Scraping: Genesis 9:5
+2026-02-07 16:39:46,174 - INFO - Saved HTML to cache: html_cache/Genesis/9-5.htm
+2026-02-07 16:39:46,203 - INFO - Successfully scraped 34 translations for Genesis 9:5
+2026-02-07 16:39:46,203 - INFO - Scraping: Genesis 9:6
+2026-02-07 16:39:46,248 - INFO - Saved HTML to cache: html_cache/Genesis/9-6.htm
+2026-02-07 16:39:46,272 - INFO - Successfully scraped 34 translations for Genesis 9:6
+2026-02-07 16:39:46,272 - INFO - Scraping: Genesis 9:7
+2026-02-07 16:39:46,312 - INFO - Saved HTML to cache: html_cache/Genesis/9-7.htm
+2026-02-07 16:39:46,354 - INFO - Successfully scraped 35 translations for Genesis 9:7
+2026-02-07 16:39:46,354 - INFO - Scraping: Genesis 9:8
+2026-02-07 16:39:46,398 - INFO - Saved HTML to cache: html_cache/Genesis/9-8.htm
+2026-02-07 16:39:46,420 - INFO - Successfully scraped 35 translations for Genesis 9:8
+2026-02-07 16:39:46,420 - INFO - Scraping: Genesis 9:9
+2026-02-07 16:39:46,456 - INFO - Saved HTML to cache: html_cache/Genesis/9-9.htm
+2026-02-07 16:39:46,478 - INFO - Successfully scraped 35 translations for Genesis 9:9
+2026-02-07 16:39:46,478 - INFO - Scraping: Genesis 9:10
+2026-02-07 16:39:46,663 - INFO - Saved HTML to cache: html_cache/Genesis/9-10.htm
+2026-02-07 16:39:46,691 - INFO - Successfully scraped 35 translations for Genesis 9:10
+2026-02-07 16:39:46,691 - INFO - Scraping: Genesis 9:11
+2026-02-07 16:39:46,729 - INFO - Saved HTML to cache: html_cache/Genesis/9-11.htm
+2026-02-07 16:39:46,759 - INFO - Successfully scraped 35 translations for Genesis 9:11
+2026-02-07 16:39:46,759 - INFO - Scraping: Genesis 9:12
+2026-02-07 16:39:46,797 - INFO - Saved HTML to cache: html_cache/Genesis/9-12.htm
+2026-02-07 16:39:46,824 - INFO - Successfully scraped 34 translations for Genesis 9:12
+2026-02-07 16:39:46,824 - INFO - Scraping: Genesis 9:13
+2026-02-07 16:39:46,862 - INFO - Saved HTML to cache: html_cache/Genesis/9-13.htm
+2026-02-07 16:39:46,885 - INFO - Successfully scraped 34 translations for Genesis 9:13
+2026-02-07 16:39:46,885 - INFO - Scraping: Genesis 9:14
+2026-02-07 16:39:46,925 - INFO - Saved HTML to cache: html_cache/Genesis/9-14.htm
+2026-02-07 16:39:47,078 - INFO - Successfully scraped 35 translations for Genesis 9:14
+2026-02-07 16:39:47,078 - INFO - Scraping: Genesis 9:15
+2026-02-07 16:39:47,225 - INFO - Saved HTML to cache: html_cache/Genesis/9-15.htm
+2026-02-07 16:39:47,253 - INFO - Successfully scraped 35 translations for Genesis 9:15
+2026-02-07 16:39:47,254 - INFO - Scraping: Genesis 9:16
+2026-02-07 16:39:47,294 - INFO - Saved HTML to cache: html_cache/Genesis/9-16.htm
+2026-02-07 16:39:47,322 - INFO - Successfully scraped 35 translations for Genesis 9:16
+2026-02-07 16:39:47,322 - INFO - Scraping: Genesis 9:17
+2026-02-07 16:39:47,358 - INFO - Saved HTML to cache: html_cache/Genesis/9-17.htm
+2026-02-07 16:39:47,385 - INFO - Successfully scraped 35 translations for Genesis 9:17
+2026-02-07 16:39:47,385 - INFO - Scraping: Genesis 9:18
+2026-02-07 16:39:47,420 - INFO - Saved HTML to cache: html_cache/Genesis/9-18.htm
+2026-02-07 16:39:47,443 - INFO - Successfully scraped 35 translations for Genesis 9:18
+2026-02-07 16:39:47,443 - INFO - Scraping: Genesis 9:19
+2026-02-07 16:39:47,476 - INFO - Saved HTML to cache: html_cache/Genesis/9-19.htm
+2026-02-07 16:39:47,508 - INFO - Successfully scraped 35 translations for Genesis 9:19
+2026-02-07 16:39:47,509 - INFO - Scraping: Genesis 9:20
+2026-02-07 16:39:47,544 - INFO - Saved HTML to cache: html_cache/Genesis/9-20.htm
+2026-02-07 16:39:47,567 - INFO - Successfully scraped 35 translations for Genesis 9:20
+2026-02-07 16:39:47,567 - INFO - Scraping: Genesis 9:21
+2026-02-07 16:39:47,745 - INFO - Saved HTML to cache: html_cache/Genesis/9-21.htm
+2026-02-07 16:39:47,768 - INFO - Successfully scraped 35 translations for Genesis 9:21
+2026-02-07 16:39:47,768 - INFO - Scraping: Genesis 9:22
+2026-02-07 16:39:47,803 - INFO - Saved HTML to cache: html_cache/Genesis/9-22.htm
+2026-02-07 16:39:47,827 - INFO - Successfully scraped 35 translations for Genesis 9:22
+2026-02-07 16:39:47,827 - INFO - Scraping: Genesis 9:23
+2026-02-07 16:39:47,863 - INFO - Saved HTML to cache: html_cache/Genesis/9-23.htm
+2026-02-07 16:39:47,891 - INFO - Successfully scraped 35 translations for Genesis 9:23
+2026-02-07 16:39:47,891 - INFO - Scraping: Genesis 9:24
+2026-02-07 16:39:47,930 - INFO - Saved HTML to cache: html_cache/Genesis/9-24.htm
+2026-02-07 16:39:48,088 - INFO - Successfully scraped 35 translations for Genesis 9:24
+2026-02-07 16:39:48,088 - INFO - Scraping: Genesis 9:25
+2026-02-07 16:39:48,268 - INFO - Saved HTML to cache: html_cache/Genesis/9-25.htm
+2026-02-07 16:39:48,292 - INFO - Successfully scraped 35 translations for Genesis 9:25
+2026-02-07 16:39:48,292 - INFO - Scraping: Genesis 9:26
+2026-02-07 16:39:48,331 - INFO - Saved HTML to cache: html_cache/Genesis/9-26.htm
+2026-02-07 16:39:48,363 - INFO - Successfully scraped 35 translations for Genesis 9:26
+2026-02-07 16:39:48,364 - INFO - Scraping: Genesis 9:27
+2026-02-07 16:39:48,409 - INFO - Saved HTML to cache: html_cache/Genesis/9-27.htm
+2026-02-07 16:39:48,437 - INFO - Successfully scraped 35 translations for Genesis 9:27
+2026-02-07 16:39:48,437 - INFO - Scraping: Genesis 9:28
+2026-02-07 16:39:48,473 - INFO - Saved HTML to cache: html_cache/Genesis/9-28.htm
+2026-02-07 16:39:48,496 - INFO - Successfully scraped 35 translations for Genesis 9:28
+2026-02-07 16:39:48,496 - INFO - Scraping: Genesis 9:29
+2026-02-07 16:39:48,534 - INFO - Saved HTML to cache: html_cache/Genesis/9-29.htm
+2026-02-07 16:39:48,556 - INFO - Successfully scraped 35 translations for Genesis 9:29
+2026-02-07 16:39:48,557 - INFO -   -> Chapter 10 (32 verses)
+2026-02-07 16:39:48,557 - INFO - Scraping: Genesis 10:1
+2026-02-07 16:39:48,596 - INFO - Saved HTML to cache: html_cache/Genesis/10-1.htm
+2026-02-07 16:39:48,625 - INFO - Successfully scraped 35 translations for Genesis 10:1
+2026-02-07 16:39:48,625 - INFO - Scraping: Genesis 10:2
+2026-02-07 16:39:48,794 - INFO - Saved HTML to cache: html_cache/Genesis/10-2.htm
+2026-02-07 16:39:48,819 - INFO - Successfully scraped 34 translations for Genesis 10:2
+2026-02-07 16:39:48,819 - INFO - Scraping: Genesis 10:3
+2026-02-07 16:39:48,856 - INFO - Saved HTML to cache: html_cache/Genesis/10-3.htm
+2026-02-07 16:39:48,880 - INFO - Successfully scraped 34 translations for Genesis 10:3
+2026-02-07 16:39:48,880 - INFO - Scraping: Genesis 10:4
+2026-02-07 16:39:48,914 - INFO - Saved HTML to cache: html_cache/Genesis/10-4.htm
+2026-02-07 16:39:48,936 - INFO - Successfully scraped 34 translations for Genesis 10:4
+2026-02-07 16:39:48,936 - INFO - Scraping: Genesis 10:5
+2026-02-07 16:39:48,972 - INFO - Saved HTML to cache: html_cache/Genesis/10-5.htm
+2026-02-07 16:39:49,137 - INFO - Successfully scraped 34 translations for Genesis 10:5
+2026-02-07 16:39:49,137 - INFO - Scraping: Genesis 10:6
+2026-02-07 16:39:49,320 - INFO - Saved HTML to cache: html_cache/Genesis/10-6.htm
+2026-02-07 16:39:49,344 - INFO - Successfully scraped 34 translations for Genesis 10:6
+2026-02-07 16:39:49,344 - INFO - Scraping: Genesis 10:7
+2026-02-07 16:39:49,393 - INFO - Saved HTML to cache: html_cache/Genesis/10-7.htm
+2026-02-07 16:39:49,421 - INFO - Successfully scraped 34 translations for Genesis 10:7
+2026-02-07 16:39:49,461 - INFO - Scraping: Genesis 10:8
+2026-02-07 16:39:49,496 - INFO - Saved HTML to cache: html_cache/Genesis/10-8.htm
+2026-02-07 16:39:49,518 - INFO - Successfully scraped 34 translations for Genesis 10:8
+2026-02-07 16:39:49,518 - INFO - Scraping: Genesis 10:9
+2026-02-07 16:39:49,554 - INFO - Saved HTML to cache: html_cache/Genesis/10-9.htm
+2026-02-07 16:39:49,579 - INFO - Successfully scraped 34 translations for Genesis 10:9
+2026-02-07 16:39:49,580 - INFO - Scraping: Genesis 10:10
+2026-02-07 16:39:49,616 - INFO - Saved HTML to cache: html_cache/Genesis/10-10.htm
+2026-02-07 16:39:49,643 - INFO - Successfully scraped 34 translations for Genesis 10:10
+2026-02-07 16:39:49,643 - INFO - Scraping: Genesis 10:11
+2026-02-07 16:39:49,809 - INFO - Saved HTML to cache: html_cache/Genesis/10-11.htm
+2026-02-07 16:39:49,837 - INFO - Successfully scraped 34 translations for Genesis 10:11
+2026-02-07 16:39:49,837 - INFO - Scraping: Genesis 10:12
+2026-02-07 16:39:49,873 - INFO - Saved HTML to cache: html_cache/Genesis/10-12.htm
+2026-02-07 16:39:49,893 - INFO - Successfully scraped 34 translations for Genesis 10:12
+2026-02-07 16:39:49,893 - INFO - Scraping: Genesis 10:13
+2026-02-07 16:39:49,929 - INFO - Saved HTML to cache: html_cache/Genesis/10-13.htm
+2026-02-07 16:39:49,950 - INFO - Successfully scraped 34 translations for Genesis 10:13
+2026-02-07 16:39:49,951 - INFO - Scraping: Genesis 10:14
+2026-02-07 16:39:49,985 - INFO - Saved HTML to cache: html_cache/Genesis/10-14.htm
+2026-02-07 16:39:50,009 - INFO - Successfully scraped 34 translations for Genesis 10:14
+2026-02-07 16:39:50,009 - INFO - Scraping: Genesis 10:15
+2026-02-07 16:39:50,051 - INFO - Saved HTML to cache: html_cache/Genesis/10-15.htm
+2026-02-07 16:39:50,238 - INFO - Successfully scraped 34 translations for Genesis 10:15
+2026-02-07 16:39:50,238 - INFO - Scraping: Genesis 10:16
+2026-02-07 16:39:50,365 - INFO - Saved HTML to cache: html_cache/Genesis/10-16.htm
+2026-02-07 16:39:50,387 - INFO - Successfully scraped 34 translations for Genesis 10:16
+2026-02-07 16:39:50,387 - INFO - Scraping: Genesis 10:17
+2026-02-07 16:39:50,423 - INFO - Saved HTML to cache: html_cache/Genesis/10-17.htm
+2026-02-07 16:39:50,443 - INFO - Successfully scraped 34 translations for Genesis 10:17
+2026-02-07 16:39:50,443 - INFO - Scraping: Genesis 10:18
+2026-02-07 16:39:50,477 - INFO - Saved HTML to cache: html_cache/Genesis/10-18.htm
+2026-02-07 16:39:50,500 - INFO - Successfully scraped 34 translations for Genesis 10:18
+2026-02-07 16:39:50,500 - INFO - Scraping: Genesis 10:19
+2026-02-07 16:39:50,537 - INFO - Saved HTML to cache: html_cache/Genesis/10-19.htm
+2026-02-07 16:39:50,565 - INFO - Successfully scraped 34 translations for Genesis 10:19
+2026-02-07 16:39:50,565 - INFO - Scraping: Genesis 10:20
+2026-02-07 16:39:50,602 - INFO - Saved HTML to cache: html_cache/Genesis/10-20.htm
+2026-02-07 16:39:50,626 - INFO - Successfully scraped 34 translations for Genesis 10:20
+2026-02-07 16:39:50,626 - INFO - Scraping: Genesis 10:21
+2026-02-07 16:39:50,666 - INFO - Saved HTML to cache: html_cache/Genesis/10-21.htm
+2026-02-07 16:39:50,692 - INFO - Successfully scraped 34 translations for Genesis 10:21
+2026-02-07 16:39:50,692 - INFO - Scraping: Genesis 10:22
+2026-02-07 16:39:50,858 - INFO - Saved HTML to cache: html_cache/Genesis/10-22.htm
+2026-02-07 16:39:50,881 - INFO - Successfully scraped 34 translations for Genesis 10:22
+2026-02-07 16:39:50,881 - INFO - Scraping: Genesis 10:23
+2026-02-07 16:39:50,915 - INFO - Saved HTML to cache: html_cache/Genesis/10-23.htm
+2026-02-07 16:39:50,938 - INFO - Successfully scraped 34 translations for Genesis 10:23
+2026-02-07 16:39:50,938 - INFO - Scraping: Genesis 10:24
+2026-02-07 16:39:50,977 - INFO - Saved HTML to cache: html_cache/Genesis/10-24.htm
+2026-02-07 16:39:50,996 - INFO - Successfully scraped 34 translations for Genesis 10:24
+2026-02-07 16:39:51,002 - INFO - Scraping: Genesis 10:25
+2026-02-07 16:39:51,039 - INFO - Saved HTML to cache: html_cache/Genesis/10-25.htm
+2026-02-07 16:39:51,223 - INFO - Successfully scraped 34 translations for Genesis 10:25
+2026-02-07 16:39:51,223 - INFO - Scraping: Genesis 10:26
+2026-02-07 16:39:51,384 - INFO - Saved HTML to cache: html_cache/Genesis/10-26.htm
+2026-02-07 16:39:51,406 - INFO - Successfully scraped 34 translations for Genesis 10:26
+2026-02-07 16:39:51,406 - INFO - Scraping: Genesis 10:27
+2026-02-07 16:39:51,443 - INFO - Saved HTML to cache: html_cache/Genesis/10-27.htm
+2026-02-07 16:39:51,461 - INFO - Successfully scraped 34 translations for Genesis 10:27
+2026-02-07 16:39:51,461 - INFO - Scraping: Genesis 10:28
+2026-02-07 16:39:51,503 - INFO - Saved HTML to cache: html_cache/Genesis/10-28.htm
+2026-02-07 16:39:51,522 - INFO - Successfully scraped 34 translations for Genesis 10:28
+2026-02-07 16:39:51,522 - INFO - Scraping: Genesis 10:29
+2026-02-07 16:39:51,557 - INFO - Saved HTML to cache: html_cache/Genesis/10-29.htm
+2026-02-07 16:39:51,579 - INFO - Successfully scraped 34 translations for Genesis 10:29
+2026-02-07 16:39:51,579 - INFO - Scraping: Genesis 10:30
+2026-02-07 16:39:51,615 - INFO - Saved HTML to cache: html_cache/Genesis/10-30.htm
+2026-02-07 16:39:51,639 - INFO - Successfully scraped 34 translations for Genesis 10:30
+2026-02-07 16:39:51,640 - INFO - Scraping: Genesis 10:31
+2026-02-07 16:39:51,676 - INFO - Saved HTML to cache: html_cache/Genesis/10-31.htm
+2026-02-07 16:39:51,698 - INFO - Successfully scraped 34 translations for Genesis 10:31
+2026-02-07 16:39:51,698 - INFO - Scraping: Genesis 10:32
+2026-02-07 16:39:51,733 - INFO - Saved HTML to cache: html_cache/Genesis/10-32.htm
+2026-02-07 16:39:51,759 - INFO - Successfully scraped 35 translations for Genesis 10:32
+2026-02-07 16:39:51,759 - INFO -   -> Chapter 11 (32 verses)
+2026-02-07 16:39:51,759 - INFO - Scraping: Genesis 11:1
+2026-02-07 16:39:51,939 - INFO - Saved HTML to cache: html_cache/Genesis/11-1.htm
+2026-02-07 16:39:51,960 - INFO - Successfully scraped 35 translations for Genesis 11:1
+2026-02-07 16:39:51,960 - INFO - Scraping: Genesis 11:2
+2026-02-07 16:39:51,998 - INFO - Saved HTML to cache: html_cache/Genesis/11-2.htm
+2026-02-07 16:39:52,026 - INFO - Successfully scraped 35 translations for Genesis 11:2
+2026-02-07 16:39:52,026 - INFO - Scraping: Genesis 11:3
+2026-02-07 16:39:52,061 - INFO - Saved HTML to cache: html_cache/Genesis/11-3.htm
+2026-02-07 16:39:52,228 - INFO - Successfully scraped 34 translations for Genesis 11:3
+2026-02-07 16:39:52,228 - INFO - Scraping: Genesis 11:4
+2026-02-07 16:39:52,429 - INFO - Saved HTML to cache: html_cache/Genesis/11-4.htm
+2026-02-07 16:39:52,459 - INFO - Successfully scraped 34 translations for Genesis 11:4
+2026-02-07 16:39:52,459 - INFO - Scraping: Genesis 11:5
+2026-02-07 16:39:52,496 - INFO - Saved HTML to cache: html_cache/Genesis/11-5.htm
+2026-02-07 16:39:52,518 - INFO - Successfully scraped 35 translations for Genesis 11:5
+2026-02-07 16:39:52,518 - INFO - Scraping: Genesis 11:6
+2026-02-07 16:39:52,554 - INFO - Saved HTML to cache: html_cache/Genesis/11-6.htm
+2026-02-07 16:39:52,586 - INFO - Successfully scraped 35 translations for Genesis 11:6
+2026-02-07 16:39:52,586 - INFO - Scraping: Genesis 11:7
+2026-02-07 16:39:52,623 - INFO - Saved HTML to cache: html_cache/Genesis/11-7.htm
+2026-02-07 16:39:52,651 - INFO - Successfully scraped 35 translations for Genesis 11:7
+2026-02-07 16:39:52,651 - INFO - Scraping: Genesis 11:8
+2026-02-07 16:39:52,687 - INFO - Saved HTML to cache: html_cache/Genesis/11-8.htm
+2026-02-07 16:39:52,710 - INFO - Successfully scraped 34 translations for Genesis 11:8
+2026-02-07 16:39:52,710 - INFO - Scraping: Genesis 11:9
+2026-02-07 16:39:52,799 - INFO - Saved HTML to cache: html_cache/Genesis/11-9.htm
+2026-02-07 16:39:52,894 - INFO - Successfully scraped 34 translations for Genesis 11:9
+2026-02-07 16:39:52,894 - INFO - Scraping: Genesis 11:10
+2026-02-07 16:39:52,990 - INFO - Saved HTML to cache: html_cache/Genesis/11-10.htm
+2026-02-07 16:39:53,018 - INFO - Successfully scraped 34 translations for Genesis 11:10
+2026-02-07 16:39:53,024 - INFO - Scraping: Genesis 11:11
+2026-02-07 16:39:53,063 - INFO - Saved HTML to cache: html_cache/Genesis/11-11.htm
+2026-02-07 16:39:53,086 - INFO - Successfully scraped 34 translations for Genesis 11:11
+2026-02-07 16:39:53,086 - INFO - Scraping: Genesis 11:12
+2026-02-07 16:39:53,124 - INFO - Saved HTML to cache: html_cache/Genesis/11-12.htm
+2026-02-07 16:39:53,181 - INFO - Successfully scraped 35 translations for Genesis 11:12
+2026-02-07 16:39:53,182 - INFO - Scraping: Genesis 11:13
+2026-02-07 16:39:53,240 - INFO - Saved HTML to cache: html_cache/Genesis/11-13.htm
+2026-02-07 16:39:53,505 - INFO - Successfully scraped 35 translations for Genesis 11:13
+2026-02-07 16:39:53,505 - INFO - Scraping: Genesis 11:14
+2026-02-07 16:39:53,544 - INFO - Saved HTML to cache: html_cache/Genesis/11-14.htm
+2026-02-07 16:39:53,570 - INFO - Successfully scraped 35 translations for Genesis 11:14
+2026-02-07 16:39:53,570 - INFO - Scraping: Genesis 11:15
+2026-02-07 16:39:53,606 - INFO - Saved HTML to cache: html_cache/Genesis/11-15.htm
+2026-02-07 16:39:53,629 - INFO - Successfully scraped 35 translations for Genesis 11:15
+2026-02-07 16:39:53,629 - INFO - Scraping: Genesis 11:16
+2026-02-07 16:39:53,666 - INFO - Saved HTML to cache: html_cache/Genesis/11-16.htm
+2026-02-07 16:39:53,686 - INFO - Successfully scraped 35 translations for Genesis 11:16
+2026-02-07 16:39:53,686 - INFO - Scraping: Genesis 11:17
+2026-02-07 16:39:53,731 - INFO - Saved HTML to cache: html_cache/Genesis/11-17.htm
+2026-02-07 16:39:53,754 - INFO - Successfully scraped 35 translations for Genesis 11:17
+2026-02-07 16:39:53,754 - INFO - Scraping: Genesis 11:18
+2026-02-07 16:39:53,792 - INFO - Saved HTML to cache: html_cache/Genesis/11-18.htm
+2026-02-07 16:39:53,812 - INFO - Successfully scraped 35 translations for Genesis 11:18
+2026-02-07 16:39:53,815 - INFO - Scraping: Genesis 11:19
+2026-02-07 16:39:54,004 - INFO - Saved HTML to cache: html_cache/Genesis/11-19.htm
+2026-02-07 16:39:54,026 - INFO - Successfully scraped 35 translations for Genesis 11:19
+2026-02-07 16:39:54,030 - INFO - Scraping: Genesis 11:20
+2026-02-07 16:39:54,067 - INFO - Saved HTML to cache: html_cache/Genesis/11-20.htm
+2026-02-07 16:39:54,086 - INFO - Successfully scraped 35 translations for Genesis 11:20
+2026-02-07 16:39:54,087 - INFO - Scraping: Genesis 11:21
+2026-02-07 16:39:54,121 - INFO - Saved HTML to cache: html_cache/Genesis/11-21.htm
+2026-02-07 16:39:54,143 - INFO - Successfully scraped 35 translations for Genesis 11:21
+2026-02-07 16:39:54,144 - INFO - Scraping: Genesis 11:22
+2026-02-07 16:39:54,178 - INFO - Saved HTML to cache: html_cache/Genesis/11-22.htm
+2026-02-07 16:39:54,198 - INFO - Successfully scraped 35 translations for Genesis 11:22
+2026-02-07 16:39:54,198 - INFO - Scraping: Genesis 11:23
+2026-02-07 16:39:54,232 - INFO - Saved HTML to cache: html_cache/Genesis/11-23.htm
+2026-02-07 16:39:54,384 - INFO - Successfully scraped 35 translations for Genesis 11:23
+2026-02-07 16:39:54,384 - INFO - Scraping: Genesis 11:24
+2026-02-07 16:39:54,562 - INFO - Saved HTML to cache: html_cache/Genesis/11-24.htm
+2026-02-07 16:39:54,584 - INFO - Successfully scraped 35 translations for Genesis 11:24
+2026-02-07 16:39:54,584 - INFO - Scraping: Genesis 11:25
+2026-02-07 16:39:54,624 - INFO - Saved HTML to cache: html_cache/Genesis/11-25.htm
+2026-02-07 16:39:54,645 - INFO - Successfully scraped 35 translations for Genesis 11:25
+2026-02-07 16:39:54,645 - INFO - Scraping: Genesis 11:26
+2026-02-07 16:39:54,680 - INFO - Saved HTML to cache: html_cache/Genesis/11-26.htm
+2026-02-07 16:39:54,703 - INFO - Successfully scraped 34 translations for Genesis 11:26
+2026-02-07 16:39:54,703 - INFO - Scraping: Genesis 11:27
+2026-02-07 16:39:54,745 - INFO - Saved HTML to cache: html_cache/Genesis/11-27.htm
+2026-02-07 16:39:54,772 - INFO - Successfully scraped 34 translations for Genesis 11:27
+2026-02-07 16:39:54,772 - INFO - Scraping: Genesis 11:28
+2026-02-07 16:39:54,809 - INFO - Saved HTML to cache: html_cache/Genesis/11-28.htm
+2026-02-07 16:39:54,834 - INFO - Successfully scraped 34 translations for Genesis 11:28
+2026-02-07 16:39:54,834 - INFO - Scraping: Genesis 11:29
+2026-02-07 16:39:54,870 - INFO - Saved HTML to cache: html_cache/Genesis/11-29.htm
+2026-02-07 16:39:54,899 - INFO - Successfully scraped 34 translations for Genesis 11:29
+2026-02-07 16:39:54,899 - INFO - Scraping: Genesis 11:30
+2026-02-07 16:39:55,086 - INFO - Saved HTML to cache: html_cache/Genesis/11-30.htm
+2026-02-07 16:39:55,106 - INFO - Successfully scraped 34 translations for Genesis 11:30
+2026-02-07 16:39:55,106 - INFO - Scraping: Genesis 11:31
+2026-02-07 16:39:55,173 - INFO - Saved HTML to cache: html_cache/Genesis/11-31.htm
+2026-02-07 16:39:55,209 - INFO - Successfully scraped 35 translations for Genesis 11:31
+2026-02-07 16:39:55,209 - INFO - Scraping: Genesis 11:32
+2026-02-07 16:39:55,250 - INFO - Saved HTML to cache: html_cache/Genesis/11-32.htm
+2026-02-07 16:39:55,270 - INFO - Successfully scraped 35 translations for Genesis 11:32
+2026-02-07 16:39:55,270 - INFO -   -> Chapter 12 (20 verses)
+2026-02-07 16:39:55,270 - INFO - Scraping: Genesis 12:1
+2026-02-07 16:39:55,339 - INFO - Saved HTML to cache: html_cache/Genesis/12-1.htm
+2026-02-07 16:39:55,501 - INFO - Successfully scraped 35 translations for Genesis 12:1
+2026-02-07 16:39:55,501 - INFO - Progress: 300/31102 (1.0%)
+2026-02-07 16:39:55,501 - INFO - Scraping: Genesis 12:2
+2026-02-07 16:39:55,635 - INFO - Saved HTML to cache: html_cache/Genesis/12-2.htm
+2026-02-07 16:39:55,660 - INFO - Successfully scraped 35 translations for Genesis 12:2
+2026-02-07 16:39:55,660 - INFO - Scraping: Genesis 12:3
+2026-02-07 16:39:55,696 - INFO - Saved HTML to cache: html_cache/Genesis/12-3.htm
+2026-02-07 16:39:55,719 - INFO - Successfully scraped 35 translations for Genesis 12:3
+2026-02-07 16:39:55,719 - INFO - Scraping: Genesis 12:4
+2026-02-07 16:39:55,758 - INFO - Saved HTML to cache: html_cache/Genesis/12-4.htm
+2026-02-07 16:39:55,786 - INFO - Successfully scraped 34 translations for Genesis 12:4
+2026-02-07 16:39:55,786 - INFO - Scraping: Genesis 12:5
+2026-02-07 16:39:55,920 - INFO - Saved HTML to cache: html_cache/Genesis/12-5.htm
+2026-02-07 16:39:55,949 - INFO - Successfully scraped 34 translations for Genesis 12:5
+2026-02-07 16:39:55,949 - INFO - Scraping: Genesis 12:6
+2026-02-07 16:39:56,135 - INFO - Saved HTML to cache: html_cache/Genesis/12-6.htm
+2026-02-07 16:39:56,162 - INFO - Successfully scraped 35 translations for Genesis 12:6
+2026-02-07 16:39:56,162 - INFO - Scraping: Genesis 12:7
+2026-02-07 16:39:56,202 - INFO - Saved HTML to cache: html_cache/Genesis/12-7.htm
+2026-02-07 16:39:56,234 - INFO - Successfully scraped 35 translations for Genesis 12:7
+2026-02-07 16:39:56,237 - INFO - Scraping: Genesis 12:8
+2026-02-07 16:39:56,274 - INFO - Saved HTML to cache: html_cache/Genesis/12-8.htm
+2026-02-07 16:39:56,322 - INFO - Successfully scraped 35 translations for Genesis 12:8
+2026-02-07 16:39:56,322 - INFO - Scraping: Genesis 12:9
+2026-02-07 16:39:56,358 - INFO - Saved HTML to cache: html_cache/Genesis/12-9.htm
+2026-02-07 16:39:56,379 - INFO - Successfully scraped 35 translations for Genesis 12:9
+2026-02-07 16:39:56,379 - INFO - Scraping: Genesis 12:10
+2026-02-07 16:39:56,416 - INFO - Saved HTML to cache: html_cache/Genesis/12-10.htm
+2026-02-07 16:39:56,442 - INFO - Successfully scraped 34 translations for Genesis 12:10
+2026-02-07 16:39:56,442 - INFO - Scraping: Genesis 12:11
+2026-02-07 16:39:56,625 - INFO - Saved HTML to cache: html_cache/Genesis/12-11.htm
+2026-02-07 16:39:56,785 - INFO - Successfully scraped 34 translations for Genesis 12:11
+2026-02-07 16:39:56,785 - INFO - Scraping: Genesis 12:12
+2026-02-07 16:39:56,822 - INFO - Saved HTML to cache: html_cache/Genesis/12-12.htm
+2026-02-07 16:39:56,847 - INFO - Successfully scraped 35 translations for Genesis 12:12
+2026-02-07 16:39:56,847 - INFO - Scraping: Genesis 12:13
+2026-02-07 16:39:56,883 - INFO - Saved HTML to cache: html_cache/Genesis/12-13.htm
+2026-02-07 16:39:56,910 - INFO - Successfully scraped 35 translations for Genesis 12:13
+2026-02-07 16:39:56,910 - INFO - Scraping: Genesis 12:14
+2026-02-07 16:39:56,944 - INFO - Saved HTML to cache: html_cache/Genesis/12-14.htm
+2026-02-07 16:39:56,968 - INFO - Successfully scraped 35 translations for Genesis 12:14
+2026-02-07 16:39:56,968 - INFO - Scraping: Genesis 12:15
+2026-02-07 16:39:57,149 - INFO - Saved HTML to cache: html_cache/Genesis/12-15.htm
+2026-02-07 16:39:57,174 - INFO - Successfully scraped 35 translations for Genesis 12:15
+2026-02-07 16:39:57,174 - INFO - Scraping: Genesis 12:16
+2026-02-07 16:39:57,212 - INFO - Saved HTML to cache: html_cache/Genesis/12-16.htm
+2026-02-07 16:39:57,241 - INFO - Successfully scraped 35 translations for Genesis 12:16
+2026-02-07 16:39:57,241 - INFO - Scraping: Genesis 12:17
+2026-02-07 16:39:57,277 - INFO - Saved HTML to cache: html_cache/Genesis/12-17.htm
+2026-02-07 16:39:57,300 - INFO - Successfully scraped 35 translations for Genesis 12:17
+2026-02-07 16:39:57,300 - INFO - Scraping: Genesis 12:18
+2026-02-07 16:39:57,334 - INFO - Saved HTML to cache: html_cache/Genesis/12-18.htm
+2026-02-07 16:39:57,361 - INFO - Successfully scraped 35 translations for Genesis 12:18
+2026-02-07 16:39:57,361 - INFO - Scraping: Genesis 12:19
+2026-02-07 16:39:57,397 - INFO - Saved HTML to cache: html_cache/Genesis/12-19.htm
+2026-02-07 16:39:57,421 - INFO - Successfully scraped 35 translations for Genesis 12:19
+2026-02-07 16:39:57,421 - INFO - Scraping: Genesis 12:20
+2026-02-07 16:39:57,454 - INFO - Saved HTML to cache: html_cache/Genesis/12-20.htm
+2026-02-07 16:39:57,481 - INFO - Successfully scraped 35 translations for Genesis 12:20
+2026-02-07 16:39:57,481 - INFO -   -> Chapter 13 (18 verses)
+2026-02-07 16:39:57,481 - INFO - Scraping: Genesis 13:1
+2026-02-07 16:39:57,519 - INFO - Saved HTML to cache: html_cache/Genesis/13-1.htm
+2026-02-07 16:39:57,676 - INFO - Successfully scraped 35 translations for Genesis 13:1
+2026-02-07 16:39:57,676 - INFO - Scraping: Genesis 13:2
+2026-02-07 16:39:57,711 - INFO - Saved HTML to cache: html_cache/Genesis/13-2.htm
+2026-02-07 16:39:57,731 - INFO - Successfully scraped 35 translations for Genesis 13:2
+2026-02-07 16:39:57,731 - INFO - Scraping: Genesis 13:3
+2026-02-07 16:39:57,765 - INFO - Saved HTML to cache: html_cache/Genesis/13-3.htm
+2026-02-07 16:39:57,791 - INFO - Successfully scraped 35 translations for Genesis 13:3
+2026-02-07 16:39:57,791 - INFO - Scraping: Genesis 13:4
+2026-02-07 16:39:57,827 - INFO - Saved HTML to cache: html_cache/Genesis/13-4.htm
+2026-02-07 16:39:57,852 - INFO - Successfully scraped 35 translations for Genesis 13:4
+2026-02-07 16:39:57,852 - INFO - Scraping: Genesis 13:5
+2026-02-07 16:39:57,888 - INFO - Saved HTML to cache: html_cache/Genesis/13-5.htm
+2026-02-07 16:39:57,911 - INFO - Successfully scraped 35 translations for Genesis 13:5
+2026-02-07 16:39:57,911 - INFO - Scraping: Genesis 13:6
+2026-02-07 16:39:57,947 - INFO - Saved HTML to cache: html_cache/Genesis/13-6.htm
+2026-02-07 16:39:57,971 - INFO - Successfully scraped 34 translations for Genesis 13:6
+2026-02-07 16:39:57,971 - INFO - Scraping: Genesis 13:7
+2026-02-07 16:39:58,007 - INFO - Saved HTML to cache: html_cache/Genesis/13-7.htm
+2026-02-07 16:39:58,034 - INFO - Successfully scraped 34 translations for Genesis 13:7
+2026-02-07 16:39:58,034 - INFO - Scraping: Genesis 13:8
+2026-02-07 16:39:58,198 - INFO - Saved HTML to cache: html_cache/Genesis/13-8.htm
+2026-02-07 16:39:58,228 - INFO - Successfully scraped 35 translations for Genesis 13:8
+2026-02-07 16:39:58,228 - INFO - Scraping: Genesis 13:9
+2026-02-07 16:39:58,266 - INFO - Saved HTML to cache: html_cache/Genesis/13-9.htm
+2026-02-07 16:39:58,294 - INFO - Successfully scraped 35 translations for Genesis 13:9
+2026-02-07 16:39:58,294 - INFO - Scraping: Genesis 13:10
+2026-02-07 16:39:58,365 - INFO - Saved HTML to cache: html_cache/Genesis/13-10.htm
+2026-02-07 16:39:58,396 - INFO - Successfully scraped 35 translations for Genesis 13:10
+2026-02-07 16:39:58,396 - INFO - Scraping: Genesis 13:11
+2026-02-07 16:39:58,432 - INFO - Saved HTML to cache: html_cache/Genesis/13-11.htm
