@@ -48,21 +48,15 @@ def main():
             skipped_count += 1
             continue
         
-        # If already uppercase, skip (no change needed)
-        if filename == new_name:
-            print(f"OK: {filename} (already uppercase)")
-            renamed_count += 1
-            continue
-        
         # Get relative paths from git root
         rel_old = file_path.relative_to(project_root)
         rel_new = new_path.relative_to(project_root)
-        temp_name = f"temp_{file_path.stem}_{id(file_path)}.json"
-        rel_temp = versions_en_dir.relative_to(project_root) / temp_name
+        rel_temp = versions_en_dir.relative_to(project_root) / "temp.json"
         
         try:
-            # Two-step rename for case-insensitive filesystems
+            # Two-step rename for case-insensitive filesystems with commits
             # Step 1: Rename to temporary file
+            print(f"Step 1: Renaming {filename} to temp.json...")
             result1 = subprocess.run(
                 ['git', 'mv', str(rel_old), str(rel_temp)],
                 cwd=str(project_root),
@@ -71,7 +65,18 @@ def main():
                 check=True
             )
             
+            # Commit the temp rename
+            result_commit1 = subprocess.run(
+                ['git', 'commit', '-m', 'Temp rename to force case change'],
+                cwd=str(project_root),
+                capture_output=True,
+                text=True,
+                check=True
+            )
+            print(f"  Committed temp rename")
+            
             # Step 2: Rename from temp to uppercase
+            print(f"Step 2: Renaming temp.json to {new_name}...")
             result2 = subprocess.run(
                 ['git', 'mv', str(rel_temp), str(rel_new)],
                 cwd=str(project_root),
@@ -79,6 +84,16 @@ def main():
                 text=True,
                 check=True
             )
+            
+            # Commit the final rename
+            result_commit2 = subprocess.run(
+                ['git', 'commit', '-m', 'Rename file to uppercase'],
+                cwd=str(project_root),
+                capture_output=True,
+                text=True,
+                check=True
+            )
+            print(f"  Committed final rename")
             
             print(f"RENAMED: {filename} -> {new_name}")
             renamed_count += 1
