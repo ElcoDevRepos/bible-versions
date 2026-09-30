@@ -99,3 +99,6 @@ Pull requests are welcome! If you’d like to:
 
 Data was collected and structured to make Scripture easier to study, compare, and use in digital projects.
 Special thanks to open Bible resources and the developer community for keeping these texts accessible.
+## Licensing
+
+Only public-domain translations are published here. Copyrighted translations (NIV, ESV, NKJV, NLT, NASB, CSB, AMP, NRSV, LBLA and others) were removed on 2026-09-30 and must not be added back without a license from their publisher. The Scripted app enforces the same list in `src/services/translationPolicy.ts`.
